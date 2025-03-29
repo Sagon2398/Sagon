@@ -2377,3 +2377,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Mar2025 23:26:12.297] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/13394, l='ServerLevel[world]', x=-1834.52, y=62.00, z=-169.57] died, message: 'Unemployed was slain by Zombie'
 [29Mar2025 23:26:18.702] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/13393, l='ServerLevel[world]', x=-1834.73, y=62.00, z=-167.40] died, message: 'Unemployed was slain by Zombie'
 [29Mar2025 23:26:19.796] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/13392, l='ServerLevel[world]', x=-1835.39, y=62.00, z=-169.33] died, message: 'Unemployed was slain by Zombie Villager'
+[29Mar2025 23:47:08.773] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lobo3224[/127.228.127.219:42323] logged in with entity id 31412 at (-1877.699999988079, 65.0, -164.3015439395988)
+[29Mar2025 23:47:08.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 joined the game
+[29Mar2025 23:47:08.845] [Server thread/INFO] [Jade/]: Syncing config to lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc)
+[29Mar2025 23:47:11.938] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lobo3224 (18)
+[29Mar2025 23:47:11.938] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lobo3224
+[29Mar2025 23:47:23.912] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[29Mar2025 23:47:24.952] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[29Mar2025 23:47:24.953] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc) successfully connected to voice chat
+[29Mar2025 23:49:35.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Made list a server operator]

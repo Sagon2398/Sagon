@@ -4887,6 +4887,24 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/white_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-03-29 23:43:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/cyan_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-03-29 23:43:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/magenta_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-03-29 23:43:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_blinds": {
     "criteria": {
       "has_log": "2025-03-29 21:05:34 +0000"
@@ -4905,9 +4923,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/purple_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-03-29 23:43:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-03-29 22:16:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/lime_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-03-29 23:43:44 +0000"
     },
     "done": true
   },
@@ -4920,6 +4950,12 @@
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_compass": "2025-03-29 23:21:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/blue_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-03-29 23:43:44 +0000"
     },
     "done": true
   },
@@ -4941,9 +4977,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/red_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-03-29 23:43:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_upgraded_fence": {
     "criteria": {
       "has_log": "2025-03-29 21:05:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/gray_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-03-29 23:43:44 +0000"
     },
     "done": true
   },
@@ -4959,6 +5007,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/green_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-03-29 23:43:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-03-29 22:16:18 +0000"
@@ -4968,6 +5022,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-03-29 22:16:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_picket_fence": {
+    "criteria": {
+      "has_concrete": "2025-03-29 23:43:44 +0000"
     },
     "done": true
   },
@@ -4998,6 +5058,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-03-29 22:16:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/yellow_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-03-29 23:43:44 +0000"
     },
     "done": true
   },
@@ -5061,9 +5127,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/pink_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-03-29 23:43:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-03-29 23:43:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-03-29 23:43:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_white_wool": {
     "criteria": {
       "has_needed_dye": "2025-03-29 23:38:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/orange_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-03-29 23:43:44 +0000"
     },
     "done": true
   },
@@ -5100,6 +5190,18 @@
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_white_dye": "2025-03-29 23:38:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_blue_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-03-29 23:43:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-03-29 23:43:44 +0000"
     },
     "done": true
   },
