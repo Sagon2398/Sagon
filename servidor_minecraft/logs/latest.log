@@ -2177,3 +2177,18 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Mar2025 21:28:26.646] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/4386, l='ServerLevel[world]', x=-1932.70, y=65.56, z=-167.76] died, message: 'Fisherman went up in flames'
 [29Mar2025 21:28:48.546] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Dinnerbone'/4389, l='ServerLevel[world]', x=-1935.52, y=64.94, z=-168.44] died: Dinnerbone went up in flames
 [29Mar2025 21:39:11.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Voluntary Exile]
+[29Mar2025 22:02:37.040] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[29Mar2025 22:02:37.041] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 108
+}
+[29Mar2025 22:02:37.041] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[29Mar2025 22:02:37.042] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "]5?0}X+<7#O;*Wh304fU\\"
+]
+[29Mar2025 22:03:04.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A player is required to run this command here
+[29Mar2025 22:05:11.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Santix15's game mode to Creative Mode
+[29Mar2025 22:10:12.585] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/15823, l='ServerLevel[world]', x=-1932.34, y=65.00, z=-167.91] died, message: 'Fisherman was slain by Santix15'
+[29Mar2025 22:10:13.891] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/15837, l='ServerLevel[world]', x=-1933.15, y=65.56, z=-167.62] died, message: 'Fisherman was slain by Santix15'
+[29Mar2025 22:10:21.034] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/15835, l='ServerLevel[world]', x=-1934.46, y=65.56, z=-169.15] died, message: 'Fisherman was slain by Santix15'
