@@ -2371,3 +2371,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [
   "-\"1>F-S`>OsIM`-3043?V8OS%"
 ]
+[29Mar2025 23:19:15.705] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1832, y=72, z=-147} BlockPos{x=-1833, y=70, z=-147}
+[29Mar2025 23:19:15.759] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1832, y=72, z=-147} BlockPos{x=-1833, y=70, z=-147}
+[29Mar2025 23:19:15.780] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1832, y=72, z=-147} BlockPos{x=-1833, y=70, z=-147}
