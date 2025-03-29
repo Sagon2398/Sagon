@@ -2192,3 +2192,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Mar2025 22:10:12.585] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/15823, l='ServerLevel[world]', x=-1932.34, y=65.00, z=-167.91] died, message: 'Fisherman was slain by Santix15'
 [29Mar2025 22:10:13.891] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/15837, l='ServerLevel[world]', x=-1933.15, y=65.56, z=-167.62] died, message: 'Fisherman was slain by Santix15'
 [29Mar2025 22:10:21.034] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/15835, l='ServerLevel[world]', x=-1934.46, y=65.56, z=-169.15] died, message: 'Fisherman was slain by Santix15'
+[29Mar2025 22:11:09.647] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/16340, l='ServerLevel[world]', x=-1932.44, y=65.00, z=-168.80] died, message: 'Fisherman was killed by Santix15 using magic'
+[29Mar2025 22:13:40.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 13000
+[29Mar2025 22:16:18.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Diamonds!]
+[29Mar2025 22:17:34.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Santix15's game mode to Survival Mode
+[29Mar2025 22:18:40.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The difficulty has been set to Hard
