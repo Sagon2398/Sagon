@@ -476,6 +476,7 @@
       "minecraft:spider": "2025-03-22 03:54:32 +0000",
       "minecraft:creeper": "2025-03-29 21:37:11 +0000",
       "minecraft:zombified_piglin": "2025-03-25 01:28:13 +0000",
+      "minecraft:witch": "2025-03-29 23:36:38 +0000",
       "minecraft:husk": "2025-03-22 04:15:37 +0000",
       "minecraft:enderman": "2025-03-28 22:48:18 +0000",
       "minecraft:zombie": "2025-03-22 03:54:16 +0000",
@@ -4922,6 +4923,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2025-03-29 23:38:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-03-29 22:16:18 +0000"
@@ -4937,6 +4944,12 @@
   "cfm:recipes/decorations/stripped_spruce_upgraded_fence": {
     "criteria": {
       "has_log": "2025-03-29 21:05:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-03-29 23:38:23 +0000"
     },
     "done": true
   },
@@ -4988,9 +5001,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2025-03-29 23:38:23 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/hot_cocoa": {
     "criteria": {
       "has_any_ingredient": "2025-03-29 21:44:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-03-29 23:38:23 +0000"
     },
     "done": true
   },
@@ -5012,6 +5037,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-03-29 23:38:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-03-29 23:38:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-03-29 22:15:57 +0000"
@@ -5021,6 +5058,18 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-03-29 22:16:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-03-29 23:38:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-03-29 23:38:23 +0000"
     },
     "done": true
   },
@@ -5036,9 +5085,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2025-03-29 23:38:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-03-29 22:16:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-03-29 23:38:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-03-29 23:38:23 +0000"
     },
     "done": true
   },
