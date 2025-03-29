@@ -471,8 +471,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-03-29 21:39:11 +0000",
       "minecraft:skeleton": "2025-03-22 03:57:37 +0000",
       "minecraft:spider": "2025-03-22 03:54:32 +0000",
+      "minecraft:creeper": "2025-03-29 21:37:11 +0000",
       "minecraft:zombified_piglin": "2025-03-25 01:28:13 +0000",
       "minecraft:husk": "2025-03-22 04:15:37 +0000",
       "minecraft:enderman": "2025-03-28 22:48:18 +0000",
@@ -4863,6 +4865,12 @@
   "cfm:recipes/decorations/stripped_spruce_blinds": {
     "criteria": {
       "has_log": "2025-03-29 21:05:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-03-29 21:39:11 +0000"
     },
     "done": true
   },

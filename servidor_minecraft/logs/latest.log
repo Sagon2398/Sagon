@@ -2176,3 +2176,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Mar2025 21:28:17.096] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/4387, l='ServerLevel[world]', x=-1932.30, y=65.39, z=-168.31] died, message: 'Fisherman burned to death'
 [29Mar2025 21:28:26.646] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/4386, l='ServerLevel[world]', x=-1932.70, y=65.56, z=-167.76] died, message: 'Fisherman went up in flames'
 [29Mar2025 21:28:48.546] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Dinnerbone'/4389, l='ServerLevel[world]', x=-1935.52, y=64.94, z=-168.44] died: Dinnerbone went up in flames
+[29Mar2025 21:39:11.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Voluntary Exile]
