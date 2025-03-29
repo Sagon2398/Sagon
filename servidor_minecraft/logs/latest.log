@@ -2108,3 +2108,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
   "<partial numeric data>",
   "[-1, 44, -116, -29, 39, 84, 103, -87, 41, 111, 49]"
 ]
+[29Mar2025 19:40:48.864] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santix15[/127.193.11.42:51083] logged in with entity id 2912 at (-1874.1706951717654, 65.0, -190.81666656617816)
+[29Mar2025 19:40:48.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 joined the game
+[29Mar2025 19:40:48.915] [Server thread/INFO] [Jade/]: Syncing config to Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae)
+[29Mar2025 19:40:51.657] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santix15 (18)
+[29Mar2025 19:40:51.658] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[29Mar2025 19:41:01.133] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[29Mar2025 19:41:02.143] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[29Mar2025 19:41:02.144] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
+[29Mar2025 19:42:43.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> gonciiiii
+[29Mar2025 19:43:03.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> Santi
+[29Mar2025 19:43:27.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> hable señor
+[29Mar2025 19:44:37.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> yo me voy
