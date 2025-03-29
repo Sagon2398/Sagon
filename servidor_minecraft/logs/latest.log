@@ -2374,3 +2374,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Mar2025 23:19:15.705] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1832, y=72, z=-147} BlockPos{x=-1833, y=70, z=-147}
 [29Mar2025 23:19:15.759] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1832, y=72, z=-147} BlockPos{x=-1833, y=70, z=-147}
 [29Mar2025 23:19:15.780] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1832, y=72, z=-147} BlockPos{x=-1833, y=70, z=-147}
+[29Mar2025 23:26:12.297] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/13394, l='ServerLevel[world]', x=-1834.52, y=62.00, z=-169.57] died, message: 'Unemployed was slain by Zombie'
+[29Mar2025 23:26:18.702] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/13393, l='ServerLevel[world]', x=-1834.73, y=62.00, z=-167.40] died, message: 'Unemployed was slain by Zombie'
+[29Mar2025 23:26:19.796] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/13392, l='ServerLevel[world]', x=-1835.39, y=62.00, z=-169.33] died, message: 'Unemployed was slain by Zombie Villager'
