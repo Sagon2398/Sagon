@@ -2170,3 +2170,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Mar2025 21:01:44.160] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
 [29Mar2025 21:01:45.160] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
 [29Mar2025 21:01:45.160] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
+[29Mar2025 21:22:17.299] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1864, y=65, z=-185} BlockPos{x=-1864, y=63, z=-187}
+[29Mar2025 21:24:47.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 moved too quickly! -9.950447389316878,1.252203340253729,0.9166072641693574
+[29Mar2025 21:28:06.995] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/4391, l='ServerLevel[world]', x=-1933.54, y=65.56, z=-167.56] died, message: 'Fisherman burned to death'
+[29Mar2025 21:28:17.096] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/4387, l='ServerLevel[world]', x=-1932.30, y=65.39, z=-168.31] died, message: 'Fisherman burned to death'
+[29Mar2025 21:28:26.646] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/4386, l='ServerLevel[world]', x=-1932.70, y=65.56, z=-167.76] died, message: 'Fisherman went up in flames'
+[29Mar2025 21:28:48.546] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Dinnerbone'/4389, l='ServerLevel[world]', x=-1935.52, y=64.94, z=-168.44] died: Dinnerbone went up in flames
