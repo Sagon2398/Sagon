@@ -703,6 +703,7 @@
       "pumpkin_pie": "2025-03-22 04:12:55 +0000",
       "mutton": "2025-03-22 04:01:01 +0000",
       "bread": "2025-03-22 04:26:20 +0000",
+      "golden_apple": "2025-03-30 00:15:28 +0000",
       "rotten_flesh": "2025-03-22 03:32:40 +0000",
       "suspicious_stew": "2025-03-24 04:39:31 +0000",
       "cookie": "2025-03-25 01:09:59 +0000",
@@ -5309,6 +5310,42 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-03-29 00:46:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-03-30 00:17:10 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-03-30 00:17:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-30 00:13:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-03-30 00:13:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-03-30 00:13:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-03-30 00:13:27 +0000"
     },
     "done": true
   },
