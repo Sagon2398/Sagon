@@ -53,6 +53,7 @@
       "minecraft:forest": "2025-03-23 04:40:05 +0000",
       "minecraft:lush_caves": "2025-03-24 00:27:06 +0000",
       "minecraft:desert": "2025-03-22 03:35:52 +0000",
+      "minecraft:ocean": "2025-03-30 03:57:02 +0000",
       "minecraft:windswept_savanna": "2025-03-22 04:28:44 +0000",
       "minecraft:flower_forest": "2025-03-27 04:39:00 +0000",
       "minecraft:frozen_peaks": "2025-03-24 05:11:35 +0000",
@@ -5511,6 +5512,12 @@
   "netherexp:nether/ssv_sub_biomes": {
     "criteria": {
       "netherexp:black_ice_glaciers": "2025-03-30 03:11:24 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2025-03-30 03:56:36 +0000"
     },
     "done": true
   },
