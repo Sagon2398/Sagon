@@ -2768,3 +2768,11 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [30Mar2025 20:21:22.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Teleported Nacho_cgod to Santix15]
 [30Mar2025 20:22:33.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has made the advancement [Monster Hunter]
 [30Mar2025 20:29:03.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has made the advancement [What a Deal!]
+[30Mar2025 20:41:27.843] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lobo3224[/127.228.127.219:33927] logged in with entity id 8433 at (-1873.925000011921, 65.0, -183.7279437789188)
+[30Mar2025 20:41:27.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 joined the game
+[30Mar2025 20:41:27.918] [Server thread/INFO] [Jade/]: Syncing config to lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc)
+[30Mar2025 20:41:31.158] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lobo3224 (18)
+[30Mar2025 20:41:31.158] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lobo3224
+[30Mar2025 20:41:43.876] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[30Mar2025 20:41:44.911] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[30Mar2025 20:41:44.912] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc) successfully connected to voice chat
