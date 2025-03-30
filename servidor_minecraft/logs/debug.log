@@ -8863,3 +8863,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Mar2025 03:26:40.477] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1851, y=68, z=-157} BlockPos{x=-1849, y=67, z=-157}
 [30Mar2025 03:29:44.173] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Mar2025 03:29:44.183] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Mar2025 03:34:44.171] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Mar2025 03:34:44.182] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Mar2025 03:35:30.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> que se hace de desayuno Thor una.....
+[30Mar2025 03:35:41.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> una tortilla
+[30Mar2025 03:36:06.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> nueva comida mexicana y yo me........
+[30Mar2025 03:36:53.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> nueva comida mexicana y yo me........
+[30Mar2025 03:37:27.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> nueva comida mexicana y yo me........
+[30Mar2025 03:38:18.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> debes probar una perraa
+[30Mar2025 03:38:41.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> hacemur
+[30Mar2025 03:39:33.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> muy bieeeeeen
+[30Mar2025 03:39:44.173] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Mar2025 03:39:44.184] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Mar2025 03:41:29.872] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:arrow_volley 1: [1f8cbd0f-e34f-3631-ad78-ab523f2938ae]
+[30Mar2025 03:43:15.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> 1000 pesos no es un caga....
