@@ -1064,3 +1064,18 @@
 [30Mar2025 06:13:47.797] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 lost connection: Disconnected
 [30Mar2025 06:13:47.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 left the game
 [30Mar2025 06:13:47.797] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lobo3224
+[30Mar2025 06:22:29.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Santix15 a server operator
+[30Mar2025 06:23:44.717] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element irons_spellbooks:pyromancer_tower took 0 ms
+[30Mar2025 06:24:03.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Set own game mode to Creative Mode]
+[30Mar2025 06:24:06.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Teleported Santix15 to -2479.500000, 68.000000, -1039.500000]
+[30Mar2025 06:24:13.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Set own game mode to Spectator Mode]
+[30Mar2025 06:24:25.595] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element irons_spellbooks:pyromancer_tower took 0 ms
+[30Mar2025 06:25:32.935] [Worker-Main-173/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Mar2025 06:25:32.936] [Worker-Main-173/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Mar2025 06:25:32.949] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element irons_spellbooks:pyromancer_tower took 215 ms
+[30Mar2025 06:25:42.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Teleported Santix15 to -3871.500000, 80.385160, -2511.500000]
+[30Mar2025 06:25:42.536] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5645ms or 112 ticks behind
+[30Mar2025 06:25:55.405] [Worker-Main-299/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[30Mar2025 06:25:55.479] [Worker-Main-299/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[30Mar2025 06:25:55.626] [Worker-Main-299/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[30Mar2025 06:25:55.651] [Worker-Main-299/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
