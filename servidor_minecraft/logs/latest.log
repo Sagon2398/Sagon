@@ -144,3 +144,24 @@
 ]
 [30Mar2025 00:17:16.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Tools of the Trade]
 [30Mar2025 00:20:19.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has reached the goal [Quaint Scribe]
+[30Mar2025 00:24:42.850] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 was kicked for floating too long!
+[30Mar2025 00:24:42.899] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 lost connection: Flying is not enabled on this server
+[30Mar2025 00:24:42.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 left the game
+[30Mar2025 00:24:42.899] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lobo3224
+[30Mar2025 00:24:44.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Tools of the Trade]
+[30Mar2025 00:25:47.003] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5276165d[id=<null>,name=lobo3224,properties={},legacy=false] (/127.228.127.219:54789) lost connection: Disconnected
+[30Mar2025 00:25:56.810] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lobo3224[/127.228.127.219:42647] logged in with entity id 39554 at (-1139.011987608489, 89.2690518306913, 190.61701579137562)
+[30Mar2025 00:25:56.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 joined the game
+[30Mar2025 00:25:56.866] [Server thread/INFO] [Jade/]: Syncing config to lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc)
+[30Mar2025 00:25:57.569] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lobo3224 (18)
+[30Mar2025 00:25:57.569] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lobo3224
+[30Mar2025 00:26:01.842] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[30Mar2025 00:26:02.844] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[30Mar2025 00:26:02.844] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc) successfully connected to voice chat
+[30Mar2025 00:26:05.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was doomed to fall by Archevoker
+[30Mar2025 00:28:26.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> te va a piolar
+[30Mar2025 00:28:26.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> snti
+[30Mar2025 00:28:31.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> veni
+[30Mar2025 00:28:41.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> hace ponemos el waipon
+[30Mar2025 00:28:41.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> ya agarré todo lo agarrable
+[30Mar2025 00:30:10.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was shot by Pillager

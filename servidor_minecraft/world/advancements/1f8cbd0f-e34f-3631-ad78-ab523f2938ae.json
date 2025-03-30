@@ -5273,6 +5273,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-03-30 00:24:44 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/misc/skeleton_skull_candle": {
     "criteria": {
       "has_item": "2025-03-30 00:17:33 +0000"
@@ -5291,9 +5297,21 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-03-30 00:20:19 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_dark_oak_cabinet": {
     "criteria": {
       "has_log": "2025-03-30 00:16:59 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-03-30 00:20:19 +0000"
     },
     "done": true
   },
@@ -5438,6 +5456,12 @@
   "cfm:recipes/decorations/dark_oak_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-03-30 00:15:28 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-03-30 00:20:19 +0000"
     },
     "done": true
   },
