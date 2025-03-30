@@ -8444,3 +8444,11 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
 	... 28 more
+[30Mar2025 23:46:45.870] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santix15[/127.193.11.42:41395] logged in with entity id 37303 at (-1877.0918503813864, 69.0, -192.28572807858353)
+[30Mar2025 23:46:45.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 joined the game
+[30Mar2025 23:46:45.885] [Server thread/INFO] [Jade/]: Syncing config to Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae)
+[30Mar2025 23:46:46.238] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santix15 (18)
+[30Mar2025 23:46:46.239] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[30Mar2025 23:46:49.603] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[30Mar2025 23:46:50.607] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[30Mar2025 23:46:50.607] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
