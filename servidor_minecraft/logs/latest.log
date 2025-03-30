@@ -2789,3 +2789,4 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [30Mar2025 20:45:46.441] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
 [30Mar2025 20:45:46.442] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
 [30Mar2025 20:48:05.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has made the advancement [Cover Me with Diamonds]
+[30Mar2025 20:58:29.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> R
