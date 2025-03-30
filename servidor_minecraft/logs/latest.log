@@ -2794,3 +2794,16 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [30Mar2025 21:10:06.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has completed the challenge [It's Purple!]
 [30Mar2025 21:13:32.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 cooked in Santix15's fiery field
 [30Mar2025 21:13:39.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> <JAJAAJ
+[30Mar2025 21:16:10.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> xd
+[30Mar2025 21:21:54.060] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nacho_cgod lost connection: Disconnected
+[30Mar2025 21:21:54.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod left the game
+[30Mar2025 21:21:54.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod fell from a high place
+[30Mar2025 21:21:54.066] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nacho_cgod
+[30Mar2025 21:21:59.968] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nacho_cgod[/127.222.49.101:56671] logged in with entity id 17322 at (-1844.3089457892675, 63.0, -210.81948836595814)
+[30Mar2025 21:21:59.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod joined the game
+[30Mar2025 21:22:00.001] [Server thread/INFO] [Jade/]: Syncing config to Nacho_cgod (53e7374b-5e04-335c-acba-f45d6acb5e7c)
+[30Mar2025 21:22:00.217] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nacho_cgod (18)
+[30Mar2025 21:22:00.217] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nacho_cgod
+[30Mar2025 21:22:03.252] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 53e7374b-5e04-335c-acba-f45d6acb5e7c
+[30Mar2025 21:22:04.248] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 53e7374b-5e04-335c-acba-f45d6acb5e7c
+[30Mar2025 21:22:04.248] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nacho_cgod (53e7374b-5e04-335c-acba-f45d6acb5e7c) successfully connected to voice chat
