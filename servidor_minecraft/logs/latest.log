@@ -4690,3 +4690,6 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 [30Mar2025 22:02:35.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> gonci?
 [30Mar2025 22:04:18.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Sneak 100]
 [30Mar2025 22:04:34.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> Gonci? =(
+[30Mar2025 22:05:11.758] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 lost connection: Disconnected
+[30Mar2025 22:05:11.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 left the game
+[30Mar2025 22:05:11.758] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lobo3224
