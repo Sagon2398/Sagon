@@ -5761,6 +5761,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-03-30 04:52:21 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/stove": {
     "criteria": {
       "has_campfire": "2025-03-30 04:22:41 +0000"
