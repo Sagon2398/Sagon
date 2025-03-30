@@ -507,3 +507,23 @@
 [30Mar2025 02:11:01.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Spectator Mode]
 [30Mar2025 02:11:42.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Survival Mode]
 [30Mar2025 02:12:12.849] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:bastion_remnant took 0 ms
+[30Mar2025 02:13:15.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has reached the goal [Non-renewable? Yeah, right..]
+[30Mar2025 02:13:28.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was slain by Apparition
+[30Mar2025 02:13:42.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Creative Mode]
+[30Mar2025 02:13:44.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Teleported lobo3224 to 109.500000, 67.500000, 104.500000]
+[30Mar2025 02:13:51.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Survival Mode]
+[30Mar2025 02:15:31.541] [Worker-Main-244/INFO] [ModernFix/]: Instantiating Mojang DFU
+[30Mar2025 02:16:28.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Those Were the Days]
+[30Mar2025 02:17:24.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Spectator Mode]
+[30Mar2025 02:17:37.923] [Worker-Main-249/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/64475, l='ServerLevel[world]', x=540.00, y=31.00, z=192.90] as it would cause deadlock
+[30Mar2025 02:18:07.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Creative Mode]
+[30Mar2025 02:19:05.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Survival Mode]
+[30Mar2025 02:21:05.614] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santix15[/127.193.11.42:41071] logged in with entity id 65314 at (-1874.6918312254063, 65.0, -191.34790835584369)
+[30Mar2025 02:21:05.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 joined the game
+[30Mar2025 02:21:05.667] [Server thread/INFO] [Jade/]: Syncing config to Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae)
+[30Mar2025 02:21:06.480] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santix15 (18)
+[30Mar2025 02:21:06.481] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[30Mar2025 02:21:09.317] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[30Mar2025 02:21:10.257] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[30Mar2025 02:21:10.257] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
+[30Mar2025 02:21:28.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> Gonciiiiiiiiiii!
