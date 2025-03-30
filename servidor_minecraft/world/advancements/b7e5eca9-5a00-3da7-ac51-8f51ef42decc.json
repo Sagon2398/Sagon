@@ -59,6 +59,7 @@
       "minecraft:flower_forest": "2025-03-27 04:39:00 +0000",
       "minecraft:frozen_peaks": "2025-03-24 05:11:35 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-24 00:25:18 +0000",
+      "minecraft:deep_dark": "2025-03-30 22:03:48 +0000",
       "minecraft:meadow": "2025-03-23 22:16:32 +0000",
       "minecraft:savanna": "2025-03-20 00:29:17 +0000",
       "minecraft:plains": "2025-03-22 04:46:05 +0000"
@@ -6246,6 +6247,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-03-30 05:51:53 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/enter_catacombs": {
+    "criteria": {
+      "in_catacombs": "2025-03-30 22:02:23 +0000"
     },
     "done": true
   },

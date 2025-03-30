@@ -4684,3 +4684,9 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 	... 28 more
 [30Mar2025 21:43:33.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> hay lluvia nevada
 [30Mar2025 21:43:43.614] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[30Mar2025 21:57:17.400] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element irons_spellbooks:mangrove_hut took 87 ms
+[30Mar2025 21:57:28.910] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element irons_spellbooks:catacombs took 3 ms
+[30Mar2025 22:02:23.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Dungeon Delving]
+[30Mar2025 22:02:35.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> gonci?
+[30Mar2025 22:04:18.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Sneak 100]
+[30Mar2025 22:04:34.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> Gonci? =(
