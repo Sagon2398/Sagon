@@ -5836,6 +5836,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dye_light_blue_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-03-30 02:55:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_blue_dye": "2025-03-30 02:27:09 +0000"
@@ -5854,9 +5860,39 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dye_light_blue_picket_fence": {
+    "criteria": {
+      "has_dye": "2025-03-30 02:55:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-03-30 03:19:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-03-30 03:19:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_ice_from_freezing": {
+    "criteria": {
+      "has_packed_ice": "2025-03-30 03:19:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_blue_wool": {
     "criteria": {
       "has_needed_dye": "2025-03-30 02:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-03-30 02:55:21 +0000"
     },
     "done": true
   },
@@ -5869,6 +5905,24 @@
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_blue_dye": "2025-03-30 02:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-03-30 02:55:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/packed_ice_from_freezing": {
+    "criteria": {
+      "has_ice": "2025-03-30 03:19:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-03-30 02:55:21 +0000"
     },
     "done": true
   },
@@ -5887,6 +5941,12 @@
   "cfm:recipes/decorations/dye_blue_picket_fence": {
     "criteria": {
       "has_dye": "2025-03-30 02:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_candle": {
+    "criteria": {
+      "has_light_blue_dye": "2025-03-30 02:55:21 +0000"
     },
     "done": true
   },

@@ -8793,3 +8793,65 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Mar2025 02:44:44.182] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Mar2025 02:49:44.168] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Mar2025 02:49:44.177] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Mar2025 02:54:44.174] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Mar2025 02:54:44.195] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Mar2025 02:59:44.169] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Mar2025 02:59:44.178] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Mar2025 03:01:43.266] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:arrow_volley 1: [8f6dccf6-6763-4e13-8bdc-6a0d000e544c]
+[30Mar2025 03:03:57.834] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:arrow_volley 1: [1f8cbd0f-e34f-3631-ad78-ab523f2938ae]
+[30Mar2025 03:04:44.168] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Mar2025 03:04:44.177] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Mar2025 03:08:25.503] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[30Mar2025 03:08:25.514] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-1899, y=65, z=-156} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[30Mar2025 03:08:25.514] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-1899, y=65, z=-156} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[30Mar2025 03:09:02.851] [Worker-Main-173/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-35, 2], pos: BlockPos{x=-545, y=87, z=45}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / netherexp:soul_sand_valley/black_ice_glaciers/large_black_ice]
+[30Mar2025 03:09:44.174] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Mar2025 03:09:44.185] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Mar2025 03:11:12.150] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[30Mar2025 03:11:24.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has reached the goal [The Fright Before Xmas]
+[30Mar2025 03:11:31.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> wtf
+[30Mar2025 03:11:38.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> uuuuuuuyuyuuyuyyuy6uuh8yu8druhgubabra
+[30Mar2025 03:11:38.060] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Santix15: {disabled=true, disconnected=false, uuid=1f8cbd0f-e34f-3631-ad78-ab523f2938ae, name=Santix15, group=null}
+[30Mar2025 03:11:49.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> un nether con nieve
+[30Mar2025 03:11:52.915] [Worker-Main-244/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/76227, l='ServerLevel[world]', x=-719.10, y=31.00, z=-158.00] as it would cause deadlock
+[30Mar2025 03:12:22.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Fetch Me Their Souls!]
+[30Mar2025 03:12:35.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> eso debe de estar como acá en verano otoño
+[30Mar2025 03:13:00.302] [Worker-Main-231/DEBUG] [ModernFix/]: Structure cataclysm:burning_arena1 is being run through DFU (hash 1639040beee09f9270c31ac18907488c49bd397a20e3cf2e438ddeeeb2a4b5dc), this will cause launch time delays
+[30Mar2025 03:13:00.723] [Worker-Main-231/DEBUG] [ModernFix/]: Structure cataclysm:burning_arena2 is being run through DFU (hash 3619c39a998b48ce06040cb5b2cd343bf9ebb514c9578b21882ce044438e23c0), this will cause launch time delays
+[30Mar2025 03:13:01.057] [Worker-Main-231/DEBUG] [ModernFix/]: Structure cataclysm:burning_arena3 is being run through DFU (hash 86c0909e2efdb6293e471f96d6a14904efe4cb59b0c7d84784c34ba3ae92ce61), this will cause launch time delays
+[30Mar2025 03:13:01.219] [Worker-Main-231/DEBUG] [ModernFix/]: Structure cataclysm:burning_arena4 is being run through DFU (hash 19fb2fa64aba37fa7dce14e6f4d54e3546f3efb7b8bb2e4fe7f6973f9aebc221), this will cause launch time delays
+[30Mar2025 03:13:01.372] [Worker-Main-231/DEBUG] [ModernFix/]: Structure cataclysm:burning_arena5 is being run through DFU (hash 8fcc215c44a596a3ba2d8c554756d778b07bbbe23d17eccf3248d6e29a726b99), this will cause launch time delays
+[30Mar2025 03:13:01.534] [Worker-Main-231/DEBUG] [ModernFix/]: Structure cataclysm:burning_arena6 is being run through DFU (hash 9384404d650a6664a7cb9870face813a55ea722abd34dd69732d681c50690141), this will cause launch time delays
+[30Mar2025 03:13:01.672] [Worker-Main-231/DEBUG] [ModernFix/]: Structure cataclysm:burning_arena7 is being run through DFU (hash 9870666c6e554ecb0ab1c818a2fe78f966bfcfbb665a5dae552e96f4ec572290), this will cause launch time delays
+[30Mar2025 03:13:01.798] [Worker-Main-231/DEBUG] [ModernFix/]: Structure cataclysm:burning_arena8 is being run through DFU (hash 1ef7866efb08c91acd64618129097e5b9b7ab7232a4984a255eb435ee18b0cda), this will cause launch time delays
+[30Mar2025 03:14:00.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has completed the challenge [Hot Tourist Destinations]
+[30Mar2025 03:14:07.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> Uwu
+[30Mar2025 03:14:44.181] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Mar2025 03:14:44.192] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Mar2025 03:17:54.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> gonciiiiii
+[30Mar2025 03:17:59.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> que
+[30Mar2025 03:18:05.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> si repara la armadura =)
+[30Mar2025 03:18:56.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Santix15's game mode to Creative Mode
+[30Mar2025 03:19:08.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> voy a probar una cosa
+[30Mar2025 03:19:09.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> Santi
+[30Mar2025 03:19:44.176] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Mar2025 03:19:44.186] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Mar2025 03:19:56.110] [Worker-Main-245/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/79524, l='ServerLevel[world]', x=-1010.00, y=31.00, z=-169.00] as it would cause deadlock
+[30Mar2025 03:19:56.327] [Worker-Main-306/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/79531, l='ServerLevel[world]', x=-1021.00, y=31.00, z=-292.00] as it would cause deadlock
+[30Mar2025 03:20:01.976] [Worker-Main-173/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/79586, l='ServerLevel[world]', x=-1051.00, y=31.00, z=-63.00] as it would cause deadlock
+[30Mar2025 03:20:07.770] [Worker-Main-223/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/79616, l='ServerLevel[world]', x=-1073.00, y=31.00, z=-98.00] as it would cause deadlock
+[30Mar2025 03:20:07.771] [Worker-Main-223/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/79618, l='ServerLevel[world]', x=-1074.00, y=31.00, z=-101.00] as it would cause deadlock
+[30Mar2025 03:20:24.461] [Worker-Main-300/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/79693, l='ServerLevel[world]', x=-866.00, y=31.00, z=-471.00] as it would cause deadlock
+[30Mar2025 03:20:26.003] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:20:33.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Santix15's game mode to Survival Mode
+[30Mar2025 03:20:40.440] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Santix15: {disabled=false, disconnected=false, uuid=1f8cbd0f-e34f-3631-ad78-ab523f2938ae, name=Santix15, group=null}
+[30Mar2025 03:20:42.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> jefe mano
+[30Mar2025 03:20:49.309] [Worker-Main-299/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/79868, l='ServerLevel[world]', x=-1122.00, y=31.00, z=-379.00] as it would cause deadlock
+[30Mar2025 03:20:49.623] [Worker-Main-223/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/79887, l='ServerLevel[world]', x=-1127.00, y=31.00, z=-323.00] as it would cause deadlock
+[30Mar2025 03:21:04.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> Gonciiiii
+[30Mar2025 03:21:08.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> invasioooon
+[30Mar2025 03:21:15.623] [Worker-Main-243/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/80119, l='ServerLevel[world]', x=-854.00, y=31.00, z=-510.00] as it would cause deadlock
+[30Mar2025 03:21:18.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> illagers en la aldea
+[30Mar2025 03:21:21.592] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because I'm not in a portal.
+[30Mar2025 03:21:23.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> aaaaaaaaa
+[30Mar2025 03:23:22.207] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:arrow_volley 1: [9873645e-7ad5-4ff4-a005-07405d09fc39]

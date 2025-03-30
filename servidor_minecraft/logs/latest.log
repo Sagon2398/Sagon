@@ -532,3 +532,36 @@
 [30Mar2025 02:36:38.148] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1864, y=68, z=-156} BlockPos{x=-1865, y=67, z=-156}
 [30Mar2025 02:36:38.786] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1863, y=69, z=-156} BlockPos{x=-1863, y=67, z=-154}
 [30Mar2025 02:36:41.613] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1867, y=69, z=-153} BlockPos{x=-1867, y=67, z=-151}
+[30Mar2025 03:08:25.503] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[30Mar2025 03:09:02.851] [Worker-Main-173/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-35, 2], pos: BlockPos{x=-545, y=87, z=45}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / netherexp:soul_sand_valley/black_ice_glaciers/large_black_ice]
+[30Mar2025 03:11:24.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has reached the goal [The Fright Before Xmas]
+[30Mar2025 03:11:31.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> wtf
+[30Mar2025 03:11:38.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> uuuuuuuyuyuuyuyyuy6uuh8yu8druhgubabra
+[30Mar2025 03:11:49.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> un nether con nieve
+[30Mar2025 03:11:52.915] [Worker-Main-244/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/76227, l='ServerLevel[world]', x=-719.10, y=31.00, z=-158.00] as it would cause deadlock
+[30Mar2025 03:12:22.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Fetch Me Their Souls!]
+[30Mar2025 03:12:35.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> eso debe de estar como acá en verano otoño
+[30Mar2025 03:14:00.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has completed the challenge [Hot Tourist Destinations]
+[30Mar2025 03:14:07.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> Uwu
+[30Mar2025 03:17:54.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> gonciiiiii
+[30Mar2025 03:17:59.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> que
+[30Mar2025 03:18:05.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> si repara la armadura =)
+[30Mar2025 03:18:56.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Santix15's game mode to Creative Mode
+[30Mar2025 03:19:08.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> voy a probar una cosa
+[30Mar2025 03:19:09.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> Santi
+[30Mar2025 03:19:56.110] [Worker-Main-245/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/79524, l='ServerLevel[world]', x=-1010.00, y=31.00, z=-169.00] as it would cause deadlock
+[30Mar2025 03:19:56.327] [Worker-Main-306/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/79531, l='ServerLevel[world]', x=-1021.00, y=31.00, z=-292.00] as it would cause deadlock
+[30Mar2025 03:20:01.976] [Worker-Main-173/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/79586, l='ServerLevel[world]', x=-1051.00, y=31.00, z=-63.00] as it would cause deadlock
+[30Mar2025 03:20:07.770] [Worker-Main-223/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/79616, l='ServerLevel[world]', x=-1073.00, y=31.00, z=-98.00] as it would cause deadlock
+[30Mar2025 03:20:07.771] [Worker-Main-223/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/79618, l='ServerLevel[world]', x=-1074.00, y=31.00, z=-101.00] as it would cause deadlock
+[30Mar2025 03:20:24.461] [Worker-Main-300/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/79693, l='ServerLevel[world]', x=-866.00, y=31.00, z=-471.00] as it would cause deadlock
+[30Mar2025 03:20:26.003] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:20:33.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Santix15's game mode to Survival Mode
+[30Mar2025 03:20:42.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> jefe mano
+[30Mar2025 03:20:49.309] [Worker-Main-299/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/79868, l='ServerLevel[world]', x=-1122.00, y=31.00, z=-379.00] as it would cause deadlock
+[30Mar2025 03:20:49.623] [Worker-Main-223/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/79887, l='ServerLevel[world]', x=-1127.00, y=31.00, z=-323.00] as it would cause deadlock
+[30Mar2025 03:21:04.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> Gonciiiii
+[30Mar2025 03:21:08.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> invasioooon
+[30Mar2025 03:21:15.623] [Worker-Main-243/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/80119, l='ServerLevel[world]', x=-854.00, y=31.00, z=-510.00] as it would cause deadlock
+[30Mar2025 03:21:18.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> illagers en la aldea
+[30Mar2025 03:21:23.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> aaaaaaaaa
