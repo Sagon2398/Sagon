@@ -11687,3 +11687,9 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 [30Mar2025 22:29:12.233] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Mar2025 22:34:12.224] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Mar2025 22:34:12.234] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Mar2025 22:37:23.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Set own game mode to Creative Mode]
+[30Mar2025 22:37:37.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Set own game mode to Survival Mode]
+[30Mar2025 22:39:12.225] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Mar2025 22:39:12.235] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Mar2025 22:44:12.223] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Mar2025 22:44:12.233] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
