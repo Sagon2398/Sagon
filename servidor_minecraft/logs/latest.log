@@ -1079,3 +1079,129 @@
 [30Mar2025 06:25:55.479] [Worker-Main-299/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
 [30Mar2025 06:25:55.626] [Worker-Main-299/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
 [30Mar2025 06:25:55.651] [Worker-Main-299/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[30Mar2025 06:26:02.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Set own game mode to Survival Mode]
+[30Mar2025 06:26:18.683] [Worker-Main-306/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-552, y=-53, z=-758}
+[30Mar2025 06:26:18.684] [Worker-Main-306/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-549, y=-53, z=-757}
+[30Mar2025 06:26:18.684] [Worker-Main-306/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-554, y=-53, z=-756}
+[30Mar2025 06:26:18.689] [Worker-Main-306/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-58, z=-503}
+[30Mar2025 06:26:21.859] [Worker-Main-248/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-558, y=-53, z=-753}
+[30Mar2025 06:26:21.859] [Worker-Main-248/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-553, y=-52, z=-751}
+[30Mar2025 06:26:21.860] [Worker-Main-248/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-551, y=-52, z=-750}
+[30Mar2025 06:26:21.860] [Worker-Main-248/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-551, y=-52, z=-751}
+[30Mar2025 06:26:21.860] [Worker-Main-248/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-552, y=-52, z=-749}
+[30Mar2025 06:26:21.860] [Worker-Main-248/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-553, y=-52, z=-750}
+[30Mar2025 06:26:21.860] [Worker-Main-248/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-552, y=-52, z=-752}
+[30Mar2025 06:26:21.860] [Worker-Main-248/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-553, y=-54, z=-749}
+[30Mar2025 06:26:21.860] [Worker-Main-248/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-552, y=-53, z=-751}
+[30Mar2025 06:26:21.860] [Worker-Main-248/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-552, y=-53, z=-750}
+[30Mar2025 06:26:21.861] [Worker-Main-248/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-553, y=-54, z=-750}
+[30Mar2025 06:26:21.861] [Worker-Main-248/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-551, y=-54, z=-750}
+[30Mar2025 06:26:21.861] [Worker-Main-248/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-552, y=-54, z=-749}
+[30Mar2025 06:26:21.861] [Worker-Main-248/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-557, y=-53, z=-750}
+[30Mar2025 06:26:21.861] [Worker-Main-248/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-552, y=-53, z=-748}
+[30Mar2025 06:26:25.034] [Worker-Main-345/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-546, y=-53, z=-753}
+[30Mar2025 06:26:25.034] [Worker-Main-345/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-546, y=-53, z=-749}
+[30Mar2025 06:26:25.034] [Worker-Main-345/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-547, y=-53, z=-751}
+[30Mar2025 06:26:25.034] [Worker-Main-345/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-545, y=-53, z=-752}
+[30Mar2025 06:26:25.041] [Worker-Main-345/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-552}
+[30Mar2025 06:26:25.041] [Worker-Main-345/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-51, z=-552}
+[30Mar2025 06:26:28.851] [Worker-Main-245/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-497}
+[30Mar2025 06:26:28.852] [Worker-Main-245/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-350, y=-58, z=-499}
+[30Mar2025 06:26:28.852] [Worker-Main-245/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-499}
+[30Mar2025 06:26:28.852] [Worker-Main-245/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-497}
+[30Mar2025 06:26:32.007] [Worker-Main-344/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-422, y=-52, z=-391}
+[30Mar2025 06:26:32.263] [Worker-Main-242/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-418}
+[30Mar2025 06:26:32.263] [Worker-Main-242/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-407}
+[30Mar2025 06:26:32.263] [Worker-Main-242/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-409}
+[30Mar2025 06:26:32.264] [Worker-Main-242/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-394, y=-52, z=-409}
+[30Mar2025 06:26:32.264] [Worker-Main-242/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-393, y=-52, z=-408}
+[30Mar2025 06:26:32.264] [Worker-Main-242/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-395, y=-52, z=-416}
+[30Mar2025 06:26:32.315] [Worker-Main-242/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-394}
+[30Mar2025 06:26:32.337] [Worker-Main-242/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-393, y=-52, z=-400}
+[30Mar2025 06:26:39.600] [Worker-Main-248/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-432, y=-52, z=-404}
+[30Mar2025 06:26:39.600] [Worker-Main-248/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-432, y=-52, z=-402}
+[30Mar2025 06:26:39.630] [Worker-Main-300/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-404, y=-52, z=-397}
+[30Mar2025 06:26:39.631] [Worker-Main-300/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-399, y=-52, z=-395}
+[30Mar2025 06:26:39.631] [Worker-Main-300/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=-56, z=-571}
+[30Mar2025 06:26:39.639] [Worker-Main-300/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-323, y=-57, z=-753}
+[30Mar2025 06:26:39.639] [Worker-Main-300/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-323, y=-56, z=-754}
+[30Mar2025 06:26:39.639] [Worker-Main-300/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-322, y=-56, z=-753}
+[30Mar2025 06:26:39.639] [Worker-Main-300/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-322, y=-56, z=-755}
+[30Mar2025 06:26:39.639] [Worker-Main-300/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-323, y=-57, z=-751}
+[30Mar2025 06:26:39.639] [Worker-Main-300/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-322, y=-55, z=-752}
+[30Mar2025 06:26:39.664] [Worker-Main-300/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-427, y=-52, z=-408}
+[30Mar2025 06:26:39.664] [Worker-Main-300/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-428, y=-52, z=-407}
+[30Mar2025 06:26:39.664] [Worker-Main-300/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-429, y=-52, z=-408}
+[30Mar2025 06:26:39.664] [Worker-Main-300/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-428, y=-52, z=-409}
+[30Mar2025 06:26:39.665] [Worker-Main-300/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-58, z=-503}
+[30Mar2025 06:26:39.699] [Worker-Main-300/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-407}
+[30Mar2025 06:26:39.699] [Worker-Main-300/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-409}
+[30Mar2025 06:26:39.699] [Worker-Main-300/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-394, y=-52, z=-409}
+[30Mar2025 06:26:39.699] [Worker-Main-300/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-393, y=-52, z=-408}
+[30Mar2025 06:26:39.699] [Worker-Main-300/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-393, y=-52, z=-400}
+[30Mar2025 06:26:39.884] [Worker-Main-242/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-404, y=-52, z=-397}
+[30Mar2025 06:26:39.884] [Worker-Main-242/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-399, y=-52, z=-395}
+[30Mar2025 06:26:39.885] [Worker-Main-242/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-394}
+[30Mar2025 06:26:39.887] [Worker-Main-242/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-58, z=-503}
+[30Mar2025 06:26:39.905] [Worker-Main-242/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[30Mar2025 06:26:40.120] [Worker-Main-249/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[30Mar2025 06:26:40.120] [Worker-Main-249/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-407, y=-57, z=-497}
+[30Mar2025 06:26:40.120] [Worker-Main-249/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-406, y=-57, z=-496}
+[30Mar2025 06:26:40.128] [Worker-Main-249/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=-57, z=-593}
+[30Mar2025 06:26:40.135] [Worker-Main-249/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[30Mar2025 06:26:40.139] [Worker-Main-249/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-278, y=-53, z=-786}
+[30Mar2025 06:26:40.139] [Worker-Main-249/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-278, y=-58, z=-785}
+[30Mar2025 06:26:40.139] [Worker-Main-249/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-278, y=-58, z=-787}
+[30Mar2025 06:26:40.142] [Worker-Main-249/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-51, z=-611}
+[30Mar2025 06:26:40.142] [Worker-Main-249/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-50, z=-610}
+[30Mar2025 06:26:40.146] [Worker-Main-249/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-51, z=-611}
+[30Mar2025 06:26:40.146] [Worker-Main-249/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-50, z=-610}
+[30Mar2025 06:26:40.146] [Worker-Main-249/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[30Mar2025 06:26:40.172] [Worker-Main-231/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-52, z=-425}
+[30Mar2025 06:26:40.172] [Worker-Main-231/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-410, y=-52, z=-426}
+[30Mar2025 06:26:40.172] [Worker-Main-231/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-414, y=-52, z=-427}
+[30Mar2025 06:26:40.173] [Worker-Main-231/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-422}
+[30Mar2025 06:26:40.182] [Worker-Main-231/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-359, y=-58, z=-502}
+[30Mar2025 06:26:40.472] [Worker-Main-223/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-247, y=-58, z=-588}
+[30Mar2025 06:26:44.111] [Worker-Main-243/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=-51, z=-548}
+[30Mar2025 06:26:44.111] [Worker-Main-243/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-54, z=-542}
+[30Mar2025 06:26:44.111] [Worker-Main-243/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-53, z=-542}
+[30Mar2025 06:26:44.118] [Worker-Main-243/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-323, y=-57, z=-753}
+[30Mar2025 06:26:44.118] [Worker-Main-243/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-323, y=-56, z=-754}
+[30Mar2025 06:26:44.118] [Worker-Main-243/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-322, y=-56, z=-753}
+[30Mar2025 06:26:44.118] [Worker-Main-243/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-322, y=-56, z=-755}
+[30Mar2025 06:26:44.118] [Worker-Main-243/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-323, y=-57, z=-751}
+[30Mar2025 06:26:44.118] [Worker-Main-243/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-322, y=-55, z=-752}
+[30Mar2025 06:26:48.018] [Worker-Main-249/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-418}
+[30Mar2025 06:26:48.018] [Worker-Main-249/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-395, y=-52, z=-416}
+[30Mar2025 06:26:48.054] [Worker-Main-249/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-52, z=-419}
+[30Mar2025 06:26:48.054] [Worker-Main-249/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-424, y=-52, z=-422}
+[30Mar2025 06:26:48.092] [Worker-Main-249/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-52, z=-425}
+[30Mar2025 06:26:48.092] [Worker-Main-249/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-410, y=-52, z=-426}
+[30Mar2025 06:26:48.092] [Worker-Main-249/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-422}
+[30Mar2025 06:26:48.092] [Worker-Main-249/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-359, y=-58, z=-502}
+[30Mar2025 06:26:48.133] [Worker-Main-173/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-424, y=-52, z=-422}
+[30Mar2025 06:26:48.182] [Worker-Main-344/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-52, z=-419}
+[30Mar2025 06:26:48.183] [Worker-Main-344/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-427, y=-52, z=-408}
+[30Mar2025 06:26:48.183] [Worker-Main-344/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-428, y=-52, z=-407}
+[30Mar2025 06:26:48.183] [Worker-Main-344/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-429, y=-52, z=-408}
+[30Mar2025 06:26:48.183] [Worker-Main-344/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-428, y=-52, z=-409}
+[30Mar2025 06:26:48.207] [Worker-Main-344/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-350, y=-58, z=-499}
+[30Mar2025 06:26:48.207] [Worker-Main-344/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-499}
+[30Mar2025 06:26:48.208] [Worker-Main-344/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=-58, z=-499}
+[30Mar2025 06:26:48.212] [Worker-Main-344/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-53, z=-786}
+[30Mar2025 06:26:48.213] [Worker-Main-344/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-58, z=-787}
+[30Mar2025 06:26:48.213] [Worker-Main-344/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-58, z=-785}
+[30Mar2025 06:26:48.217] [Worker-Main-344/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=-57, z=-567}
+[30Mar2025 06:26:48.242] [Worker-Main-345/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-422, y=-52, z=-391}
+[30Mar2025 06:27:08.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Into Fire]
+[30Mar2025 06:27:50.361] [Worker-Main-248/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-221, y=-52, z=-702}
+[30Mar2025 06:27:50.371] [Worker-Main-248/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-51, z=-611}
+[30Mar2025 06:27:50.371] [Worker-Main-248/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-50, z=-610}
+[30Mar2025 06:28:33.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 cooked in Pyromancer's fiery field
+[30Mar2025 06:28:45.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Set own game mode to Spectator Mode]
+[30Mar2025 06:28:48.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Teleported Santix15 to -3871.500000, 66.000000, -2511.500000]
+[30Mar2025 06:29:01.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Set own game mode to Survival Mode]
+[30Mar2025 06:30:00.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Set own game mode to Creative Mode]
+[30Mar2025 06:31:03.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has completed the challenge [Premium!]
+[30Mar2025 06:34:29.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Set own game mode to Survival Mode]
