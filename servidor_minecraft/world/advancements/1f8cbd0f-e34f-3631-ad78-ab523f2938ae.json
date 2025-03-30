@@ -5957,33 +5957,39 @@
     },
     "done": true
   },
-  "farmersdelight:main/place_cooking_pot": {
+  "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
-      "cooking_pot": "2025-03-30 07:52:47 +0000"
+      "has_oxeye_daisy": "2025-03-30 04:05:20 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/egg_sandwich": {
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
-      "has_fried_egg": "2025-03-30 08:00:58 +0000"
+      "has_oxeye_daisy": "2025-03-30 04:05:20 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+  "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
-      "has_smooth_quartz": "2025-03-30 07:43:45 +0000"
+      "has_brick": "2025-03-30 04:08:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+  "farmersdelight:recipes/decorations/skillet": {
     "criteria": {
-      "has_smooth_quartz": "2025-03-30 07:43:45 +0000"
+      "has_brick": "2025-03-30 04:08:58 +0000"
     },
     "done": true
   },
-  "farmersdelight:main/place_skillet": {
+  "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
-      "skillet": "2025-03-30 07:51:45 +0000"
+      "has_brick": "2025-03-30 04:08:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-03-30 04:08:58 +0000"
     },
     "done": true
   },
@@ -5993,21 +5999,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_slab": {
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
     "criteria": {
-      "has_quartz_block": "2025-03-30 07:42:44 +0000"
+      "has_copper_ore": "2025-03-30 04:10:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2025-03-30 04:16:27 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_heavenly_rider": {
+    "criteria": {
+      "location0": "2025-03-30 04:36:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-03-30 04:52:10 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:suns_blessing": {
+    "criteria": {
+      "get_suns_blessing": "2025-03-30 05:00:42 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-03-30 05:00:42 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:sneak_grove": {
+    "criteria": {
+      "steal_crystal": "2025-03-30 05:00:42 +0000"
     },
     "done": true
   },
   "mowziesmobs:kill_ferrous_wroughtnaut": {
     "criteria": {
       "ferrous_wroughtnaut": "2025-03-30 05:12:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_bricks": {
-    "criteria": {
-      "has_quartz_block": "2025-03-30 07:42:44 +0000"
     },
     "done": true
   },
@@ -6023,45 +6059,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2025-03-30 05:54:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bricks": {
-    "criteria": {
-      "has_brick": "2025-03-30 04:08:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/yellow_candle": {
     "criteria": {
       "has_yellow_dye": "2025-03-30 05:34:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-03-30 06:27:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/beehive": {
-    "criteria": {
-      "has_honeycomb": "2025-03-30 05:58:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2025-03-30 05:54:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-03-30 07:42:44 +0000"
     },
     "done": true
   },
@@ -6071,201 +6071,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_pillar": {
-    "criteria": {
-      "has_quartz_block": "2025-03-30 07:42:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/wax_on": {
-    "criteria": {
-      "wax_on": "2025-03-30 06:04:32 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_heavenly_rider": {
-    "criteria": {
-      "location0": "2025-03-30 04:36:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-03-30 07:42:44 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/squid_ink_pasta": {
-    "criteria": {
-      "has_any_ingredient": "2025-03-30 07:18:43 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/skillet": {
-    "criteria": {
-      "has_brick": "2025-03-30 04:08:58 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "sugar_cane": "2025-03-30 04:16:27 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/dye_black_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-03-30 07:20:16 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/dye_gray_picket_fence": {
-    "criteria": {
-      "has_dye": "2025-03-30 07:20:27 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/dye_black_picket_gate": {
-    "criteria": {
-      "has_dye": "2025-03-30 07:20:16 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/dye_black_picket_fence": {
-    "criteria": {
-      "has_dye": "2025-03-30 07:20:16 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/dye_gray_picket_gate": {
-    "criteria": {
-      "has_dye": "2025-03-30 07:20:27 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/ink_legendary": {
-    "criteria": {
-      "requirement": "2025-03-30 06:31:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_candle": {
-    "criteria": {
-      "has_gray_dye": "2025-03-30 07:20:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
-    "criteria": {
-      "has_smooth_quartz": "2025-03-30 07:43:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_allium": {
-    "criteria": {
-      "has_allium": "2025-03-30 06:20:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/decorated_pot_simple": {
-    "criteria": {
-      "has_brick": "2025-03-30 04:08:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/flower_banner_pattern": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-03-30 04:05:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_stairs": {
-    "criteria": {
-      "has_quartz_block": "2025-03-30 07:42:44 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/spruce_cabinet": {
-    "criteria": {
-      "has_spruce_trapdoor": "2025-03-30 05:50:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_quartz": {
-    "criteria": {
-      "has_quartz_block": "2025-03-30 07:42:44 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:suns_blessing": {
-    "criteria": {
-      "get_suns_blessing": "2025-03-30 05:00:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_black_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-03-30 07:20:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_gray_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-03-30 07:20:27 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/staff_root": {
-    "criteria": {
-      "requirement": "2025-03-30 06:50:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_logs": "2025-03-30 04:52:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
-    "criteria": {
-      "has_quartz_block": "2025-03-30 07:42:44 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/gray_picket_fence": {
-    "criteria": {
-      "has_concrete": "2025-03-30 07:21:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye": {
-    "criteria": {
-      "has_ink_sac": "2025-03-30 07:18:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-03-30 07:42:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_yellow_dye": "2025-03-30 05:34:48 +0000"
     },
     "done": true
   },
-  "dungeons_arise:find_abandoned_temple": {
-    "criteria": {
-      "location0": "2025-03-30 06:24:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_yellow_carpet": {
     "criteria": {
       "has_needed_dye": "2025-03-30 05:34:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-03-30 05:34:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-03-30 05:50:18 +0000"
     },
     "done": true
   },
@@ -6281,9 +6107,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
-      "has_quartz_block": "2025-03-30 07:42:44 +0000"
+      "has_gold_nugget": "2025-03-30 05:54:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-30 05:54:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-03-30 05:58:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-03-30 05:58:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/wax_on": {
+    "criteria": {
+      "wax_on": "2025-03-30 06:04:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-03-30 06:20:24 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-03-30 06:24:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-03-30 06:27:08 +0000"
     },
     "done": true
   },
@@ -6293,45 +6161,93 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+  "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
-      "has_quartz_block": "2025-03-30 07:42:44 +0000"
+      "has_blaze_rod": "2025-03-30 06:27:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/flower_pot": {
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
     "criteria": {
-      "has_brick": "2025-03-30 04:08:58 +0000"
+      "requirement": "2025-03-30 06:31:03 +0000"
     },
     "done": true
   },
-  "mowziesmobs:kill_umvuthi": {
+  "irons_spellbooks:irons_spellbooks/staff_root": {
     "criteria": {
-      "barako": "2025-03-30 05:00:42 +0000"
+      "requirement": "2025-03-30 06:50:04 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
     "criteria": {
-      "has_oxeye_daisy": "2025-03-30 04:05:20 +0000"
+      "has_any_ingredient": "2025-03-30 07:18:43 +0000"
     },
     "done": true
   },
-  "mowziesmobs:sneak_grove": {
+  "minecraft:recipes/misc/black_dye": {
     "criteria": {
-      "steal_crystal": "2025-03-30 05:00:42 +0000"
+      "has_ink_sac": "2025-03-30 07:18:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
     "criteria": {
-      "has_copper_ore": "2025-03-30 04:10:06 +0000"
+      "has_needed_dye": "2025-03-30 07:20:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+  "cfm:recipes/decorations/dye_black_picket_gate": {
     "criteria": {
-      "has_needed_dye": "2025-03-30 05:34:48 +0000"
+      "has_dye": "2025-03-30 07:20:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_black_picket_fence": {
+    "criteria": {
+      "has_dye": "2025-03-30 07:20:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-03-30 07:20:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-03-30 07:20:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-03-30 07:20:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_gray_picket_fence": {
+    "criteria": {
+      "has_dye": "2025-03-30 07:20:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_gray_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-03-30 07:20:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_candle": {
+    "criteria": {
+      "has_gray_dye": "2025-03-30 07:20:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-03-30 07:20:27 +0000"
     },
     "done": true
   },
@@ -6347,9 +6263,93 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_candle": {
+  "cfm:recipes/decorations/gray_picket_fence": {
     "criteria": {
-      "has_black_dye": "2025-03-30 07:20:16 +0000"
+      "has_concrete": "2025-03-30 07:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-03-30 07:42:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-03-30 07:42:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-03-30 07:42:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-03-30 07:42:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-03-30 07:42:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-03-30 07:42:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-03-30 07:42:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-03-30 07:42:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-03-30 07:42:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-03-30 07:42:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-03-30 07:42:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-03-30 07:43:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2025-03-30 07:43:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-03-30 07:43:45 +0000"
     },
     "done": true
   },
@@ -6359,21 +6359,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_black_wool": {
+  "farmersdelight:main/place_skillet": {
     "criteria": {
-      "has_needed_dye": "2025-03-30 07:20:16 +0000"
+      "skillet": "2025-03-30 07:51:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/brewing_stand": {
+  "farmersdelight:main/place_cooking_pot": {
     "criteria": {
-      "has_blaze_rod": "2025-03-30 06:27:08 +0000"
+      "cooking_pot": "2025-03-30 07:52:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/honeycomb_block": {
+  "farmersdelight:recipes/food/egg_sandwich": {
     "criteria": {
-      "has_honeycomb": "2025-03-30 05:58:37 +0000"
+      "has_fried_egg": "2025-03-30 08:00:58 +0000"
     },
     "done": true
   },
