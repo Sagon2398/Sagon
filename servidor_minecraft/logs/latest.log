@@ -924,3 +924,4 @@
   "<partial numeric data>",
   "[-102, -109, 41, 27, -68, 67, 56, 54, -47, 110, 1]"
 ]
+[30Mar2025 05:37:35.288] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element irons_spellbooks:impaled_icebreaker took 22 ms
