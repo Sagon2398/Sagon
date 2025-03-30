@@ -768,6 +768,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-03-30 21:13:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-03-30 20:06:26 +0000"
@@ -1736,6 +1742,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:savanna_plateau": "2025-03-30 21:09:51 +0000",
+      "minecraft:forest": "2025-03-30 21:12:12 +0000",
       "minecraft:savanna": "2025-03-30 19:55:34 +0000",
       "minecraft:plains": "2025-03-30 20:00:28 +0000"
     },
@@ -1815,6 +1823,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-03-30 21:13:30 +0000",
       "pumpkin_pie": "2025-03-30 20:05:57 +0000"
     },
     "done": false
