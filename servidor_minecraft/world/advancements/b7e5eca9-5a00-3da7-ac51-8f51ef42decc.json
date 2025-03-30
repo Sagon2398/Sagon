@@ -6249,6 +6249,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-03-30 21:47:29 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
     "criteria": {
       "arcane_anvil": "2025-03-30 21:10:06 +0000"
