@@ -5584,6 +5584,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/sanctum/phasmo_arrow": {
+    "criteria": {
+      "item": "2025-03-30 01:33:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-03-30 01:14:17 +0000"
@@ -5599,6 +5605,12 @@
   "cfm:recipes/decorations/stripped_crimson_desk": {
     "criteria": {
       "has_planks": "2025-03-30 01:24:06 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/soul_glass": {
+    "criteria": {
+      "item": "2025-03-30 01:33:48 +0000"
     },
     "done": true
   },
@@ -5653,6 +5665,12 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-03-30 01:14:17 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-03-30 01:34:37 +0000"
     },
     "done": true
   },

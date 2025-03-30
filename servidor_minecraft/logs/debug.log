@@ -8380,3 +8380,22 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Mar2025 01:29:48.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> venis
 [30Mar2025 01:29:57.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> la contaste¨?
 [30Mar2025 01:32:07.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Gravedigger]
+[30Mar2025 01:32:35.653] [Worker-Main-249/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_3
+[30Mar2025 01:32:35.658] [Worker-Main-249/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_3
+[30Mar2025 01:32:35.658] [Worker-Main-249/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_6
+[30Mar2025 01:32:35.660] [Worker-Main-249/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_4
+[30Mar2025 01:32:35.666] [Worker-Main-249/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/fossil
+[30Mar2025 01:32:35.667] [Worker-Main-249/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_4
+[30Mar2025 01:32:35.668] [Worker-Main-249/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_2
+[30Mar2025 01:32:35.670] [Worker-Main-249/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_3
+[30Mar2025 01:32:59.930] [Worker-Main-244/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/57396, l='ServerLevel[world]', x=70.00, y=31.00, z=-159.00] as it would cause deadlock
+[30Mar2025 01:34:37.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [The Soul Forge]
+[30Mar2025 01:34:44.166] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Mar2025 01:34:44.176] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Mar2025 01:34:47.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [The Soul Forge]
+[30Mar2025 01:34:55.990] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because I'm not in a portal.
+[30Mar2025 01:35:06.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> nos vemos
+[30Mar2025 01:35:08.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> nos chetamos primero
+[30Mar2025 01:35:17.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> adioos
+[30Mar2025 01:39:44.177] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Mar2025 01:39:44.187] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
