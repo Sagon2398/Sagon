@@ -925,3 +925,8 @@
   "[-102, -109, 41, 27, -68, 67, 56, 54, -47, 110, 1]"
 ]
 [30Mar2025 05:37:35.288] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element irons_spellbooks:impaled_icebreaker took 22 ms
+[30Mar2025 05:46:06.098] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2000, y=64, z=-652} BlockPos{x=-2000, y=62, z=-652}
+[30Mar2025 05:46:07.047] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1999, y=64, z=-653} BlockPos{x=-1999, y=62, z=-653}
+[30Mar2025 05:47:45.252] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2113, y=145, z=-832} BlockPos{x=-2114, y=145, z=-831}
+[30Mar2025 05:47:55.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Teleported lobo3224 to Santix15]
+[30Mar2025 05:51:53.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Into Fire]

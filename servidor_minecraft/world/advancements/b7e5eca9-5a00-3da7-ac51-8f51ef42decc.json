@@ -50,6 +50,7 @@
       "minecraft:lukewarm_ocean": "2025-03-25 00:58:55 +0000",
       "minecraft:stony_shore": "2025-03-24 00:43:55 +0000",
       "minecraft:dripstone_caves": "2025-03-23 22:27:02 +0000",
+      "minecraft:grove": "2025-03-30 05:46:53 +0000",
       "minecraft:forest": "2025-03-23 04:40:05 +0000",
       "minecraft:lush_caves": "2025-03-24 00:27:06 +0000",
       "minecraft:desert": "2025-03-22 03:35:52 +0000",
@@ -5515,6 +5516,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-03-30 05:51:53 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/acacia_upgraded_fence": {
     "criteria": {
       "has_log": "2025-03-30 04:34:06 +0000"
@@ -5770,6 +5777,12 @@
   "netherexp:recipes/nether_bricks/nether_brick_pillar": {
     "criteria": {
       "has_item": "2025-03-30 04:26:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-03-30 05:50:29 +0000"
     },
     "done": true
   },
@@ -6037,6 +6050,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-03-30 05:51:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-03-30 02:16:45 +0000"
@@ -6184,6 +6203,12 @@
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-03-30 03:14:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-03-30 05:51:53 +0000"
     },
     "done": true
   },
