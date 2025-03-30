@@ -565,3 +565,7 @@
 [30Mar2025 03:21:15.623] [Worker-Main-243/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/80119, l='ServerLevel[world]', x=-854.00, y=31.00, z=-510.00] as it would cause deadlock
 [30Mar2025 03:21:18.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> illagers en la aldea
 [30Mar2025 03:21:23.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> aaaaaaaaa
+[30Mar2025 03:26:40.332] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1851, y=68, z=-157} BlockPos{x=-1849, y=67, z=-157}
+[30Mar2025 03:26:40.388] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1851, y=68, z=-157} BlockPos{x=-1849, y=67, z=-157}
+[30Mar2025 03:26:40.425] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1851, y=68, z=-157} BlockPos{x=-1849, y=67, z=-157}
+[30Mar2025 03:26:40.477] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1851, y=68, z=-157} BlockPos{x=-1849, y=67, z=-157}

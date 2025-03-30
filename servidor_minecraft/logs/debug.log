@@ -8855,3 +8855,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Mar2025 03:21:21.592] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because I'm not in a portal.
 [30Mar2025 03:21:23.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> aaaaaaaaa
 [30Mar2025 03:23:22.207] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:arrow_volley 1: [9873645e-7ad5-4ff4-a005-07405d09fc39]
+[30Mar2025 03:24:44.171] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Mar2025 03:24:44.179] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Mar2025 03:26:40.332] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1851, y=68, z=-157} BlockPos{x=-1849, y=67, z=-157}
+[30Mar2025 03:26:40.388] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1851, y=68, z=-157} BlockPos{x=-1849, y=67, z=-157}
+[30Mar2025 03:26:40.425] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1851, y=68, z=-157} BlockPos{x=-1849, y=67, z=-157}
+[30Mar2025 03:26:40.477] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1851, y=68, z=-157} BlockPos{x=-1849, y=67, z=-157}
+[30Mar2025 03:29:44.173] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Mar2025 03:29:44.183] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
