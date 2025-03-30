@@ -6567,3 +6567,8 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 	... 28 more
 [30Mar2025 22:37:23.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Set own game mode to Creative Mode]
 [30Mar2025 22:37:37.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Set own game mode to Survival Mode]
+[30Mar2025 22:49:17.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Set own game mode to Creative Mode]
+[30Mar2025 22:49:31.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Set own game mode to Survival Mode]
+[30Mar2025 22:51:55.807] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 lost connection: Disconnected
+[30Mar2025 22:51:55.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 left the game
+[30Mar2025 22:51:55.807] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Santix15
