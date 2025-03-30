@@ -607,3 +607,6 @@
 [30Mar2025 04:03:49.005] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1845, y=65, z=-183} BlockPos{x=-1845, y=66, z=-184}
 [30Mar2025 04:03:49.055] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1845, y=65, z=-183} BlockPos{x=-1845, y=66, z=-184}
 [30Mar2025 04:04:02.206] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1840, y=65, z=-188} BlockPos{x=-1839, y=64, z=-186}
+[30Mar2025 04:14:30.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 was slain by Iron Golem
+[30Mar2025 04:14:37.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was slain by Iron Golem
+[30Mar2025 04:14:53.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Teleported lobo3224 to Santix15]

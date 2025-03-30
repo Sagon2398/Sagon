@@ -5951,6 +5951,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-03-30 04:10:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2025-03-30 04:08:58 +0000"
@@ -5962,6 +5968,12 @@
       "has_brick": "2025-03-30 04:08:58 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2025-03-30 04:16:27 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
@@ -5984,6 +5996,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-03-30 04:05:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-03-30 04:10:06 +0000"
     },
     "done": true
   },
