@@ -5470,219 +5470,9 @@
     },
     "done": true
   },
-  "netherexp:recipes/smooth_netherrack/smooth_netherrack": {
-    "criteria": {
-      "has_item": "2025-03-30 01:14:16 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_crimson_desk_cabinet": {
-    "criteria": {
-      "has_planks": "2025-03-30 01:24:06 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/misc/torch_from_fossil_fuel": {
-    "criteria": {
-      "has_item": "2025-03-30 01:16:43 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/crimson_upgraded_fence": {
-    "criteria": {
-      "has_log": "2025-03-30 01:24:06 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crimson_mosquito": {
-    "criteria": {
-      "killed_by": "2025-03-30 01:27:14 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/crimson_desk": {
-    "criteria": {
-      "has_log": "2025-03-30 01:24:06 +0000"
-    },
-    "done": true
-  },
-  "netherexp:nether/gravedigger": {
-    "criteria": {
-      "has_item": "2025-03-30 01:16:42 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/soul_slate/bricks": {
-    "criteria": {
-      "has_item": "2025-03-30 01:16:18 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
-    "criteria": {
-      "has_item": "2025-03-30 01:15:18 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
     "criteria": {
       "beef_patty": "2025-03-30 00:57:46 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/crimson_cabinet": {
-    "criteria": {
-      "has_log": "2025-03-30 01:24:06 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/bone_blocks/bone_cortical": {
-    "criteria": {
-      "has_item": "2025-03-30 01:15:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_planks": {
-    "criteria": {
-      "has_logs": "2025-03-30 01:24:06 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/soul_slate/jagged": {
-    "criteria": {
-      "has_planks": "2025-03-30 01:16:18 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/crimson_table": {
-    "criteria": {
-      "has_log": "2025-03-30 01:24:06 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/quartz/quartz_crystal_block": {
-    "criteria": {
-      "has_item": "2025-03-30 01:19:42 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/soul_slate/wall": {
-    "criteria": {
-      "has_planks": "2025-03-30 01:16:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2025-03-30 01:15:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2025-03-30 01:14:17 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/sanctum/phasmo_arrow": {
-    "criteria": {
-      "item": "2025-03-30 01:33:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite": {
-    "criteria": {
-      "has_quartz": "2025-03-30 01:14:17 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/crimson_park_bench": {
-    "criteria": {
-      "has_log": "2025-03-30 01:24:06 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_crimson_desk": {
-    "criteria": {
-      "has_planks": "2025-03-30 01:24:06 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/sanctum/soul_glass": {
-    "criteria": {
-      "item": "2025-03-30 01:33:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_block": {
-    "criteria": {
-      "has_quartz": "2025-03-30 01:14:17 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_crimson_table": {
-    "criteria": {
-      "has_planks": "2025-03-30 01:24:06 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/crimson_bedside_cabinet": {
-    "criteria": {
-      "has_log": "2025-03-30 01:24:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/daylight_detector": {
-    "criteria": {
-      "has_quartz": "2025-03-30 01:14:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/observer": {
-    "criteria": {
-      "has_quartz": "2025-03-30 01:14:17 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/crimson_chair": {
-    "criteria": {
-      "has_log": "2025-03-30 01:24:06 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/soul_slate/pale": {
-    "criteria": {
-      "has_planks": "2025-03-30 01:16:18 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_crimson_crate": {
-    "criteria": {
-      "has_planks": "2025-03-30 01:24:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/comparator": {
-    "criteria": {
-      "has_quartz": "2025-03-30 01:14:17 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:find_soul_black_smith": {
-    "criteria": {
-      "blacksmith": "2025-03-30 01:34:37 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_crimson_bedside_cabinet": {
-    "criteria": {
-      "has_planks": "2025-03-30 01:24:06 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/crimson_blinds": {
-    "criteria": {
-      "has_log": "2025-03-30 01:24:06 +0000"
     },
     "done": true
   },
@@ -5698,15 +5488,255 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/crimson_desk_cabinet": {
+  "netherexp:recipes/smooth_netherrack/smooth_netherrack": {
     "criteria": {
-      "has_log": "2025-03-30 01:24:06 +0000"
+      "has_item": "2025-03-30 01:14:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-03-30 01:14:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-03-30 01:14:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-03-30 01:14:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-03-30 01:14:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-03-30 01:14:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-03-30 01:14:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-03-30 01:14:17 +0000"
     },
     "done": true
   },
   "netherexp:nether/frightening_rush": {
     "criteria": {
       "condition": "2025-03-30 01:14:46 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
+    "criteria": {
+      "has_item": "2025-03-30 01:15:18 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/bone_cortical": {
+    "criteria": {
+      "has_item": "2025-03-30 01:15:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-03-30 01:15:18 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/stacked_bones": {
+    "criteria": {
+      "has_item": "2025-03-30 01:15:18 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/bricks": {
+    "criteria": {
+      "has_item": "2025-03-30 01:16:18 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/jagged": {
+    "criteria": {
+      "has_planks": "2025-03-30 01:16:18 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/wall": {
+    "criteria": {
+      "has_planks": "2025-03-30 01:16:18 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/pale": {
+    "criteria": {
+      "has_planks": "2025-03-30 01:16:18 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/slab": {
+    "criteria": {
+      "has_planks": "2025-03-30 01:16:18 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/stairs": {
+    "criteria": {
+      "has_planks": "2025-03-30 01:16:18 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/bricks_from_etched": {
+    "criteria": {
+      "has_item": "2025-03-30 01:16:18 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/gravedigger": {
+    "criteria": {
+      "has_item": "2025-03-30 01:16:42 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/torch_from_fossil_fuel": {
+    "criteria": {
+      "has_item": "2025-03-30 01:16:43 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/brown_dye_from_fossil_fuel": {
+    "criteria": {
+      "has_item": "2025-03-30 01:16:43 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/quartz/quartz_crystal_block": {
+    "criteria": {
+      "has_item": "2025-03-30 01:19:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-03-30 01:19:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-30 01:20:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-30 01:20:10 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-03-30 01:24:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-03-30 01:24:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_desk": {
+    "criteria": {
+      "has_log": "2025-03-30 01:24:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_cabinet": {
+    "criteria": {
+      "has_log": "2025-03-30 01:24:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-03-30 01:24:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_table": {
+    "criteria": {
+      "has_log": "2025-03-30 01:24:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_park_bench": {
+    "criteria": {
+      "has_log": "2025-03-30 01:24:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_desk": {
+    "criteria": {
+      "has_planks": "2025-03-30 01:24:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_table": {
+    "criteria": {
+      "has_planks": "2025-03-30 01:24:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-03-30 01:24:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_chair": {
+    "criteria": {
+      "has_log": "2025-03-30 01:24:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_crate": {
+    "criteria": {
+      "has_planks": "2025-03-30 01:24:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-03-30 01:24:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_blinds": {
+    "criteria": {
+      "has_log": "2025-03-30 01:24:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-03-30 01:24:06 +0000"
     },
     "done": true
   },
@@ -5722,12 +5752,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_lamp": {
-    "criteria": {
-      "has_glowstone": "2025-03-30 01:19:51 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_crimson_coffee_table": {
     "criteria": {
       "has_planks": "2025-03-30 01:24:06 +0000"
@@ -5737,18 +5761,6 @@
   "cfm:recipes/decorations/stripped_crimson_cabinet": {
     "criteria": {
       "has_log": "2025-03-30 01:24:06 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/bone_blocks/stacked_bones": {
-    "criteria": {
-      "has_item": "2025-03-30 01:15:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2025-03-30 01:20:10 +0000"
     },
     "done": true
   },
@@ -5770,18 +5782,6 @@
     },
     "done": true
   },
-  "netherexp:recipes/soul_slate/slab": {
-    "criteria": {
-      "has_planks": "2025-03-30 01:16:18 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/misc/cooked_hogham": {
-    "criteria": {
-      "has_item": "2025-03-30 01:25:18 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_crimson_park_bench": {
     "criteria": {
       "has_log": "2025-03-30 01:24:06 +0000"
@@ -5794,33 +5794,99 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/spectral_arrow": {
+  "netherexp:recipes/misc/cooked_hogham": {
     "criteria": {
-      "has_glowstone_dust": "2025-03-30 01:20:10 +0000"
+      "has_item": "2025-03-30 01:25:18 +0000"
     },
     "done": true
   },
-  "netherexp:recipes/soul_slate/stairs": {
+  "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
-      "has_planks": "2025-03-30 01:16:18 +0000"
+      "killed_by": "2025-03-30 01:27:14 +0000"
     },
     "done": true
   },
-  "netherexp:recipes/misc/brown_dye_from_fossil_fuel": {
+  "netherexp:recipes/sanctum/phasmo_arrow": {
     "criteria": {
-      "has_item": "2025-03-30 01:16:43 +0000"
+      "item": "2025-03-30 01:33:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/nether_brick": {
+  "netherexp:recipes/sanctum/soul_glass": {
     "criteria": {
-      "has_netherrack": "2025-03-30 01:14:16 +0000"
+      "item": "2025-03-30 01:33:48 +0000"
     },
     "done": true
   },
-  "netherexp:recipes/soul_slate/bricks_from_etched": {
+  "cataclysm:find_soul_black_smith": {
     "criteria": {
-      "has_item": "2025-03-30 01:16:18 +0000"
+      "blacksmith": "2025-03-30 01:34:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-03-30 02:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2025-03-30 02:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_blue_dye": "2025-03-30 02:27:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_blue_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-03-30 02:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-03-30 02:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-03-30 02:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-03-30 02:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-03-30 02:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-03-30 02:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-03-30 02:27:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_blue_picket_fence": {
+    "criteria": {
+      "has_dye": "2025-03-30 02:27:09 +0000"
     },
     "done": true
   },
