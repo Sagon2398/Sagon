@@ -504,3 +504,6 @@
   "<partial numeric data>",
   "[-64, 92, 41, 48, 79, 23, 38, -31, 32, -119, 117]"
 ]
+[30Mar2025 02:11:01.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Spectator Mode]
+[30Mar2025 02:11:42.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Survival Mode]
+[30Mar2025 02:12:12.849] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:bastion_remnant took 0 ms
