@@ -473,6 +473,8 @@
     "criteria": {
       "minecraft:pillager": "2025-03-29 21:39:11 +0000",
       "minecraft:skeleton": "2025-03-22 03:57:37 +0000",
+      "minecraft:ghast": "2025-03-30 01:21:50 +0000",
+      "minecraft:hoglin": "2025-03-30 01:25:16 +0000",
       "minecraft:vindicator": "2025-03-30 00:19:01 +0000",
       "minecraft:spider": "2025-03-22 03:54:32 +0000",
       "minecraft:creeper": "2025-03-29 21:37:11 +0000",
@@ -3530,6 +3532,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-03-30 01:22:50 +0000",
       "minecraft:soul_sand_valley": "2025-03-24 03:43:21 +0000",
       "minecraft:nether_wastes": "2025-03-30 01:18:36 +0000"
     },
@@ -5473,9 +5476,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_crimson_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-03-30 01:24:06 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/misc/torch_from_fossil_fuel": {
     "criteria": {
       "has_item": "2025-03-30 01:16:43 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-03-30 01:24:06 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-03-30 01:27:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_desk": {
+    "criteria": {
+      "has_log": "2025-03-30 01:24:06 +0000"
     },
     "done": true
   },
@@ -5503,15 +5530,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/crimson_cabinet": {
+    "criteria": {
+      "has_log": "2025-03-30 01:24:06 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/bone_blocks/bone_cortical": {
     "criteria": {
       "has_item": "2025-03-30 01:15:18 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-03-30 01:24:06 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/soul_slate/jagged": {
     "criteria": {
       "has_planks": "2025-03-30 01:16:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_table": {
+    "criteria": {
+      "has_log": "2025-03-30 01:24:06 +0000"
     },
     "done": true
   },
@@ -5545,9 +5590,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/crimson_park_bench": {
+    "criteria": {
+      "has_log": "2025-03-30 01:24:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_desk": {
+    "criteria": {
+      "has_planks": "2025-03-30 01:24:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-03-30 01:14:17 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_table": {
+    "criteria": {
+      "has_planks": "2025-03-30 01:24:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-03-30 01:24:06 +0000"
     },
     "done": true
   },
@@ -5563,15 +5632,39 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/crimson_chair": {
+    "criteria": {
+      "has_log": "2025-03-30 01:24:06 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/soul_slate/pale": {
     "criteria": {
       "has_planks": "2025-03-30 01:16:18 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_crimson_crate": {
+    "criteria": {
+      "has_planks": "2025-03-30 01:24:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-03-30 01:14:17 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-03-30 01:24:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_blinds": {
+    "criteria": {
+      "has_log": "2025-03-30 01:24:06 +0000"
     },
     "done": true
   },
@@ -5587,9 +5680,45 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/crimson_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-03-30 01:24:06 +0000"
+    },
+    "done": true
+  },
   "netherexp:nether/frightening_rush": {
     "criteria": {
       "condition": "2025-03-30 01:14:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-03-30 01:24:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-03-30 01:24:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-03-30 01:19:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-03-30 01:24:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_cabinet": {
+    "criteria": {
+      "has_log": "2025-03-30 01:24:06 +0000"
     },
     "done": true
   },
@@ -5599,9 +5728,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-30 01:20:10 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_crate": {
+    "criteria": {
+      "has_log": "2025-03-30 01:24:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_chair": {
+    "criteria": {
+      "has_planks": "2025-03-30 01:24:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-03-30 01:24:06 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/soul_slate/slab": {
     "criteria": {
       "has_planks": "2025-03-30 01:16:18 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/cooked_hogham": {
+    "criteria": {
+      "has_item": "2025-03-30 01:25:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_park_bench": {
+    "criteria": {
+      "has_log": "2025-03-30 01:24:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_coffee_table": {
+    "criteria": {
+      "has_log": "2025-03-30 01:24:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-30 01:20:10 +0000"
     },
     "done": true
   },

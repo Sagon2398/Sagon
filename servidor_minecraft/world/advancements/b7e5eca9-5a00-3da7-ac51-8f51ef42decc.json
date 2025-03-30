@@ -667,6 +667,7 @@
     "criteria": {
       "minecraft:pillager": "2025-03-23 22:48:42 +0000",
       "minecraft:skeleton": "2025-03-22 03:34:32 +0000",
+      "minecraft:hoglin": "2025-03-30 01:27:57 +0000",
       "minecraft:spider": "2025-03-22 03:58:49 +0000",
       "minecraft:creeper": "2025-03-23 23:48:37 +0000",
       "minecraft:husk": "2025-03-22 04:11:56 +0000",
@@ -5370,6 +5371,24 @@
   "minecraft:recipes/transportation/hopper_minecart": {
     "criteria": {
       "has_minecart": "2025-03-30 01:12:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-30 01:20:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-30 01:20:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-03-30 01:23:37 +0000"
     },
     "done": true
   },

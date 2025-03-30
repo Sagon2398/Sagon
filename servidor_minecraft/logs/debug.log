@@ -8366,3 +8366,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Mar2025 01:22:09.304] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_1
 [30Mar2025 01:22:09.305] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/skull_pile
 [30Mar2025 01:22:09.305] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_1
+[30Mar2025 01:22:21.696] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[30Mar2025 01:24:44.172] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Mar2025 01:24:44.183] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Mar2025 01:24:49.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> lobo3224 a sido detonado por planta del nether
+[30Mar2025 01:25:16.662] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[30Mar2025 01:27:14.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Nightmare Fuel]
+[30Mar2025 01:28:42.985] [Worker-Main-249/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[30Mar2025 01:28:42.986] [Worker-Main-249/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[30Mar2025 01:29:44.168] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Mar2025 01:29:44.177] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Mar2025 01:29:46.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> santi
+[30Mar2025 01:29:48.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> venis
+[30Mar2025 01:29:57.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> la contaste¨?
+[30Mar2025 01:32:07.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Gravedigger]
