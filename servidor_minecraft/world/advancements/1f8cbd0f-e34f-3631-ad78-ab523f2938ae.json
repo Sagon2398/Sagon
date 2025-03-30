@@ -6395,6 +6395,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/bread_from_smelting": {
+    "criteria": {
+      "has_dough": "2025-03-30 22:29:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_bricks": "2025-03-30 21:17:27 +0000"
@@ -6521,6 +6527,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/bread_from_smoking": {
+    "criteria": {
+      "has_dough": "2025-03-30 22:29:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2025-03-30 21:52:42 +0000"
@@ -6596,6 +6608,12 @@
   "minecraft:recipes/building_blocks/gray_terracotta": {
     "criteria": {
       "has_terracotta": "2025-03-30 21:48:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/onion": {
+    "criteria": {
+      "has_onion_crate": "2025-03-30 22:32:20 +0000"
     },
     "done": true
   },
