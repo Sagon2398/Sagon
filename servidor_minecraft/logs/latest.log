@@ -1312,3 +1312,6 @@
 ]
 [30Mar2025 07:20:00.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Santix15's game mode to Survival Mode
 [30Mar2025 07:52:47.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has reached the goal [Dinner's Served!]
+[30Mar2025 08:02:20.950] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 lost connection: Disconnected
+[30Mar2025 08:02:20.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 left the game
+[30Mar2025 08:02:20.951] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Santix15
