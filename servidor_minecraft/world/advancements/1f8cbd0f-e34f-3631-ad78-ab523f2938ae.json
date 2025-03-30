@@ -479,6 +479,7 @@
       "minecraft:zombified_piglin": "2025-03-25 01:28:13 +0000",
       "minecraft:witch": "2025-03-29 23:36:38 +0000",
       "minecraft:husk": "2025-03-22 04:15:37 +0000",
+      "minecraft:piglin": "2025-03-30 01:18:57 +0000",
       "minecraft:enderman": "2025-03-28 22:48:18 +0000",
       "minecraft:zombie": "2025-03-22 03:54:16 +0000",
       "minecraft:zombie_villager": "2025-03-26 00:28:50 +0000"
@@ -3529,7 +3530,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:soul_sand_valley": "2025-03-24 03:43:21 +0000"
+      "minecraft:soul_sand_valley": "2025-03-24 03:43:21 +0000",
+      "minecraft:nether_wastes": "2025-03-30 01:18:36 +0000"
     },
     "done": false
   },
@@ -5465,9 +5467,111 @@
     },
     "done": true
   },
+  "netherexp:recipes/smooth_netherrack/smooth_netherrack": {
+    "criteria": {
+      "has_item": "2025-03-30 01:14:16 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/torch_from_fossil_fuel": {
+    "criteria": {
+      "has_item": "2025-03-30 01:16:43 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/gravedigger": {
+    "criteria": {
+      "has_item": "2025-03-30 01:16:42 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/bricks": {
+    "criteria": {
+      "has_item": "2025-03-30 01:16:18 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
+    "criteria": {
+      "has_item": "2025-03-30 01:15:18 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
     "criteria": {
       "beef_patty": "2025-03-30 00:57:46 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/bone_cortical": {
+    "criteria": {
+      "has_item": "2025-03-30 01:15:18 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/jagged": {
+    "criteria": {
+      "has_planks": "2025-03-30 01:16:18 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/quartz/quartz_crystal_block": {
+    "criteria": {
+      "has_item": "2025-03-30 01:19:42 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/wall": {
+    "criteria": {
+      "has_planks": "2025-03-30 01:16:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-03-30 01:15:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-03-30 01:14:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-03-30 01:14:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-03-30 01:14:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-03-30 01:14:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-03-30 01:14:17 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/pale": {
+    "criteria": {
+      "has_planks": "2025-03-30 01:16:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-03-30 01:14:17 +0000"
     },
     "done": true
   },
@@ -5480,6 +5584,48 @@
   "farmersdelight:recipes/food/beef_patty": {
     "criteria": {
       "beef_patty": "2025-03-30 00:57:46 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/frightening_rush": {
+    "criteria": {
+      "condition": "2025-03-30 01:14:46 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/stacked_bones": {
+    "criteria": {
+      "has_item": "2025-03-30 01:15:18 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/slab": {
+    "criteria": {
+      "has_planks": "2025-03-30 01:16:18 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/stairs": {
+    "criteria": {
+      "has_planks": "2025-03-30 01:16:18 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/brown_dye_from_fossil_fuel": {
+    "criteria": {
+      "has_item": "2025-03-30 01:16:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-03-30 01:14:16 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/bricks_from_etched": {
+    "criteria": {
+      "has_item": "2025-03-30 01:16:18 +0000"
     },
     "done": true
   },
