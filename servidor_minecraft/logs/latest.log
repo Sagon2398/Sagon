@@ -1212,3 +1212,4 @@
 [30Mar2025 06:47:56.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Santix15 no longer a server operator
 [30Mar2025 06:50:04.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [No Longer Short-Staffed]
 [30Mar2025 07:03:31.351] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1921, y=66, z=-179} BlockPos{x=-1938, y=66, z=-179}
+[30Mar2025 07:07:45.100] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1893, y=65, z=-202} BlockPos{x=-1895, y=64, z=-201}
