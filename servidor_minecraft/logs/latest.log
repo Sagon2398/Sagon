@@ -2061,3 +2061,20 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [31Mar2025 02:02:57.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> me voy a descargar un pack de texturasxd lol
 [31Mar2025 02:03:04.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> daleee
 [31Mar2025 02:04:20.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Quite the Walking Stick]
+[31Mar2025 02:09:03.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has made the advancement [No Longer Short-Staffed]
+[31Mar2025 02:10:30.482] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:desert took 442 ms
+[31Mar2025 02:13:32.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> saca la lluvia plz
+[31Mar2025 02:13:34.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> saca la lluvia plz
+[31Mar2025 02:13:34.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> saca la lluvia plz
+[31Mar2025 02:13:45.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> yo no poder
+[31Mar2025 02:13:51.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> ok pere
+[31Mar2025 02:13:56.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> ya vengo
+[31Mar2025 02:14:05.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> voy a poner el mod de optifine
+[31Mar2025 02:14:09.233] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nacho_cgod lost connection: Disconnected
+[31Mar2025 02:14:09.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod left the game
+[31Mar2025 02:14:09.234] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nacho_cgod
+[31Mar2025 02:14:56.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Set own game mode to Creative Mode]
+[31Mar2025 02:15:04.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Teleported Santix15 to -1152.500000, 64.000000, 516.500000]
+[31Mar2025 02:15:49.248] [Worker-Main-2/INFO] [ModernFix/]: Instantiating Mojang DFU
+[31Mar2025 02:17:54.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Set the time to 1000]
+[31Mar2025 02:18:25.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Set own game mode to Survival Mode]

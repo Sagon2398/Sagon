@@ -1187,6 +1187,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-03-31 01:15:05 +0000",
+      "cooked_beef": "2025-03-31 02:07:01 +0000",
       "apple": "2025-03-30 21:13:30 +0000",
       "pumpkin_pie": "2025-03-30 20:05:57 +0000",
       "golden_carrot": "2025-03-31 01:21:17 +0000"
@@ -2361,6 +2362,12 @@
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_leggings": "2025-03-31 01:47:33 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2025-03-31 02:09:03 +0000"
     },
     "done": true
   },

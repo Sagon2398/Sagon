@@ -6658,3 +6658,65 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [31Mar2025 02:04:07.259] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [31Mar2025 02:04:07.282] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [31Mar2025 02:04:20.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Quite the Walking Stick]
+[31Mar2025 02:09:03.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has made the advancement [No Longer Short-Staffed]
+[31Mar2025 02:09:06.036] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityExplosionBehaviorMixin from lithium.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[31Mar2025 02:09:06.036] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:alloc.explosion_behavior.EntityExplosionBehaviorMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[31Mar2025 02:09:07.244] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Mar2025 02:09:07.257] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Mar2025 02:09:28.829] [Server thread/DEBUG] [mixin/]: Mixing alloc.enum_values.piston_handler.PistonHandlerMixin from lithium.mixins.json into net.minecraft.world.level.block.piston.PistonStructureResolver
+[31Mar2025 02:09:28.829] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:alloc.enum_values.piston_handler.PistonHandlerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[31Mar2025 02:09:29.079] [Server thread/DEBUG] [mixin/]: Mixing cached_hashcode.BlockNeighborGroupMixin from lithium.mixins.json into net.minecraft.world.level.block.Block$BlockStatePairKey
+[31Mar2025 02:09:29.079] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:cached_hashcode.BlockNeighborGroupMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[31Mar2025 02:09:56.022] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:arrow_volley 1: [1f8cbd0f-e34f-3631-ad78-ab523f2938ae]
+[31Mar2025 02:10:30.482] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:desert took 442 ms
+[31Mar2025 02:13:32.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> saca la lluvia plz
+[31Mar2025 02:13:34.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> saca la lluvia plz
+[31Mar2025 02:13:34.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> saca la lluvia plz
+[31Mar2025 02:13:45.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> yo no poder
+[31Mar2025 02:13:51.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> ok pere
+[31Mar2025 02:13:56.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> ya vengo
+[31Mar2025 02:14:05.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> voy a poner el mod de optifine
+[31Mar2025 02:14:07.221] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Mar2025 02:14:07.232] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Mar2025 02:14:09.233] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nacho_cgod lost connection: Disconnected
+[31Mar2025 02:14:09.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod left the game
+[31Mar2025 02:14:09.234] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Nacho_cgod
+[31Mar2025 02:14:09.234] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nacho_cgod
+[31Mar2025 02:14:56.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Set own game mode to Creative Mode]
+[31Mar2025 02:15:04.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Teleported Santix15 to -1152.500000, 64.000000, 516.500000]
+[31Mar2025 02:15:06.879] [Worker-Main-1/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[31Mar2025 02:15:06.880] [Worker-Main-1/DEBUG] [mixin/]: Mixing gen.chunk_region.ChunkRegionMixin from lithium.mixins.json into net.minecraft.server.level.WorldGenRegion
+[31Mar2025 02:15:06.880] [Worker-Main-1/DEBUG] [mixin/]: lithium.mixins.json:gen.chunk_region.ChunkRegionMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[31Mar2025 02:15:07.071] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[31Mar2025 02:15:07.071] [Worker-Main-1/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[31Mar2025 02:15:07.111] [Worker-Main-1/DEBUG] [mixin/]: Mixing ChainedBlockSourceMixin from noisium-common.mixins.json into net.minecraft.world.level.levelgen.material.MaterialRuleList
+[31Mar2025 02:15:08.391] [Worker-Main-3/DEBUG] [mixin/]: Mixing JigsawPlacementMixin from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[31Mar2025 02:15:08.401] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[31Mar2025 02:15:49.247] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_start is being run through DFU (hash 6cb69eaf6251421e2379aa911cc377c259cf37087d31d4389d51b357a3d61a80), this will cause launch time delays
+[31Mar2025 02:15:49.248] [Worker-Main-2/INFO] [ModernFix/]: Instantiating Mojang DFU
+[31Mar2025 02:15:50.433] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:keep_kayra/keep_kayra_main_0 is being run through DFU (hash adaf93d65bc438dd5ad962fbe791a1e44f4e54fa8279dfc9b8fcae02d6813256), this will cause launch time delays
+[31Mar2025 02:15:56.874] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:scorched_mines/scorched_mines_well_0 is being run through DFU (hash f2c98b62ae0d1f718a8b66cadd64325dd33b46ffa2174bc5c0fad867b6e32004), this will cause launch time delays
+[31Mar2025 02:15:56.881] [Worker-Main-2/DEBUG] [mixin/]: Mixing StructurePlacementLogging from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[31Mar2025 02:15:56.882] [Worker-Main-2/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[31Mar2025 02:15:56.889] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:scorched_mines/scorched_mines_hub_part_2 is being run through DFU (hash b4a4577ab0bc27c029540a6611d685464b8168d75e9701d583f386916a14bdec), this will cause launch time delays
+[31Mar2025 02:15:56.912] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:scorched_mines/scorched_mines_corridor_1_spawner is being run through DFU (hash 696573c3018dc8ef7fd5151199bfd30aee23da6bbfb17f74110b7029bd42c074), this will cause launch time delays
+[31Mar2025 02:15:56.917] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:scorched_mines/scorched_mines_crossing_1 is being run through DFU (hash f6900242ec762dbffe9b59287aac35a3771bafb051238a6925f28060d69eaf20), this will cause launch time delays
+[31Mar2025 02:15:56.919] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:scorched_mines/scorched_mines_corridor_0_normal is being run through DFU (hash 738df7e1362fa5923ad2b0c75cf0056d43b4b3b2ddcfdb6aa3a6454236da47d3), this will cause launch time delays
+[31Mar2025 02:15:56.922] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:scorched_mines/scorched_mines_spawner_1 is being run through DFU (hash 65a3d5f12010f567f19b3b975767a927399048384a30039d250d9c37c2c019bc), this will cause launch time delays
+[31Mar2025 02:15:56.953] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:scorched_mines/scorched_mines_hub_part_0 is being run through DFU (hash 1cb7d0baa5920e38ec38b47f4c4d7be9878d71b0796c5e39a36842b101cf2732), this will cause launch time delays
+[31Mar2025 02:15:57.097] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:scorched_mines/scorched_mines_hub_part_1 is being run through DFU (hash 82b1675dc5371bcb229780469d7a3a1abf15a84f21382a3a58da641c3e9c4b33), this will cause launch time delays
+[31Mar2025 02:15:57.133] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:scorched_mines/scorched_mines_hub_part_3 is being run through DFU (hash a353250676d19cc6ca66109a21e408c88c997a961dcf868542faa008288cbeca), this will cause launch time delays
+[31Mar2025 02:15:57.164] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:scorched_mines/scorched_mines_spawner_0 is being run through DFU (hash d41bd347b22ed28216660e54a561f75cb5da15ece07982c0a62c2d62a0f73f89), this will cause launch time delays
+[31Mar2025 02:15:57.170] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:scorched_mines/scorched_mines_barrels_1 is being run through DFU (hash 69421705ae52b0aba082843c180767796018b87c493b5684cf3fedf9761ba572), this will cause launch time delays
+[31Mar2025 02:15:57.173] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:scorched_mines/scorched_mines_stairway_0 is being run through DFU (hash d5f9d10f5b0fff7f0875ab51c798d961853cc4c7d0f869b3f8bf730e2aa93ee1), this will cause launch time delays
+[31Mar2025 02:15:57.178] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:scorched_mines/scorched_mines_corridor_3_spawner is being run through DFU (hash 0ecdc3825452dc6133486d24c965e376eb064afce5bbb4fc08e24757721e8465), this will cause launch time delays
+[31Mar2025 02:15:57.184] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:scorched_mines/scorched_mines_barrels_0 is being run through DFU (hash 5b3739f413ad241810ae00b4b77fa449bd4bbf722b48ba2891cfce3b62c1ea00), this will cause launch time delays
+[31Mar2025 02:15:57.188] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:scorched_mines/scorched_mines_crossing_2 is being run through DFU (hash 98fcc77ddc0f09a5a08bdfd03eb5ccbaa720b67c711cbe908585c8435cafafdd), this will cause launch time delays
+[31Mar2025 02:15:57.190] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:scorched_mines/scorched_mines_crossing_3 is being run through DFU (hash 07a09a7dbcc7e18d2c8cbcc86623243c3c2ef9167bd0fc6be0b7d576479c295c), this will cause launch time delays
+[31Mar2025 02:15:57.193] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:scorched_mines/scorched_mines_treasure_0 is being run through DFU (hash 3e3c947fede8f52c5a7d209115e8d2e425784c5072dccc5df512349b65bc1aa2), this will cause launch time delays
+[31Mar2025 02:15:57.197] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:scorched_mines/scorched_mines_housing_0 is being run through DFU (hash d20256ad17dcd84a1be6390790ce7809db4ae12617a881fad697403134e79488), this will cause launch time delays
+[31Mar2025 02:15:57.203] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:scorched_mines/scorched_mines_crossing_0 is being run through DFU (hash 1f8424522b94b29985ffd6f4663466fff9dde04def2cfb23a81f9af2679e20eb), this will cause launch time delays
+[31Mar2025 02:15:57.205] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:scorched_mines/scorched_mines_corridor_2_temptation is being run through DFU (hash 405bf7dc052761f902be0a831f9c26fe0969472daaddcaae38d4654f8dc549cb), this will cause launch time delays
+[31Mar2025 02:15:57.209] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:scorched_mines/scorched_mines_spawner_2 is being run through DFU (hash 9315c662ffeba81401d0546938734a41d551d06ed908974e832f110b53dd6768), this will cause launch time delays
+[31Mar2025 02:17:54.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Set the time to 1000]
+[31Mar2025 02:18:25.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Set own game mode to Survival Mode]
