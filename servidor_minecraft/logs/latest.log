@@ -1768,3 +1768,30 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 [31Mar2025 01:16:08.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> vení preparado
 [31Mar2025 01:16:15.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> hay esqueletos mamados
 [31Mar2025 01:16:46.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> lo decis como si tuviera cosas xd
+[31Mar2025 01:19:36.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has made the advancement [Not Today, Thank You]
+[31Mar2025 01:23:24.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nacho_cgod was kicked for floating too long!
+[31Mar2025 01:23:25.011] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nacho_cgod lost connection: Flying is not enabled on this server
+[31Mar2025 01:23:25.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod left the game
+[31Mar2025 01:23:25.011] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nacho_cgod
+[31Mar2025 01:23:39.717] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nacho_cgod[/127.222.49.101:43593] logged in with entity id 50967 at (-1853.1222660333435, 208.20000004768372, -19.971683513039707)
+[31Mar2025 01:23:39.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod joined the game
+[31Mar2025 01:23:39.749] [Server thread/INFO] [Jade/]: Syncing config to Nacho_cgod (53e7374b-5e04-335c-acba-f45d6acb5e7c)
+[31Mar2025 01:23:39.934] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nacho_cgod (18)
+[31Mar2025 01:23:39.934] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nacho_cgod
+[31Mar2025 01:23:43.251] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nacho_cgod moved too quickly! -1.0140472813170618,-15.694420234584598,0.2817777817862037
+[31Mar2025 01:23:43.251] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 53e7374b-5e04-335c-acba-f45d6acb5e7c
+[31Mar2025 01:23:44.250] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 53e7374b-5e04-335c-acba-f45d6acb5e7c
+[31Mar2025 01:23:44.251] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nacho_cgod (53e7374b-5e04-335c-acba-f45d6acb5e7c) successfully connected to voice chat
+[31Mar2025 01:24:33.509] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nacho_cgod was kicked for floating too long!
+[31Mar2025 01:24:33.561] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nacho_cgod lost connection: Flying is not enabled on this server
+[31Mar2025 01:24:33.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod left the game
+[31Mar2025 01:24:33.561] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nacho_cgod
+[31Mar2025 01:24:40.770] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nacho_cgod[/127.222.49.101:49235] logged in with entity id 51136 at (-1877.031571999848, 195.30274446376927, -16.77369286307522)
+[31Mar2025 01:24:40.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod joined the game
+[31Mar2025 01:24:40.809] [Server thread/INFO] [Jade/]: Syncing config to Nacho_cgod (53e7374b-5e04-335c-acba-f45d6acb5e7c)
+[31Mar2025 01:24:41.025] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nacho_cgod (18)
+[31Mar2025 01:24:41.026] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nacho_cgod
+[31Mar2025 01:24:46.816] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 53e7374b-5e04-335c-acba-f45d6acb5e7c
+[31Mar2025 01:24:47.808] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 53e7374b-5e04-335c-acba-f45d6acb5e7c
+[31Mar2025 01:24:47.808] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nacho_cgod (53e7374b-5e04-335c-acba-f45d6acb5e7c) successfully connected to voice chat
+[31Mar2025 01:25:38.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> vamos a otra?
