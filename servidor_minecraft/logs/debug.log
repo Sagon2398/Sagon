@@ -8066,3 +8066,7 @@ Caused by: java.io.IOException: Packet 0/0 (ServerboundAcceptTeleportationPacket
 [31Mar2025 05:20:09.493] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae does not have a secret
 [31Mar2025 05:20:09.504] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae does not have a secret
 [31Mar2025 05:20:09.534] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae does not have a secret
+[31Mar2025 05:24:09.283] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Mar2025 05:24:09.293] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Mar2025 05:29:09.282] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Mar2025 05:29:09.293] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
