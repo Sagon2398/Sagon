@@ -1200,6 +1200,7 @@
       "cooked_beef": "2025-03-31 02:07:01 +0000",
       "apple": "2025-03-30 21:13:30 +0000",
       "pumpkin_pie": "2025-03-30 20:05:57 +0000",
+      "golden_apple": "2025-03-31 03:10:19 +0000",
       "golden_carrot": "2025-03-31 01:21:17 +0000"
     },
     "done": false
@@ -1720,6 +1721,7 @@
       "minecraft:skeleton": "2025-03-30 20:57:33 +0000",
       "minecraft:vindicator": "2025-03-31 02:54:23 +0000",
       "minecraft:spider": "2025-03-31 02:46:46 +0000",
+      "minecraft:wither_skeleton": "2025-03-31 03:10:58 +0000",
       "minecraft:zombie": "2025-03-30 20:22:33 +0000"
     },
     "done": false
@@ -2534,6 +2536,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-03-31 03:17:16 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_park_bench": {
     "criteria": {
       "has_planks": "2025-03-31 03:07:58 +0000"
@@ -2597,6 +2605,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-03-31 02:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_exposed_cut_copper": "2025-03-31 03:17:44 +0000"
     },
     "done": true
   },
@@ -2681,6 +2695,12 @@
   "cfm:recipes/decorations/black_kitchen_sink": {
     "criteria": {
       "has_top": "2025-03-31 03:07:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-03-31 03:10:59 +0000"
     },
     "done": true
   },
@@ -2828,9 +2848,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_stairs_from_waxed_exposed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_exposed_cut_copper": "2025-03-31 03:17:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_kitchen_counter": {
     "criteria": {
       "has_log": "2025-03-31 02:47:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/crimson_cabinet": {
+    "criteria": {
+      "has_crimson_trapdoor": "2025-03-31 03:14:22 +0000"
     },
     "done": true
   },
@@ -2843,6 +2875,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-03-31 02:30:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_slab_from_waxed_exposed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_exposed_cut_copper": "2025-03-31 03:17:44 +0000"
     },
     "done": true
   },
@@ -2915,6 +2953,12 @@
   "cfm:recipes/decorations/stripped_birch_kitchen_counter": {
     "criteria": {
       "has_log": "2025-03-31 02:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_exposed_cut_copper": "2025-03-31 03:17:44 +0000"
     },
     "done": true
   },
