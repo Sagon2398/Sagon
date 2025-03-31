@@ -6,3 +6,14 @@
 [31Mar2025 00:02:05.181] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
 [31Mar2025 00:02:06.182] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
 [31Mar2025 00:02:06.183] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
+[31Mar2025 00:09:14.309] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 lost connection: Disconnected
+[31Mar2025 00:09:14.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 left the game
+[31Mar2025 00:09:14.309] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Santix15
+[31Mar2025 00:13:43.668] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santix15[/127.193.11.42:42653] logged in with entity id 39749 at (-1875.0425052211883, 69.0, -192.31151268705324)
+[31Mar2025 00:13:43.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 joined the game
+[31Mar2025 00:13:43.685] [Server thread/INFO] [Jade/]: Syncing config to Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae)
+[31Mar2025 00:13:44.482] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santix15 (18)
+[31Mar2025 00:13:44.483] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[31Mar2025 00:13:48.113] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[31Mar2025 00:13:49.116] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[31Mar2025 00:13:49.117] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
