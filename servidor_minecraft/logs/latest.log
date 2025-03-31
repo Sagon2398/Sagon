@@ -2933,3 +2933,6 @@ Caused by: java.io.IOException: Packet 0/0 (ServerboundAcceptTeleportationPacket
 [31Mar2025 05:33:19.951] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
 [31Mar2025 05:33:20.989] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
 [31Mar2025 05:33:20.989] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
+[31Mar2025 05:47:03.683] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 lost connection: Disconnected
+[31Mar2025 05:47:03.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 left the game
+[31Mar2025 05:47:03.683] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Santix15
