@@ -2925,3 +2925,11 @@ Caused by: java.io.IOException: Packet 0/0 (ServerboundAcceptTeleportationPacket
 [31Mar2025 05:20:09.332] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 lost connection: Disconnected
 [31Mar2025 05:20:09.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 left the game
 [31Mar2025 05:20:09.333] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Santix15
+[31Mar2025 05:33:06.899] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santix15[/127.193.11.42:50129] logged in with entity id 47099 at (-1835.86512926036, 64.5625, -163.59863596020077)
+[31Mar2025 05:33:06.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 joined the game
+[31Mar2025 05:33:06.919] [Server thread/INFO] [Jade/]: Syncing config to Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae)
+[31Mar2025 05:33:09.791] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santix15 (18)
+[31Mar2025 05:33:09.792] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[31Mar2025 05:33:19.951] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[31Mar2025 05:33:20.989] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[31Mar2025 05:33:20.989] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
