@@ -42,6 +42,7 @@
       "minecraft:taiga": "2025-03-30 05:49:15 +0000",
       "minecraft:cherry_grove": "2025-03-26 00:33:27 +0000",
       "minecraft:birch_forest": "2025-03-25 00:49:54 +0000",
+      "minecraft:windswept_hills": "2025-03-31 02:50:16 +0000",
       "minecraft:savanna_plateau": "2025-03-23 22:55:31 +0000",
       "minecraft:beach": "2025-03-22 04:02:50 +0000",
       "minecraft:dark_forest": "2025-03-31 02:37:47 +0000",
@@ -54,6 +55,7 @@
       "minecraft:forest": "2025-03-22 20:21:21 +0000",
       "minecraft:deep_cold_ocean": "2025-03-31 02:47:37 +0000",
       "minecraft:desert": "2025-03-22 04:29:36 +0000",
+      "minecraft:windswept_forest": "2025-03-31 02:50:38 +0000",
       "minecraft:ocean": "2025-03-31 02:48:54 +0000",
       "minecraft:windswept_savanna": "2025-03-22 04:28:38 +0000",
       "minecraft:frozen_peaks": "2025-03-30 05:47:15 +0000",
@@ -6737,6 +6739,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2025-03-31 02:50:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_button": {
     "criteria": {
       "has_planks": "2025-03-31 02:04:14 +0000"
@@ -6818,6 +6826,12 @@
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-03-31 02:00:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2025-03-31 02:50:26 +0000"
     },
     "done": true
   },
