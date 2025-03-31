@@ -1743,3 +1743,11 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
 	... 28 more
+[31Mar2025 00:56:10.318] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lobo3224[/127.228.127.219:57777] logged in with entity id 44455 at (-1874.4490287910696, 65.0, -189.92245522074646)
+[31Mar2025 00:56:10.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 joined the game
+[31Mar2025 00:56:10.359] [Server thread/INFO] [Jade/]: Syncing config to lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc)
+[31Mar2025 00:56:11.522] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lobo3224 (18)
+[31Mar2025 00:56:11.522] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lobo3224
+[31Mar2025 00:56:16.902] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[31Mar2025 00:56:17.920] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[31Mar2025 00:56:17.921] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc) successfully connected to voice chat
