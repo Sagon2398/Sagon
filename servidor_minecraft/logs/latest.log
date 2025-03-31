@@ -2078,3 +2078,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [31Mar2025 02:15:49.248] [Worker-Main-2/INFO] [ModernFix/]: Instantiating Mojang DFU
 [31Mar2025 02:17:54.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Set the time to 1000]
 [31Mar2025 02:18:25.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Set own game mode to Survival Mode]
+[31Mar2025 02:20:31.146] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nacho_cgod[/127.222.49.101:51923] logged in with entity id 4746 at (-1901.1712957370382, 64.0, -170.64597304946471)
+[31Mar2025 02:20:31.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod joined the game
+[31Mar2025 02:20:31.187] [Server thread/INFO] [Jade/]: Syncing config to Nacho_cgod (53e7374b-5e04-335c-acba-f45d6acb5e7c)
+[31Mar2025 02:20:31.836] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nacho_cgod (18)
+[31Mar2025 02:20:31.837] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nacho_cgod
+[31Mar2025 02:20:34.582] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 53e7374b-5e04-335c-acba-f45d6acb5e7c
+[31Mar2025 02:20:35.583] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 53e7374b-5e04-335c-acba-f45d6acb5e7c
+[31Mar2025 02:20:35.583] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nacho_cgod (53e7374b-5e04-335c-acba-f45d6acb5e7c) successfully connected to voice chat
