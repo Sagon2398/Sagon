@@ -6250,9 +6250,9 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/enter_catacombs": {
+  "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
     "criteria": {
-      "in_catacombs": "2025-03-30 22:02:23 +0000"
+      "arcane_anvil": "2025-03-30 21:10:06 +0000"
     },
     "done": true
   },
@@ -6262,9 +6262,9 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
+  "irons_spellbooks:irons_spellbooks/enter_catacombs": {
     "criteria": {
-      "arcane_anvil": "2025-03-30 21:10:06 +0000"
+      "in_catacombs": "2025-03-30 22:02:23 +0000"
     },
     "done": true
   },
