@@ -1751,3 +1751,20 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 [31Mar2025 00:56:16.902] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
 [31Mar2025 00:56:17.920] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
 [31Mar2025 00:56:17.921] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc) successfully connected to voice chat
+[31Mar2025 01:08:24.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> lo hice
+[31Mar2025 01:12:10.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was slain by Wither Skeleton
+[31Mar2025 01:12:50.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 was doomed to fall
+[31Mar2025 01:14:12.070] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nacho_cgod[/127.222.49.101:44231] logged in with entity id 48576 at (-1875.5691258304798, 63.9375, -179.24531769029127)
+[31Mar2025 01:14:12.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod joined the game
+[31Mar2025 01:14:12.100] [Server thread/INFO] [Jade/]: Syncing config to Nacho_cgod (53e7374b-5e04-335c-acba-f45d6acb5e7c)
+[31Mar2025 01:14:12.768] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nacho_cgod (18)
+[31Mar2025 01:14:12.768] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nacho_cgod
+[31Mar2025 01:14:15.588] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 53e7374b-5e04-335c-acba-f45d6acb5e7c
+[31Mar2025 01:14:16.590] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 53e7374b-5e04-335c-acba-f45d6acb5e7c
+[31Mar2025 01:14:16.591] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nacho_cgod (53e7374b-5e04-335c-acba-f45d6acb5e7c) successfully connected to voice chat
+[31Mar2025 01:14:32.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> hola
+[31Mar2025 01:14:39.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> masturbacion
+[31Mar2025 01:15:59.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> vení para la nave
+[31Mar2025 01:16:08.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> vení preparado
+[31Mar2025 01:16:15.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> hay esqueletos mamados
+[31Mar2025 01:16:46.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> lo decis como si tuviera cosas xd
