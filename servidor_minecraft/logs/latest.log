@@ -2452,3 +2452,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [31Mar2025 02:53:50.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has made the advancement [Tools of the Trade]
 [31Mar2025 02:53:50.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has completed the challenge [Premium!]
 [31Mar2025 02:55:01.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has reached the goal [Quaint Scribe]
+[31Mar2025 03:01:49.524] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-422, y=-52, z=-391}
+[31Mar2025 03:01:49.542] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-427, y=-52, z=-408}
+[31Mar2025 03:01:49.555] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=-51, z=-548}
+[31Mar2025 03:01:49.555] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-54, z=-542}
+[31Mar2025 03:01:49.556] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-53, z=-542}
+[31Mar2025 03:01:49.723] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-52, z=-419}
+[31Mar2025 03:01:49.724] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-424, y=-52, z=-422}
+[31Mar2025 03:01:49.732] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-350, y=-58, z=-499}
+[31Mar2025 03:01:49.752] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-414, y=-52, z=-427}
+[31Mar2025 03:01:49.754] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=-52, z=-702}
+[31Mar2025 03:01:49.754] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-221, y=-52, z=-702}
+[31Mar2025 03:02:41.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has made the advancement [Mine? Mine? Mine?]
+[31Mar2025 03:05:53.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Welcome To The Machine]
+[31Mar2025 03:06:15.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has made the advancement [Welcome To The Machine]
