@@ -1795,3 +1795,4 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 [31Mar2025 01:24:47.808] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 53e7374b-5e04-335c-acba-f45d6acb5e7c
 [31Mar2025 01:24:47.808] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nacho_cgod (53e7374b-5e04-335c-acba-f45d6acb5e7c) successfully connected to voice chat
 [31Mar2025 01:25:38.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> vamos a otra?
+[31Mar2025 01:30:39.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has made the advancement [Magery]
