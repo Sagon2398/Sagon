@@ -37,8 +37,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-03-31 02:39:08 +0000",
+      "minecraft:birch_forest": "2025-03-31 02:35:55 +0000",
       "minecraft:savanna_plateau": "2025-03-30 21:09:51 +0000",
+      "minecraft:river": "2025-03-31 02:35:58 +0000",
       "minecraft:forest": "2025-03-30 21:12:12 +0000",
+      "minecraft:old_growth_birch_forest": "2025-03-31 02:36:06 +0000",
       "minecraft:savanna": "2025-03-30 19:55:34 +0000",
       "minecraft:plains": "2025-03-30 20:00:28 +0000"
     },
@@ -2368,6 +2372,24 @@
   "irons_spellbooks:irons_spellbooks/staff_root": {
     "criteria": {
       "requirement": "2025-03-31 02:09:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-03-31 02:30:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-31 02:30:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-03-31 02:30:06 +0000"
     },
     "done": true
   },
