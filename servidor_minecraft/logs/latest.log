@@ -2466,3 +2466,22 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [31Mar2025 03:02:41.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has made the advancement [Mine? Mine? Mine?]
 [31Mar2025 03:05:53.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Welcome To The Machine]
 [31Mar2025 03:06:15.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has made the advancement [Welcome To The Machine]
+[31Mar2025 03:23:23.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has made the advancement [Sneak 100]
+[31Mar2025 03:25:55.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Sneak 100]
+[31Mar2025 03:27:23.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 was slain by Skeleton
+[31Mar2025 03:27:30.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Teleported Santix15 to Nacho_cgod]
+[31Mar2025 03:27:32.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> tp
+[31Mar2025 03:30:22.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> tp
+[31Mar2025 03:30:24.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Teleported Nacho_cgod to Santix15]
+[31Mar2025 03:32:16.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod was toasted by Santix15's flaming breath
+[31Mar2025 03:32:35.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Teleported Nacho_cgod to Santix15]
+[31Mar2025 03:35:10.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> onde tas
+[31Mar2025 03:35:20.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> arriba
+[31Mar2025 03:35:25.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> vine por fuera
+[31Mar2025 03:36:03.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> me voyd a dormir
+[31Mar2025 03:37:26.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> adio mano
+[31Mar2025 03:37:32.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> duerma bien
+[31Mar2025 03:37:32.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> adios
+[31Mar2025 03:37:33.189] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nacho_cgod lost connection: Disconnected
+[31Mar2025 03:37:33.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod left the game
+[31Mar2025 03:37:33.190] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nacho_cgod
