@@ -2922,3 +2922,6 @@ Caused by: java.io.IOException: Packet 0/0 (ServerboundAcceptTeleportationPacket
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
 	... 28 more
+[31Mar2025 05:20:09.332] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 lost connection: Disconnected
+[31Mar2025 05:20:09.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 left the game
+[31Mar2025 05:20:09.333] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Santix15
