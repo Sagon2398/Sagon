@@ -2036,3 +2036,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01Apr2025 00:13:09.278] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 53e7374b-5e04-335c-acba-f45d6acb5e7c
 [01Apr2025 00:13:10.276] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 53e7374b-5e04-335c-acba-f45d6acb5e7c
 [01Apr2025 00:13:10.280] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nacho_cgod (53e7374b-5e04-335c-acba-f45d6acb5e7c) successfully connected to voice chat
+[01Apr2025 00:21:40.537] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santix15[/127.193.11.42:49319] logged in with entity id 1930 at (-1875.249591247268, 65.0, -191.31802092676844)
+[01Apr2025 00:21:40.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 joined the game
+[01Apr2025 00:21:40.632] [Server thread/INFO] [Jade/]: Syncing config to Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae)
+[01Apr2025 00:21:43.470] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santix15 (18)
+[01Apr2025 00:21:43.471] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[01Apr2025 00:21:53.065] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[01Apr2025 00:21:54.061] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[01Apr2025 00:21:54.061] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
+[01Apr2025 00:22:40.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> barra skibidi toiley
+[01Apr2025 00:26:12.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nacho_cgod moved wrongly!
