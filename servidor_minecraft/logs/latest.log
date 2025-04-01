@@ -2180,3 +2180,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
   "<partial numeric data>",
   "[91, -1, 54, -113, -71, 121, -97, 82, -11, -7, 61]"
 ]
+[01Apr2025 01:28:59.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> me coy
+[01Apr2025 01:29:01.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> a mimir
+[01Apr2025 01:29:07.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> nos mevos
+[01Apr2025 01:29:15.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> : )
+[01Apr2025 01:29:16.735] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nacho_cgod lost connection: Disconnected
+[01Apr2025 01:29:16.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod left the game
+[01Apr2025 01:29:16.737] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nacho_cgod

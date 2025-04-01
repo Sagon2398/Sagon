@@ -6625,3 +6625,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01Apr2025 01:14:52.977] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Apr2025 01:19:52.959] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Apr2025 01:19:52.970] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Apr2025 01:24:52.961] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Apr2025 01:24:52.972] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Apr2025 01:28:59.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> me coy
+[01Apr2025 01:29:01.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> a mimir
+[01Apr2025 01:29:07.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> nos mevos
+[01Apr2025 01:29:15.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> : )
+[01Apr2025 01:29:16.735] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nacho_cgod lost connection: Disconnected
+[01Apr2025 01:29:16.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod left the game
+[01Apr2025 01:29:16.736] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Nacho_cgod
+[01Apr2025 01:29:16.737] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nacho_cgod
+[01Apr2025 01:29:52.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Apr2025 01:29:52.966] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
