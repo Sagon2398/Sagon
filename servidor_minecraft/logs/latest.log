@@ -2187,3 +2187,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01Apr2025 01:29:16.735] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nacho_cgod lost connection: Disconnected
 [01Apr2025 01:29:16.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod left the game
 [01Apr2025 01:29:16.737] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nacho_cgod
+[01Apr2025 01:43:59.934] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 lost connection: Disconnected
+[01Apr2025 01:43:59.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 left the game
+[01Apr2025 01:43:59.934] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Santix15
