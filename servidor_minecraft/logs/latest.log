@@ -2310,3 +2310,27 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
   "<partial numeric data>",
   "[109, -19, -94, -28, -29, 59, -117, -76, 4, 43, -78]"
 ]
+[01Apr2025 02:00:41.890] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[01Apr2025 02:00:41.891] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=5768192, y=1005, z=1122352}"
+}
+[01Apr2025 02:00:41.891] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[01Apr2025 02:00:41.891] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-42, 55, -27, -22, -103, 21, 13, -74, -93, 95, -28]"
+]
+[01Apr2025 02:00:42.141] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[01Apr2025 02:00:42.142] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-8125440, y=901, z=905264}"
+}
+[01Apr2025 02:00:42.142] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[01Apr2025 02:00:42.142] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-9, 52, -126, 102, 5, 90, 83, 117, -46, 36, 104]"
+]
