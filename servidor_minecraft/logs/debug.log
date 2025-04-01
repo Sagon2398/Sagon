@@ -6465,3 +6465,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01Apr2025 00:24:53.002] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Apr2025 00:24:53.008] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$d85c7003bf124822abbdd55262766e11 (originally me/jellysquid/mods/lithium/mixin/ai/poi/SerializingRegionBasedStorageMixin$1)
 [01Apr2025 00:26:12.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nacho_cgod moved wrongly!
+[01Apr2025 00:29:52.976] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Apr2025 00:29:52.988] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Apr2025 00:34:04.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> donde tas
+[01Apr2025 00:34:52.974] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Apr2025 00:34:52.986] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Apr2025 00:34:55.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> ok
