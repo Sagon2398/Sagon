@@ -6471,3 +6471,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01Apr2025 00:34:52.974] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Apr2025 00:34:52.986] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Apr2025 00:34:55.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> ok
+[01Apr2025 00:39:52.973] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Apr2025 00:39:52.985] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Apr2025 00:44:52.967] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Apr2025 00:44:52.979] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
