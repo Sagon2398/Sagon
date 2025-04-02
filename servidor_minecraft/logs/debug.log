@@ -8649,3 +8649,33 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [02Apr2025 06:17:58.150] [Worker-Main-105/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2194, y=-30, z=1235}
 [02Apr2025 06:17:58.288] [Worker-Main-105/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2189, y=-30, z=1235}
 [02Apr2025 06:17:58.289] [Worker-Main-105/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2188, y=-30, z=1225}
+[02Apr2025 06:18:16.109] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nacho_cgod moved too quickly! -7.747908252610614,-3.19969684206508,-5.686232081570097
+[02Apr2025 06:18:16.115] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6937ms or 138 ticks behind
+[02Apr2025 06:18:25.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 moved too quickly! 2.643597421260324,-1.7531999805212024,-9.675888892279659
+[02Apr2025 06:18:25.804] [Worker-Main-248/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[02Apr2025 06:18:25.826] [Worker-Main-248/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[02Apr2025 06:18:25.848] [Worker-Main-248/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_towers/bandit_towers_crossing_2 is being run through DFU (hash 3fca19fa6138014dc68db7204b38877d6217ba208c1cc2e96eaba58b9db05979), this will cause launch time delays
+[02Apr2025 06:18:25.959] [Worker-Main-248/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_bottom_1 is being run through DFU (hash f4f52708cd3974ec744c0b865a0ce90a99c8a64fc7ee182cb67d059f84a05629), this will cause launch time delays
+[02Apr2025 06:18:54.537] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_3
+[02Apr2025 06:18:54.545] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_theater_2
+[02Apr2025 06:18:54.569] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_5
+[02Apr2025 06:18:54.575] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_juggernaut_0
+[02Apr2025 06:18:54.576] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_theater_3_main
+[02Apr2025 06:18:54.576] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_phantom_rider_0
+[02Apr2025 06:18:54.577] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_juggernaut_1
+[02Apr2025 06:18:54.577] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_phantom_rider_1
+[02Apr2025 06:18:54.578] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_hoglin_rider_0
+[02Apr2025 06:18:54.579] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_theater_0
+[02Apr2025 06:18:54.614] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_1
+[02Apr2025 06:18:54.645] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_4
+[02Apr2025 06:18:54.681] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_0
+[02Apr2025 06:19:22.270] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Apr2025 06:19:22.281] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Apr2025 06:20:25.613] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:chain_creeper 1: [0af18bc5-2b3a-43c9-a5e6-9389c7bcd5a3]
+[02Apr2025 06:20:28.301] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:chain_creeper 1: [0af18bc5-2b3a-43c9-a5e6-9389c7bcd5a3]
+[02Apr2025 06:21:11.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [A Seedy Place]
+[02Apr2025 06:23:51.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Teleported Santix15 to Nacho_cgod]
+[02Apr2025 06:23:55.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [You Are A Pirate]
+[02Apr2025 06:24:22.258] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Apr2025 06:24:22.268] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Apr2025 06:24:46.700] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:chain_creeper 1: [eb6f42e6-25b2-45e8-8780-a64e05f3e4df]
