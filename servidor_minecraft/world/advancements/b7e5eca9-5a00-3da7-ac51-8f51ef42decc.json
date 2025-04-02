@@ -6300,6 +6300,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-02 03:03:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-02 03:03:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-02 03:03:20 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana_slug": {
+    "criteria": {
+      "killed": "2025-04-02 03:52:11 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_illager_corsair_or_illager_galley": {
     "criteria": {
       "location0": "2025-04-02 03:55:34 +0000"
@@ -6312,45 +6336,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/magma_cream": {
+  "alexsmobs:alexsmobs/rainbow_jelly": {
     "criteria": {
-      "has_blaze_powder": "2025-04-02 03:03:20 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/black_sofa": {
-    "criteria": {
-      "has_wool": "2025-04-02 04:52:02 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/banana_slug": {
-    "criteria": {
-      "killed": "2025-04-02 03:52:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_carpet": {
-    "criteria": {
-      "has_black_wool": "2025-04-02 04:52:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/map": {
-    "criteria": {
-      "has_compass": "2025-04-02 04:32:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_banner": {
-    "criteria": {
-      "has_black_wool": "2025-04-02 04:52:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2025-04-02 03:03:20 +0000"
+      "gustmaker": "2025-04-02 03:59:43 +0000"
     },
     "done": true
   },
@@ -6360,15 +6348,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/rainbow_jelly": {
+  "minecraft:recipes/misc/black_dye": {
     "criteria": {
-      "gustmaker": "2025-04-02 03:59:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_bed": {
-    "criteria": {
-      "has_black_wool": "2025-04-02 04:52:02 +0000"
+      "has_ink_sac": "2025-04-02 04:27:09 +0000"
     },
     "done": true
   },
@@ -6378,27 +6360,9 @@
     },
     "done": true
   },
-  "mowziesmobs:suns_blessing": {
+  "minecraft:recipes/misc/map": {
     "criteria": {
-      "get_suns_blessing": "2025-04-02 04:51:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye": {
-    "criteria": {
-      "has_ink_sac": "2025-04-02 04:27:09 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/gustmaker": {
-    "criteria": {
-      "gustmaker": "2025-04-02 05:20:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_blaze_powder": "2025-04-02 03:03:20 +0000"
+      "has_compass": "2025-04-02 04:32:06 +0000"
     },
     "done": true
   },
@@ -6408,9 +6372,45 @@
     },
     "done": true
   },
+  "mowziesmobs:suns_blessing": {
+    "criteria": {
+      "get_suns_blessing": "2025-04-02 04:51:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_sofa": {
+    "criteria": {
+      "has_wool": "2025-04-02 04:52:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-04-02 04:52:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-04-02 04:52:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-04-02 04:52:02 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/kangaroo": {
     "criteria": {
       "killed_by": "2025-04-02 04:56:43 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/gustmaker": {
+    "criteria": {
+      "gustmaker": "2025-04-02 05:20:27 +0000"
     },
     "done": true
   },

@@ -2371,3 +2371,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [02Apr2025 21:52:06.606] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
 [02Apr2025 21:52:06.606] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc) successfully connected to voice chat
 [02Apr2025 21:52:14.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> ando en un grupo si queres
+[02Apr2025 21:58:43.047] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nacho_cgod lost connection: Disconnected
+[02Apr2025 21:58:43.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod left the game
+[02Apr2025 21:58:43.050] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nacho_cgod
+[02Apr2025 21:58:48.522] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nacho_cgod[/127.88.251.5:38483] logged in with entity id 18067 at (-1887.092452095624, 63.9375, -172.89303057703972)
+[02Apr2025 21:58:48.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod joined the game
+[02Apr2025 21:58:48.584] [Server thread/INFO] [Jade/]: Syncing config to Nacho_cgod (53e7374b-5e04-335c-acba-f45d6acb5e7c)
+[02Apr2025 21:58:48.779] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nacho_cgod (18)
+[02Apr2025 21:58:48.780] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nacho_cgod
+[02Apr2025 21:58:52.406] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 53e7374b-5e04-335c-acba-f45d6acb5e7c
+[02Apr2025 21:58:53.399] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 53e7374b-5e04-335c-acba-f45d6acb5e7c
+[02Apr2025 21:58:53.399] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nacho_cgod (53e7374b-5e04-335c-acba-f45d6acb5e7c) successfully connected to voice chat
