@@ -7763,3 +7763,52 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [02Apr2025 04:14:15.371] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Apr2025 04:14:15.380] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [02Apr2025 04:15:19.384] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:firefly_swarm 1: [b7e5eca9-5a00-3da7-ac51-8f51ef42decc]
+[02Apr2025 04:19:15.367] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Apr2025 04:19:15.378] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Apr2025 04:19:50.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> zzzzz
+[02Apr2025 04:19:51.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> zzzzz
+[02Apr2025 04:19:52.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> zzzzz
+[02Apr2025 04:19:53.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> zzzz
+[02Apr2025 04:19:53.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> zz
+[02Apr2025 04:19:54.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> zzz
+[02Apr2025 04:19:54.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> z
+[02Apr2025 04:19:54.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> z
+[02Apr2025 04:19:54.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> z
+[02Apr2025 04:19:54.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> z
+[02Apr2025 04:19:55.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> zz
+[02Apr2025 04:19:55.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> z
+[02Apr2025 04:19:55.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> z
+[02Apr2025 04:19:55.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> z
+[02Apr2025 04:19:55.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> z
+[02Apr2025 04:19:56.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> z
+[02Apr2025 04:19:56.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> z
+[02Apr2025 04:19:56.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> zz
+[02Apr2025 04:19:56.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> z
+[02Apr2025 04:19:56.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> z
+[02Apr2025 04:19:57.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> z
+[02Apr2025 04:19:57.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> z
+[02Apr2025 04:19:57.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> z
+[02Apr2025 04:19:58.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> zz
+[02Apr2025 04:19:58.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> z
+[02Apr2025 04:19:59.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> zzzzz
+[02Apr2025 04:19:59.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> zz
+[02Apr2025 04:19:59.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> z
+[02Apr2025 04:19:59.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> z
+[02Apr2025 04:20:00.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> z
+[02Apr2025 04:20:00.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> z
+[02Apr2025 04:20:00.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> zz
+[02Apr2025 04:20:01.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> zz
+[02Apr2025 04:22:35.085] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_straight_2
+[02Apr2025 04:24:03.840] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_1
+[02Apr2025 04:24:03.861] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_6
+[02Apr2025 04:24:03.951] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/staircase
+[02Apr2025 04:24:03.954] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/basement
+[02Apr2025 04:24:03.956] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/stairway
+[02Apr2025 04:24:03.957] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/junction
+[02Apr2025 04:24:03.958] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_dead_end
+[02Apr2025 04:24:03.959] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/cracked_wall_opening
+[02Apr2025 04:24:03.960] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/shelf_storage
+[02Apr2025 04:24:03.961] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/dual_storage
+[02Apr2025 04:24:15.375] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Apr2025 04:24:15.386] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Apr2025 04:25:11.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 moved too quickly! -0.46713223932601977,-10.693769432386205,-1.1098467440397144
