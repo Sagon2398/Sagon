@@ -1746,6 +1746,7 @@
       "minecraft:blaze": "2025-04-02 05:34:37 +0000",
       "minecraft:skeleton": "2025-03-30 20:57:33 +0000",
       "minecraft:ghast": "2025-04-02 05:27:40 +0000",
+      "minecraft:hoglin": "2025-04-02 21:51:04 +0000",
       "minecraft:vindicator": "2025-03-31 02:54:23 +0000",
       "minecraft:spider": "2025-03-31 02:46:46 +0000",
       "minecraft:phantom": "2025-04-02 01:53:28 +0000",
@@ -4806,6 +4807,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-04-02 21:49:31 +0000",
       "minecraft:nether_wastes": "2025-04-02 05:25:29 +0000",
       "minecraft:soul_sand_valley": "2025-04-02 05:24:57 +0000",
       "minecraft:basalt_deltas": "2025-04-02 05:31:28 +0000"
@@ -5646,6 +5648,18 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/cooking/magma_gelatin": {
+    "criteria": {
+      "has_propelpearl": "2025-04-02 21:52:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-04-02 21:51:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-02 21:00:07 +0000"
@@ -5658,15 +5672,45 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/decorations/blackstone_stove": {
+    "criteria": {
+      "has_nether_brick": "2025-04-02 21:51:53 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/decorations/propelplant_torch": {
+    "criteria": {
+      "has_propelplant": "2025-04-02 21:52:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-02 21:53:42 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_hedge": {
     "criteria": {
       "has_leaves": "2025-04-02 21:34:12 +0000"
     },
     "done": true
   },
+  "nethersdelight:recipes/food/nether_skewer": {
+    "criteria": {
+      "has_propelpearl": "2025-04-02 21:52:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2025-04-02 21:00:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-02 21:53:42 +0000"
     },
     "done": true
   },

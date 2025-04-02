@@ -2360,3 +2360,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
   "<partial numeric data>",
   "[26, 37, 54, 19, 95, 7, -94, 4, -34, -11, 26]"
 ]
+[02Apr2025 21:48:36.447] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[02Apr2025 21:51:49.818] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lobo3224[/127.244.171.63:53431] logged in with entity id 15011 at (-1853.371870999009, 67.9375, -169.6353692898679)
+[02Apr2025 21:51:49.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 joined the game
+[02Apr2025 21:51:49.851] [Server thread/INFO] [Jade/]: Syncing config to lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc)
+[02Apr2025 21:51:52.881] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lobo3224 (18)
+[02Apr2025 21:51:52.882] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lobo3224
+[02Apr2025 21:51:57.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> hola
+[02Apr2025 21:52:05.552] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[02Apr2025 21:52:06.606] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[02Apr2025 21:52:06.606] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc) successfully connected to voice chat
+[02Apr2025 21:52:14.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> ando en un grupo si queres
