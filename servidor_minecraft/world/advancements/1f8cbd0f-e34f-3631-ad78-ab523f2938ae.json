@@ -7027,21 +7027,81 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone_slab": {
-    "criteria": {
-      "has_sandstone": "2025-04-02 04:50:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-04-02 04:51:22 +0000"
-    },
-    "done": true
-  },
   "alexsmobs:alexsmobs/rattlesnake": {
     "criteria": {
       "killed_by": "2025-04-02 03:14:11 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2025-04-02 03:21:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-04-02 04:11:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-04-02 04:11:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-04-02 04:11:57 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_green_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-04-02 04:41:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-04-02 04:41:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_green_picket_fence": {
+    "criteria": {
+      "has_dye": "2025-04-02 04:41:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_candle": {
+    "criteria": {
+      "has_green_dye": "2025-04-02 04:41:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-04-02 04:41:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-04-02 04:41:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-04-02 04:41:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-04-02 04:50:02 +0000"
     },
     "done": true
   },
@@ -7063,69 +7123,15 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/dye_green_picket_gate": {
-    "criteria": {
-      "has_dye": "2025-04-02 04:41:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-04-02 04:50:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
-    "criteria": {
-      "has_cut_sandstone": "2025-04-02 04:50:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_green_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-04-02 04:41:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/green_dye": {
-    "criteria": {
-      "has_cactus": "2025-04-02 04:41:48 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/dye_green_picket_fence": {
-    "criteria": {
-      "has_dye": "2025-04-02 04:41:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
-    "criteria": {
-      "has_cut_sandstone": "2025-04-02 04:50:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-04-02 04:11:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/green_candle": {
-    "criteria": {
-      "has_green_dye": "2025-04-02 04:41:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-04-02 04:50:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
-    "criteria": {
-      "has_dune_armor_trim_smithing_template": "2025-04-02 04:51:22 +0000"
     },
     "done": true
   },
@@ -7141,12 +7147,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/guster": {
-    "criteria": {
-      "killed_by": "2025-04-02 03:21:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-04-02 04:50:02 +0000"
@@ -7159,33 +7159,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/moss_carpet": {
-    "criteria": {
-      "has_moss_block": "2025-04-02 04:11:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-04-02 04:50:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_green_carpet": {
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
     "criteria": {
-      "has_needed_dye": "2025-04-02 04:41:14 +0000"
+      "has_cut_sandstone": "2025-04-02 04:50:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
     "criteria": {
-      "has_moss_block": "2025-04-02 04:11:57 +0000"
+      "has_cut_sandstone": "2025-04-02 04:50:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_green_wool": {
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_needed_dye": "2025-04-02 04:41:14 +0000"
+      "has_smithing_trim_template": "2025-04-02 04:51:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2025-04-02 04:51:22 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/gustmaker": {
+    "criteria": {
+      "gustmaker": "2025-04-02 04:56:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-04-02 05:00:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-04-02 05:00:38 +0000"
     },
     "done": true
   },

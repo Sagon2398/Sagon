@@ -3603,6 +3603,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/misc/skeleton_skull_candle": {
+    "criteria": {
+      "has_item": "2025-04-02 05:03:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-04-02 04:33:09 +0000"
@@ -4680,6 +4686,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-04-02 02:51:19 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/skull_on_a_stick": {
+    "criteria": {
+      "item": "2025-04-02 05:03:02 +0000"
     },
     "done": true
   },
