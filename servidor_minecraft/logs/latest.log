@@ -2595,3 +2595,123 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [02Apr2025 23:06:00.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has reached the goal [Non-renewable? Yeah, right..]
 [02Apr2025 23:07:06.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has made the advancement [Gravedigger]
 [02Apr2025 23:12:12.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: The difficulty has been set to Hard]
+[02Apr2025 23:20:44.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 0.4433935558606663
+[02Apr2025 23:20:44.751] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 0.4549076554903877
+[02Apr2025 23:21:00.146] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of lobo3224) moved wrongly! 0.46237927975812454
+[02Apr2025 23:21:00.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of lobo3224) moved wrongly! 0.3365970024042326
+[02Apr2025 23:21:00.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of lobo3224) moved wrongly! 1.2062930508232057
+[02Apr2025 23:21:00.296] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of lobo3224) moved wrongly! 2.066087968978969
+[02Apr2025 23:21:00.346] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of lobo3224) moved wrongly! 2.903511284872008
+[02Apr2025 23:21:00.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of lobo3224) moved wrongly! 3.705871629766952
+[02Apr2025 23:21:00.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of lobo3224) moved wrongly! 4.45980831107412
+[02Apr2025 23:21:00.596] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of lobo3224) moved wrongly! 0.37024811775609123
+[02Apr2025 23:21:00.596] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of lobo3224) moved wrongly! 0.9439902445697044
+[02Apr2025 23:21:00.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of lobo3224) moved wrongly! 0.38062525901165145
+[02Apr2025 23:21:00.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of lobo3224) moved wrongly! 0.9603465251552734
+[02Apr2025 23:21:01.096] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 0.40006679970611003
+[02Apr2025 23:21:01.272] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 0.35550347852085906
+[02Apr2025 23:21:01.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 0.2798891069280671
+[02Apr2025 23:21:17.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 0.26854734303486794
+[02Apr2025 23:21:17.318] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 0.4529890372406271
+[02Apr2025 23:21:17.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 0.3002541552532989
+[02Apr2025 23:21:17.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 0.4679554080663024
+[02Apr2025 23:21:17.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 0.3276876341535626
+[02Apr2025 23:21:17.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 0.2787843771442624
+[02Apr2025 23:21:17.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 0.4853629880270489
+[02Apr2025 23:21:17.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 0.34328535346514855
+[02Apr2025 23:21:18.000] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 0.3281392041197364
+[02Apr2025 23:21:18.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 0.49028854003665856
+[02Apr2025 23:21:18.248] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 0.3510077342234297
+[02Apr2025 23:21:19.226] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 0.2711950432310175
+[02Apr2025 23:21:19.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 0.3821104215013804
+[02Apr2025 23:21:20.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 0.44571299469052406
+[02Apr2025 23:21:20.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 0.37065395751926644
+[02Apr2025 23:21:20.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 0.36065016457553156
+[02Apr2025 23:21:20.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 0.4133512622452713
+[02Apr2025 23:21:20.896] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 0.2766887174740589
+[02Apr2025 23:21:20.896] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 0.6361758291116075
+[02Apr2025 23:21:21.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 1.0960702462245706
+[02Apr2025 23:21:21.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 1.3421505795162432
+[02Apr2025 23:21:21.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 1.4738232595480838
+[02Apr2025 23:21:21.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 0.43504976115818295
+[02Apr2025 23:21:21.415] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 0.6637923130323315
+[02Apr2025 23:21:21.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 1.4533444008802974
+[02Apr2025 23:21:21.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 0.27543445901648056
+[02Apr2025 23:21:21.931] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 0.5
+[02Apr2025 23:21:21.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 0.5
+[02Apr2025 23:21:22.047] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 0.5
+[02Apr2025 23:21:22.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 0.5
+[02Apr2025 23:22:05.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of lobo3224) moved wrongly! 0.5625
+[02Apr2025 23:22:05.948] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of lobo3224) moved wrongly! 0.5625
+[02Apr2025 23:22:05.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of lobo3224) moved wrongly! 0.75
+[02Apr2025 23:22:06.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of lobo3224) moved wrongly! 0.75
+[02Apr2025 23:22:06.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of lobo3224) moved wrongly! 0.75
+[02Apr2025 23:22:06.148] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of lobo3224) moved wrongly! 0.75
+[02Apr2025 23:22:06.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of lobo3224) moved wrongly! 0.75
+[02Apr2025 23:22:06.249] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of lobo3224) moved wrongly! 0.75
+[02Apr2025 23:22:37.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 0.44489735081583603
+[02Apr2025 23:22:37.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 1.2751775761935278
+[02Apr2025 23:22:37.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 2.0
+[02Apr2025 23:22:37.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 2.0
+[02Apr2025 23:22:37.148] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 2.0
+[02Apr2025 23:22:37.199] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 1.9974289670949474
+[02Apr2025 23:22:37.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 0.5744161068095082
+[02Apr2025 23:22:37.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 0.5744161068095082
+[02Apr2025 23:22:37.499] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 0.2907810564344686
+[02Apr2025 23:22:51.626] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 0.4172803861386001
+[02Apr2025 23:23:01.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of lobo3224) moved wrongly! 0.30034146472058865
+[02Apr2025 23:23:02.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of lobo3224) moved wrongly! 0.7393393498815044
+[02Apr2025 23:23:03.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 0.3114156091971836
+[02Apr2025 23:23:03.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 0.8417785052064419
+[02Apr2025 23:23:03.251] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 0.4365739809310867
+[02Apr2025 23:23:03.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 1.1198296482717183
+[02Apr2025 23:23:03.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 1.788915071386425
+[02Apr2025 23:23:03.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 2.445808025183454
+[02Apr2025 23:23:03.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Nacho_cgod) moved wrongly! 3.223974580901558
+[02Apr2025 23:23:05.251] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of lobo3224) moved wrongly! 0.67890988403866
+[02Apr2025 23:23:05.700] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of lobo3224) moved wrongly! 0.25014288013176156
+[02Apr2025 23:23:05.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of lobo3224) moved wrongly! 0.6516178132483219
+[02Apr2025 23:25:41.711] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Santix15) moved wrongly! 0.3669921004009211
+[02Apr2025 23:25:41.712] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Santix15) moved wrongly! 1.1006521228473503
+[02Apr2025 23:25:41.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Santix15) moved wrongly! 1.8277139146102854
+[02Apr2025 23:25:41.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Santix15) moved wrongly! 2.5512451246891032
+[02Apr2025 23:25:41.865] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Santix15) moved wrongly! 3.301261376714365
+[02Apr2025 23:25:41.912] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Santix15) moved wrongly! 4.082543368961069
+[02Apr2025 23:25:41.965] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Santix15) moved wrongly! 4.886749809868206
+[02Apr2025 23:25:42.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Santix15) moved wrongly! 5.703222666189276
+[02Apr2025 23:25:42.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Santix15) moved wrongly! 6.5262590368322435
+[02Apr2025 23:25:42.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Santix15) moved wrongly! 0.7449333748961635
+[02Apr2025 23:25:42.154] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Santix15) moved wrongly! 0.7452666467795552
+[02Apr2025 23:25:42.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Santix15) moved wrongly! 1.5633552968390632
+[02Apr2025 23:25:42.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Santix15) moved wrongly! 2.3596550979514177
+[02Apr2025 23:25:42.330] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Santix15) moved wrongly! 0.6153422673389741
+[02Apr2025 23:25:42.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Santix15) moved wrongly! 0.5427660341838418
+[02Apr2025 23:25:42.410] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Santix15) moved wrongly! 1.0814651724615487
+[02Apr2025 23:25:42.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Santix15) moved wrongly! 0.40479314280901235
+[02Apr2025 23:25:42.555] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Santix15) moved wrongly! 0.39800262600147107
+[02Apr2025 23:25:42.555] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Santix15) moved wrongly! 0.9069200299156819
+[02Apr2025 23:25:42.606] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Santix15) moved wrongly! 0.5130313728232068
+[02Apr2025 23:25:42.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Santix15) moved wrongly! 1.1854313639901193
+[02Apr2025 23:25:42.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Santix15) moved wrongly! 1.9134628370534301
+[02Apr2025 23:25:42.784] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Santix15) moved wrongly! 0.6777735198809296
+[02Apr2025 23:25:42.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Santix15) moved wrongly! 0.6940104048485409
+[02Apr2025 23:25:42.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Santix15) moved wrongly! 1.4713595762559635
+[02Apr2025 23:25:42.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Santix15) moved wrongly! 2.232183594478329
+[02Apr2025 23:25:43.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Santix15) moved wrongly! 0.6251288557259613
+[02Apr2025 23:25:43.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Santix15) moved wrongly! 1.255576976757311
+[02Apr2025 23:25:43.054] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Santix15) moved wrongly! 0.8000225494138249
+[02Apr2025 23:25:43.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Santix15) moved wrongly! 1.112618350945695
+[02Apr2025 23:26:12.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 was kicked for floating too long!
+[02Apr2025 23:26:12.016] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 lost connection: Disconnected
+[02Apr2025 23:26:12.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 left the game
+[02Apr2025 23:26:12.016] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Santix15
+[02Apr2025 23:26:12.051] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Apr2025 23:26:28.065] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santix15[/127.193.11.42:51345] logged in with entity id 46351 at (-2033.9668962367714, 65.73971879750455, -332.97735207578205)
+[02Apr2025 23:26:28.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 joined the game
+[02Apr2025 23:26:28.082] [Server thread/INFO] [Jade/]: Syncing config to Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae)
+[02Apr2025 23:26:28.548] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santix15 (18)
+[02Apr2025 23:26:28.549] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[02Apr2025 23:26:32.289] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[02Apr2025 23:26:33.291] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[02Apr2025 23:26:33.291] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
+[02Apr2025 23:26:45.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> XD muy LOL
