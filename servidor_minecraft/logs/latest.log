@@ -2386,3 +2386,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [02Apr2025 03:59:38.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: The difficulty has been set to Hard]
 [02Apr2025 03:59:43.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Taste the Rainbow]
 [02Apr2025 04:02:09.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Rainbow Road]
+[02Apr2025 04:12:52.184] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 moved too quickly! 3.0740161126693692,-0.2336320060424839,9.841478396270276
