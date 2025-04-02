@@ -2744,3 +2744,31 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [02Apr2025 23:37:10.326] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 lost connection: Flying is not enabled on this server
 [02Apr2025 23:37:10.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 left the game
 [02Apr2025 23:37:10.327] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Santix15
+[02Apr2025 23:37:15.724] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santix15[/127.193.11.42:47939] logged in with entity id 61882 at (-3190.0650564055077, 65.2705181756262, -970.8066246046441)
+[02Apr2025 23:37:15.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 joined the game
+[02Apr2025 23:37:15.766] [Server thread/INFO] [Jade/]: Syncing config to Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae)
+[02Apr2025 23:37:16.357] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santix15 (18)
+[02Apr2025 23:37:16.358] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[02Apr2025 23:37:18.864] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[02Apr2025 23:37:19.865] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[02Apr2025 23:37:19.866] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
+[02Apr2025 23:38:07.369] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element irons_spellbooks:mountain_tower took 19 ms
+[02Apr2025 23:38:43.878] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element irons_spellbooks:mountain_tower took 1 ms
+[02Apr2025 23:39:10.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has made the advancement [Hunt and Gather]
+[02Apr2025 23:39:41.843] [Worker-Main-153/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Apr2025 23:39:41.844] [Worker-Main-153/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Apr2025 23:40:02.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has made the advancement [Alex's Caves]
+[02Apr2025 23:40:45.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> ya vengo en 10 mn
+[02Apr2025 23:41:53.816] [Worker-Main-135/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[02Apr2025 23:41:53.821] [Worker-Main-135/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[02Apr2025 23:41:53.823] [Worker-Main-135/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[02Apr2025 23:41:59.711] [Worker-Main-133/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
+[02Apr2025 23:41:59.712] [Worker-Main-133/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
+[02Apr2025 23:41:59.712] [Worker-Main-133/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[02Apr2025 23:41:59.728] [Worker-Main-52/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-423, y=-50, z=-211}
+[02Apr2025 23:41:59.734] [Worker-Main-52/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[02Apr2025 23:41:59.734] [Worker-Main-52/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[02Apr2025 23:41:59.735] [Worker-Main-52/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[02Apr2025 23:41:59.735] [Worker-Main-52/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[02Apr2025 23:41:59.735] [Worker-Main-52/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[02Apr2025 23:47:19.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has made the advancement [It Belongs in a Museum]
