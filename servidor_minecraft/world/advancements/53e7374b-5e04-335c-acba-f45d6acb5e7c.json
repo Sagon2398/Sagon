@@ -1212,12 +1212,14 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-03-31 01:15:05 +0000",
+      "cooked_mutton": "2025-04-02 06:50:32 +0000",
       "cooked_beef": "2025-03-31 02:07:01 +0000",
       "apple": "2025-03-30 21:13:30 +0000",
       "pumpkin_pie": "2025-03-30 20:05:57 +0000",
       "mutton": "2025-04-02 04:38:41 +0000",
       "golden_apple": "2025-03-31 03:10:19 +0000",
       "bread": "2025-04-02 06:14:02 +0000",
+      "suspicious_stew": "2025-04-02 06:51:38 +0000",
       "golden_carrot": "2025-03-31 01:21:17 +0000",
       "mushroom_stew": "2025-04-02 06:39:23 +0000"
     },
@@ -3592,6 +3594,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-04-02 06:51:24 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/gray_picket_gate": {
     "criteria": {
       "has_concrete": "2025-04-02 03:55:52 +0000"
@@ -4810,6 +4818,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-04-02 06:49:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-04-02 02:38:52 +0000"
@@ -5092,6 +5106,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-04-02 06:51:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2025-04-02 02:38:52 +0000"
@@ -5164,6 +5184,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-04-02 06:51:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-02 02:02:17 +0000"
@@ -5221,6 +5247,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-04-02 05:33:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-04-02 06:51:21 +0000"
     },
     "done": true
   },

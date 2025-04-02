@@ -2892,3 +2892,7 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 ]
 [02Apr2025 06:43:26.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Mine? Mine? Mine?]
 [02Apr2025 06:48:12.884] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/122201, l='ServerLevel[world]', x=-3081.90, y=62.15, z=-2264.99] died, message: 'Unemployed was slain by Crocodile'
+[02Apr2025 06:49:17.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has made the advancement [Chompy]
+[02Apr2025 06:49:38.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Teleported Santix15 to Nacho_cgod]
+[02Apr2025 06:56:18.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has made the advancement [Smoke On The Water]
+[02Apr2025 06:56:25.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Smoke On The Water]
