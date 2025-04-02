@@ -5556,6 +5556,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-04-02 08:02:55 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/stove": {
     "criteria": {
       "has_campfire": "2025-04-02 07:53:03 +0000"

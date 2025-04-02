@@ -3137,3 +3137,19 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
   "<partial numeric data>",
   "[101, 127, -125, -23, -72, -22, -25, 43, 3, -1, 52]"
 ]
+[02Apr2025 08:02:55.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Surge Protector]
+[02Apr2025 08:02:55.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has made the advancement [Surge Protector]
+[02Apr2025 08:08:03.534] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 53e7374b-5e04-335c-acba-f45d6acb5e7c timed out
+[02Apr2025 08:08:03.535] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Nacho_cgod
+[02Apr2025 08:08:03.535] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Nacho_cgod
+[02Apr2025 08:08:17.589] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nacho_cgod lost connection: You logged in from another location
+[02Apr2025 08:08:17.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod left the game
+[02Apr2025 08:08:17.589] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nacho_cgod
+[02Apr2025 08:08:17.599] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nacho_cgod[/127.88.251.5:49307] logged in with entity id 152791 at (-1861.3496880303999, 90.0, -123.12645675917227)
+[02Apr2025 08:08:17.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod joined the game
+[02Apr2025 08:08:17.644] [Server thread/INFO] [Jade/]: Syncing config to Nacho_cgod (53e7374b-5e04-335c-acba-f45d6acb5e7c)
+[02Apr2025 08:08:17.821] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nacho_cgod (18)
+[02Apr2025 08:08:17.821] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nacho_cgod
+[02Apr2025 08:08:19.909] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 53e7374b-5e04-335c-acba-f45d6acb5e7c
+[02Apr2025 08:08:20.909] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 53e7374b-5e04-335c-acba-f45d6acb5e7c
+[02Apr2025 08:08:20.909] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nacho_cgod (53e7374b-5e04-335c-acba-f45d6acb5e7c) successfully connected to voice chat
