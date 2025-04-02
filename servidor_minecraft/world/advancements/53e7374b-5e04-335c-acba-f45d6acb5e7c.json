@@ -44,6 +44,7 @@
       "minecraft:birch_forest": "2025-03-31 02:35:55 +0000",
       "minecraft:savanna_plateau": "2025-03-30 21:09:51 +0000",
       "minecraft:beach": "2025-03-31 03:02:28 +0000",
+      "minecraft:dark_forest": "2025-04-02 06:27:47 +0000",
       "minecraft:river": "2025-03-31 02:35:58 +0000",
       "minecraft:stony_shore": "2025-04-02 06:19:33 +0000",
       "minecraft:dripstone_caves": "2025-04-02 02:02:37 +0000",
@@ -1739,6 +1740,7 @@
       "minecraft:husk": "2025-04-02 06:14:04 +0000",
       "minecraft:piglin": "2025-04-02 05:26:02 +0000",
       "minecraft:enderman": "2025-04-02 04:06:50 +0000",
+      "minecraft:stray": "2025-04-02 06:32:28 +0000",
       "minecraft:zombie": "2025-03-30 20:22:33 +0000",
       "minecraft:drowned": "2025-04-02 02:49:05 +0000",
       "minecraft:zombie_villager": "2025-04-02 03:59:13 +0000"
@@ -3395,6 +3397,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_glazed_terracotta": {
+    "criteria": {
+      "has_purple_terracotta": "2025-04-02 06:25:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-02 03:03:44 +0000"
@@ -4606,6 +4614,12 @@
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-02 02:50:28 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-04-02 06:33:22 +0000"
     },
     "done": true
   },
