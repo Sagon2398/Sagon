@@ -2676,3 +2676,11 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [02Apr2025 05:26:17.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Set own game mode to Creative Mode]
 [02Apr2025 05:26:54.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Set own game mode to Survival Mode]
 [02Apr2025 05:27:13.641] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[02Apr2025 05:27:19.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has made the advancement [Rattling Remnants]
+[02Apr2025 05:28:54.246] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:fortress took 5 ms
+[02Apr2025 05:29:02.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> -688 -320
+[02Apr2025 05:30:47.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has reached the goal [Non-renewable? Yeah, right..]
+[02Apr2025 05:32:38.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Teleported Santix15 to Nacho_cgod]
+[02Apr2025 05:33:25.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [A Terrible Fortress]
+[02Apr2025 05:33:26.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has made the advancement [A Terrible Fortress]
+[02Apr2025 05:36:22.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Teleported Santix15 to Nacho_cgod]
