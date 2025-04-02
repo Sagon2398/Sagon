@@ -3615,6 +3615,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-04-02 05:09:06 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/diving_board": {
     "criteria": {
       "has_wheat": "2025-04-02 01:56:50 +0000"
@@ -4539,6 +4545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-02 05:09:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-04-02 03:53:11 +0000"
@@ -4635,6 +4647,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_hedge": {
+    "criteria": {
+      "has_leaves": "2025-04-02 05:09:06 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-04-02 02:01:10 +0000"
@@ -4716,6 +4734,12 @@
   "cfm:recipes/decorations/red_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-04-02 02:01:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-02 05:09:06 +0000"
     },
     "done": true
   },
