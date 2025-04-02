@@ -54,8 +54,10 @@
       "minecraft:cold_ocean": "2025-03-30 06:25:27 +0000",
       "minecraft:forest": "2025-03-22 20:21:21 +0000",
       "minecraft:deep_cold_ocean": "2025-03-31 02:47:37 +0000",
+      "minecraft:frozen_ocean": "2025-04-02 06:38:07 +0000",
       "minecraft:desert": "2025-03-22 04:29:36 +0000",
       "minecraft:windswept_forest": "2025-03-31 02:50:38 +0000",
+      "minecraft:deep_frozen_ocean": "2025-04-02 06:38:26 +0000",
       "minecraft:ocean": "2025-03-31 02:48:54 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-02 06:32:39 +0000",
       "minecraft:windswept_savanna": "2025-03-22 04:28:38 +0000",
@@ -7230,6 +7232,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-04-02 06:42:12 +0000"
+    },
+    "done": true
+  },
   "netherexp:nether/non_renewable_yeah_right": {
     "criteria": {
       "killed_entity": "2025-04-02 05:30:47 +0000"
@@ -7257,6 +7265,12 @@
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-04-02 05:45:18 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-04-02 06:43:26 +0000"
     },
     "done": true
   },
@@ -7371,6 +7385,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-04-02 06:21:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-04-02 06:40:31 +0000"
     },
     "done": true
   },
