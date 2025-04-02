@@ -5556,5 +5556,23 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-04-02 07:53:03 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/lesion": {
+    "criteria": {
+      "has_item": "2025-04-02 07:51:33 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_ghast_tear": "2025-04-02 07:51:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

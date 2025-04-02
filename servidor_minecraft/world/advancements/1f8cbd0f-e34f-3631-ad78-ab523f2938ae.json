@@ -7438,6 +7438,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-04-02 07:52:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
       "has_carved_pumpkin": "2025-04-02 07:42:55 +0000"
