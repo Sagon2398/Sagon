@@ -1208,6 +1208,7 @@
       "pumpkin_pie": "2025-03-30 20:05:57 +0000",
       "mutton": "2025-04-02 04:38:41 +0000",
       "golden_apple": "2025-03-31 03:10:19 +0000",
+      "bread": "2025-04-02 06:14:02 +0000",
       "golden_carrot": "2025-03-31 01:21:17 +0000"
     },
     "done": false
@@ -1733,6 +1734,7 @@
       "minecraft:phantom": "2025-04-02 01:53:28 +0000",
       "minecraft:zombified_piglin": "2025-04-02 05:37:37 +0000",
       "minecraft:wither_skeleton": "2025-03-31 03:10:58 +0000",
+      "minecraft:husk": "2025-04-02 06:14:04 +0000",
       "minecraft:piglin": "2025-04-02 05:26:02 +0000",
       "minecraft:enderman": "2025-04-02 04:06:50 +0000",
       "minecraft:zombie": "2025-03-30 20:22:33 +0000",
@@ -3699,6 +3701,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-02 06:13:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-04-02 02:44:50 +0000"
@@ -3774,6 +3782,12 @@
   "cfm:recipes/decorations/warped_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-04-02 02:01:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-02 06:13:06 +0000"
     },
     "done": true
   },
@@ -4251,6 +4265,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-02 06:13:06 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dye_gray_picket_gate": {
     "criteria": {
       "has_dye": "2025-04-02 03:52:54 +0000"
@@ -4629,6 +4649,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-04-02 06:12:31 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
       "killed_by": "2025-04-02 02:37:42 +0000"
@@ -4770,6 +4796,12 @@
   "cfm:recipes/decorations/stripped_dark_oak_desk": {
     "criteria": {
       "has_planks": "2025-04-02 04:24:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-04-02 06:13:06 +0000"
     },
     "done": true
   },
@@ -4971,6 +5003,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-04-02 06:13:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-04-02 05:43:24 +0000"
@@ -5136,6 +5174,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-04-02 05:33:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-02 06:13:06 +0000"
     },
     "done": true
   },
