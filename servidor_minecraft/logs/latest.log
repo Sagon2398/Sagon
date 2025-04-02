@@ -2166,3 +2166,27 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [02Apr2025 01:52:27.434] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 lost connection: Disconnected
 [02Apr2025 01:52:27.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 left the game
 [02Apr2025 01:52:27.434] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lobo3224
+[02Apr2025 01:56:51.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has made the advancement [A Seedy Place]
+[02Apr2025 01:56:55.363] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santix15[/127.193.11.42:60897] logged in with entity id 2685 at (-1883.322143581012, 68.0, -143.91433064901702)
+[02Apr2025 01:56:55.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 joined the game
+[02Apr2025 01:56:55.427] [Server thread/INFO] [Jade/]: Syncing config to Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae)
+[02Apr2025 01:56:58.408] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santix15 (18)
+[02Apr2025 01:56:58.408] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[02Apr2025 01:57:07.818] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[02Apr2025 01:57:08.862] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[02Apr2025 01:57:08.862] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
+[02Apr2025 01:57:39.202] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lobo3224[/127.142.98.180:55529] logged in with entity id 3016 at (-1851.7757679863055, 68.0, -170.4061044955857)
+[02Apr2025 01:57:39.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 joined the game
+[02Apr2025 01:57:39.259] [Server thread/INFO] [Jade/]: Syncing config to lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc)
+[02Apr2025 01:57:41.904] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lobo3224 (18)
+[02Apr2025 01:57:41.905] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lobo3224
+[02Apr2025 01:57:53.309] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[02Apr2025 01:57:54.309] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[02Apr2025 01:57:54.310] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc) successfully connected to voice chat
+[02Apr2025 01:58:29.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> holas
+[02Apr2025 01:58:58.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> no hay una puta vaca chabal
+[02Apr2025 01:59:10.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> jJARZJTG
+[02Apr2025 01:59:49.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Set own game mode to Creative Mode]
+[02Apr2025 02:02:31.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> encontre una super cueva xd
+[02Apr2025 02:03:39.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> y unos bichos raros
+[02Apr2025 02:03:52.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> q tiran magia

@@ -1721,6 +1721,7 @@
       "minecraft:skeleton": "2025-03-30 20:57:33 +0000",
       "minecraft:vindicator": "2025-03-31 02:54:23 +0000",
       "minecraft:spider": "2025-03-31 02:46:46 +0000",
+      "minecraft:phantom": "2025-04-02 01:53:28 +0000",
       "minecraft:wither_skeleton": "2025-03-31 03:10:58 +0000",
       "minecraft:zombie": "2025-03-30 20:22:33 +0000"
     },
@@ -3217,6 +3218,60 @@
   "cfm:recipes/decorations/stripped_oak_crate": {
     "criteria": {
       "has_planks": "2025-04-01 00:16:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-04-02 01:56:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/diving_board": {
+    "criteria": {
+      "has_wheat": "2025-04-02 01:56:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-04-02 01:56:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-04-02 01:56:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-04-02 01:56:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-04-02 01:56:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-04-02 01:56:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-04-02 01:56:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-04-02 01:56:50 +0000"
     },
     "done": true
   },
