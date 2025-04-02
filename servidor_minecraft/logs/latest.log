@@ -2896,3 +2896,4 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [02Apr2025 06:49:38.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Teleported Santix15 to Nacho_cgod]
 [02Apr2025 06:56:18.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has made the advancement [Smoke On The Water]
 [02Apr2025 06:56:25.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Smoke On The Water]
+[02Apr2025 07:09:05.022] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2831, y=71, z=-2751} BlockPos{x=-2830, y=71, z=-2751}

@@ -9302,3 +9302,18 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [02Apr2025 06:54:33.779] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [02Apr2025 06:56:18.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has made the advancement [Smoke On The Water]
 [02Apr2025 06:56:25.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Smoke On The Water]
+[02Apr2025 06:59:33.792] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Apr2025 06:59:33.803] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Apr2025 07:00:19.783] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:firefly_swarm 1: [b8d72182-9608-4784-a5c7-638acc62bc2b]
+[02Apr2025 07:01:08.832] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:firefly_swarm 1: [c37a45ce-65aa-4343-854a-daa94f07e174]
+[02Apr2025 07:01:09.984] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:firefly_swarm 1: [c37a45ce-65aa-4343-854a-daa94f07e174]
+[02Apr2025 07:01:38.140] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:firefly_swarm 1: [4369fe79-24ad-4742-97fb-0ebeaacc589d]
+[02Apr2025 07:02:34.733] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:firefly_swarm 1: [f90ac979-176f-4dc9-9415-cd6396ada7f4]
+[02Apr2025 07:02:48.534] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:chain_creeper 1: [0b6ed90d-3869-4559-9711-845c137e82ba]
+[02Apr2025 07:02:50.035] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:chain_creeper 1: [0b6ed90d-3869-4559-9711-845c137e82ba]
+[02Apr2025 07:02:55.635] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:chain_creeper 1: [0b6ed90d-3869-4559-9711-845c137e82ba]
+[02Apr2025 07:04:33.755] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Apr2025 07:04:33.765] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Apr2025 07:09:05.022] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2831, y=71, z=-2751} BlockPos{x=-2830, y=71, z=-2751}
+[02Apr2025 07:09:33.758] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Apr2025 07:09:33.769] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
