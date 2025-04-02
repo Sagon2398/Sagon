@@ -2914,3 +2914,21 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [02Apr2025 07:27:25.339] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 53e7374b-5e04-335c-acba-f45d6acb5e7c
 [02Apr2025 07:27:26.343] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 53e7374b-5e04-335c-acba-f45d6acb5e7c
 [02Apr2025 07:27:26.343] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nacho_cgod (53e7374b-5e04-335c-acba-f45d6acb5e7c) successfully connected to voice chat
+[02Apr2025 07:30:00.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 was kicked for floating too long!
+[02Apr2025 07:30:00.982] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 lost connection: Flying is not enabled on this server
+[02Apr2025 07:30:00.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 left the game
+[02Apr2025 07:30:00.983] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Santix15
+[02Apr2025 07:30:13.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has made the advancement [Crops of the Wild]
+[02Apr2025 07:30:13.998] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santix15[/127.193.11.42:34623] logged in with entity id 139304 at (-1860.1983396226776, 69.07193096491987, -171.71618415343124)
+[02Apr2025 07:30:14.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 joined the game
+[02Apr2025 07:30:14.013] [Server thread/INFO] [Jade/]: Syncing config to Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae)
+[02Apr2025 07:30:14.620] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santix15 (18)
+[02Apr2025 07:30:14.620] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[02Apr2025 07:30:17.490] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[02Apr2025 07:30:18.482] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[02Apr2025 07:30:18.482] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
+[02Apr2025 07:30:35.180] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3353ms or 67 ticks behind
+[02Apr2025 07:30:35.209] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 moved too quickly! -10.00064879357592,0.0,-1.887061122994794
+[02Apr2025 07:33:47.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has made the advancement [Best Friends Forever]
+[02Apr2025 07:36:15.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> 20 SECONDS
+[02Apr2025 07:36:16.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Teleported Santix15 to Nacho_cgod]

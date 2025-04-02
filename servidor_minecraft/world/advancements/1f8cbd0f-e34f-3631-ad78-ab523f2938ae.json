@@ -7216,33 +7216,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magma_block": {
+  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
     "criteria": {
-      "has_magma_cream": "2025-04-02 05:38:47 +0000"
+      "has_nether_gold_ore": "2025-04-02 05:28:29 +0000"
     },
     "done": true
   },
-  "dungeons_arise:find_undead_pirate_ship": {
+  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
     "criteria": {
-      "location0": "2025-04-02 06:56:25 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/nether_bricks/blue/nether_bricks": {
-    "criteria": {
-      "has_item": "2025-04-02 05:45:18 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_illager_corsair_or_illager_galley": {
-    "criteria": {
-      "location0": "2025-04-02 06:23:55 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/safety_net": {
-    "criteria": {
-      "has_rope": "2025-04-02 06:42:12 +0000"
+      "has_nether_gold_ore": "2025-04-02 05:28:29 +0000"
     },
     "done": true
   },
@@ -7255,6 +7237,84 @@
   "netherexp:recipes/sanctum/gargoyle_statue": {
     "criteria": {
       "has_item": "2025-04-02 05:32:26 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/ecto_soul_sand": {
+    "criteria": {
+      "has_item": "2025-04-02 05:32:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-04-02 05:33:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-04-02 05:38:47 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/geysers/basaltic": {
+    "criteria": {
+      "has_item": "2025-04-02 05:41:34 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/basalt/slab": {
+    "criteria": {
+      "has_item": "2025-04-02 05:41:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-04-02 05:41:36 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/basalt/stairs": {
+    "criteria": {
+      "has_item": "2025-04-02 05:41:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-04-02 05:41:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-04-02 05:41:36 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/basalt/wall": {
+    "criteria": {
+      "has_item": "2025-04-02 05:41:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-04-02 05:43:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-04-02 05:43:14 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/nether_bricks/blue/nether_bricks": {
+    "criteria": {
+      "has_item": "2025-04-02 05:45:18 +0000"
     },
     "done": true
   },
@@ -7276,18 +7336,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/seagull_steal": {
-    "criteria": {
-      "ex": "2025-04-02 06:43:26 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/basalt/slab": {
-    "criteria": {
-      "has_item": "2025-04-02 05:41:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_item": "2025-04-02 05:45:18 +0000"
@@ -7297,12 +7345,6 @@
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2025-04-02 05:45:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_basalt": {
-    "criteria": {
-      "has_basalt": "2025-04-02 05:41:36 +0000"
     },
     "done": true
   },
@@ -7318,33 +7360,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
-    "criteria": {
-      "has_nether_gold_ore": "2025-04-02 05:28:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2025-04-02 05:43:14 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/straddler": {
-    "criteria": {
-      "killed_by": "2025-04-02 05:46:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-04-02 05:45:18 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crocodile": {
-    "criteria": {
-      "killed_by": "2025-04-02 06:16:37 +0000"
     },
     "done": true
   },
@@ -7354,33 +7372,9 @@
     },
     "done": true
   },
-  "netherexp:recipes/basalt/stairs": {
-    "criteria": {
-      "has_item": "2025-04-02 05:41:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
-    "criteria": {
-      "has_nether_gold_ore": "2025-04-02 05:28:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2025-04-02 05:41:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-04-02 05:45:18 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/geysers/basaltic": {
-    "criteria": {
-      "has_item": "2025-04-02 05:41:34 +0000"
     },
     "done": true
   },
@@ -7390,9 +7384,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-02 05:45:18 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-04-02 05:46:04 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-04-02 06:16:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-04-02 06:21:11 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location0": "2025-04-02 06:23:55 +0000"
     },
     "done": true
   },
@@ -7402,39 +7420,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/nether_brick_wall": {
+  "farmersdelight:recipes/decorations/safety_net": {
     "criteria": {
-      "has_nether_bricks": "2025-04-02 05:45:18 +0000"
+      "has_rope": "2025-04-02 06:42:12 +0000"
     },
     "done": true
   },
-  "netherexp:recipes/misc/ecto_soul_sand": {
+  "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
-      "has_item": "2025-04-02 05:32:26 +0000"
+      "ex": "2025-04-02 06:43:26 +0000"
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
+  "dungeons_arise:find_undead_pirate_ship": {
     "criteria": {
-      "fortress": "2025-04-02 05:33:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/skull_banner_pattern": {
-    "criteria": {
-      "has_wither_skeleton_skull": "2025-04-02 05:43:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt": {
-    "criteria": {
-      "has_basalt": "2025-04-02 05:41:36 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/basalt/wall": {
-    "criteria": {
-      "has_item": "2025-04-02 05:41:36 +0000"
+      "location0": "2025-04-02 06:56:25 +0000"
     },
     "done": true
   },
