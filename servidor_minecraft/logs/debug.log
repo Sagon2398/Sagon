@@ -7628,3 +7628,48 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [02Apr2025 03:03:18.144] [Worker-Main-57/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
 [02Apr2025 03:04:15.386] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Apr2025 03:04:15.397] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Apr2025 03:05:57.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> sepso
+[02Apr2025 03:06:00.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> sepso
+[02Apr2025 03:06:01.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> sepso
+[02Apr2025 03:06:03.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> sepso
+[02Apr2025 03:06:04.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> sepso
+[02Apr2025 03:06:06.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> sepso
+[02Apr2025 03:09:15.406] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Apr2025 03:09:15.416] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Apr2025 03:09:17.554] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1077, y=65, z=556} BlockPos{x=-1076, y=65, z=557}
+[02Apr2025 03:09:17.598] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1077, y=65, z=556} BlockPos{x=-1076, y=65, z=557}
+[02Apr2025 03:09:17.656] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1077, y=65, z=556} BlockPos{x=-1076, y=65, z=557}
+[02Apr2025 03:09:17.701] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1077, y=65, z=556} BlockPos{x=-1076, y=65, z=557}
+[02Apr2025 03:09:17.746] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1077, y=65, z=556} BlockPos{x=-1076, y=65, z=557}
+[02Apr2025 03:09:17.797] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1077, y=65, z=556} BlockPos{x=-1076, y=65, z=557}
+[02Apr2025 03:09:17.849] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1076, y=65, z=558} BlockPos{x=-1076, y=65, z=557}
+[02Apr2025 03:09:17.904] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1075, y=65, z=559} BlockPos{x=-1076, y=65, z=557}
+[02Apr2025 03:09:17.939] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1075, y=65, z=559} BlockPos{x=-1076, y=65, z=557}
+[02Apr2025 03:10:08.101] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1053, y=67, z=570} BlockPos{x=-1054, y=66, z=570}
+[02Apr2025 03:10:08.152] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1053, y=67, z=570} BlockPos{x=-1054, y=66, z=570}
+[02Apr2025 03:10:08.201] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1053, y=67, z=570} BlockPos{x=-1054, y=66, z=570}
+[02Apr2025 03:10:08.247] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1053, y=67, z=570} BlockPos{x=-1054, y=66, z=570}
+[02Apr2025 03:10:45.618] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_well_0
+[02Apr2025 03:10:45.627] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_hub_part_2
+[02Apr2025 03:10:45.630] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_corridor_1_spawner
+[02Apr2025 03:10:45.632] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_corridor_0_normal
+[02Apr2025 03:10:45.632] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_spawner_1
+[02Apr2025 03:10:45.639] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_hub_part_3
+[02Apr2025 03:10:45.640] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_spawner_0
+[02Apr2025 03:10:45.646] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_hub_part_1
+[02Apr2025 03:10:45.649] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_crossing_3
+[02Apr2025 03:10:45.650] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_crossing_1
+[02Apr2025 03:10:45.651] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_corridor_3_spawner
+[02Apr2025 03:10:45.657] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_hub_part_0
+[02Apr2025 03:10:45.659] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_spawner_2
+[02Apr2025 03:10:45.660] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_stairway_0
+[02Apr2025 03:10:45.661] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_crossing_2
+[02Apr2025 03:10:45.662] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_barrels_0
+[02Apr2025 03:10:45.662] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_barrels_1
+[02Apr2025 03:10:45.663] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_corridor_2_temptation
+[02Apr2025 03:10:45.664] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_treasure_0
+[02Apr2025 03:10:45.666] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_housing_0
+[02Apr2025 03:10:45.667] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_crossing_0
+[02Apr2025 03:14:11.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [No Step on Snake]
+[02Apr2025 03:14:15.401] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Apr2025 03:14:15.412] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

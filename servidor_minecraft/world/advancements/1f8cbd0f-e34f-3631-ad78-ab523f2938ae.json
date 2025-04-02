@@ -7027,5 +7027,11 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed_by": "2025-04-02 03:14:11 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
