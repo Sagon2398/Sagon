@@ -8457,3 +8457,51 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [02Apr2025 05:10:26.383] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:arrow_volley 1: [53e7374b-5e04-335c-acba-f45d6acb5e7c]
 [02Apr2025 05:14:15.364] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Apr2025 05:14:15.375] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Apr2025 05:19:15.365] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Apr2025 05:19:15.376] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Apr2025 05:20:27.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [I Am Become Guster]
+[02Apr2025 05:21:12.453] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/medium_decorations
+[02Apr2025 05:21:12.457] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/villager_cage
+[02Apr2025 05:21:12.459] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/targets
+[02Apr2025 05:21:12.460] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/pumpkin
+[02Apr2025 05:21:12.461] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/shack
+[02Apr2025 05:21:12.462] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/villager_cage_half_guard_tower
+[02Apr2025 05:21:12.464] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/villager_cage_half_cage
+[02Apr2025 05:21:12.465] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/iron_golem_cage
+[02Apr2025 05:21:13.437] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_3
+[02Apr2025 05:21:13.440] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_2
+[02Apr2025 05:22:16.234] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 lost connection: Disconnected
+[02Apr2025 05:22:16.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 left the game
+[02Apr2025 05:22:16.234] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of lobo3224
+[02Apr2025 05:22:16.234] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lobo3224
+[02Apr2025 05:23:30.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Set own game mode to Creative Mode]
+[02Apr2025 05:24:15.356] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Apr2025 05:24:15.365] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Apr2025 05:24:42.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Set own game mode to Survival Mode]
+[02Apr2025 05:24:57.435] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[02Apr2025 05:24:57.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has made the advancement [We Need to Go Deeper]
+[02Apr2025 05:24:57.447] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-1899, y=65, z=-156} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[02Apr2025 05:24:57.448] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-1899, y=65, z=-156} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[02Apr2025 05:24:58.065] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bosses_of_mass_destruction:gauntlet_arena/base
+[02Apr2025 05:24:58.188] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/origin
+[02Apr2025 05:24:58.190] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_1
+[02Apr2025 05:24:58.192] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_2
+[02Apr2025 05:24:58.194] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_5
+[02Apr2025 05:24:58.195] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_2
+[02Apr2025 05:24:58.195] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_7
+[02Apr2025 05:24:58.196] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/armor_2
+[02Apr2025 05:24:58.196] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/banner_2
+[02Apr2025 05:24:58.196] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/piglin_camp
+[02Apr2025 05:24:58.197] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_1
+[02Apr2025 05:24:58.197] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_5
+[02Apr2025 05:24:58.198] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_3
+[02Apr2025 05:24:58.198] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_2
+[02Apr2025 05:24:58.198] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/armor_1
+[02Apr2025 05:24:58.199] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/banner
+[02Apr2025 05:25:16.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has made the advancement [Nightmare Fuel]
+[02Apr2025 05:25:25.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has made the advancement [Frightening Rush]
+[02Apr2025 05:26:17.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Set own game mode to Creative Mode]
+[02Apr2025 05:26:54.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Set own game mode to Survival Mode]
+[02Apr2025 05:27:13.641] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[02Apr2025 05:27:13.657] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-1899, y=65, z=-156} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[02Apr2025 05:27:13.657] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-1899, y=65, z=-156} in ResourceKey[minecraft:dimension / minecraft:overworld]

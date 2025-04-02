@@ -6390,6 +6390,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/gustmaker": {
+    "criteria": {
+      "gustmaker": "2025-04-02 05:20:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-04-02 03:03:20 +0000"

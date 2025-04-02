@@ -2663,3 +2663,16 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [02Apr2025 05:08:29.292] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
 [02Apr2025 05:08:35.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> miaaaaaaaau
 [02Apr2025 05:09:06.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has made the advancement [Into Fire]
+[02Apr2025 05:20:27.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [I Am Become Guster]
+[02Apr2025 05:22:16.234] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 lost connection: Disconnected
+[02Apr2025 05:22:16.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 left the game
+[02Apr2025 05:22:16.234] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lobo3224
+[02Apr2025 05:23:30.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Set own game mode to Creative Mode]
+[02Apr2025 05:24:42.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Set own game mode to Survival Mode]
+[02Apr2025 05:24:57.435] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[02Apr2025 05:24:57.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has made the advancement [We Need to Go Deeper]
+[02Apr2025 05:25:16.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has made the advancement [Nightmare Fuel]
+[02Apr2025 05:25:25.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has made the advancement [Frightening Rush]
+[02Apr2025 05:26:17.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Set own game mode to Creative Mode]
+[02Apr2025 05:26:54.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Set own game mode to Survival Mode]
+[02Apr2025 05:27:13.641] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
