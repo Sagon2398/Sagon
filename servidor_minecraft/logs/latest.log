@@ -2900,3 +2900,17 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [02Apr2025 07:10:48.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Teleported Nacho_cgod to Santix15]
 [02Apr2025 07:14:38.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Teleported Nacho_cgod to Santix15]
 [02Apr2025 07:18:04.611] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2734ms or 54 ticks behind
+[02Apr2025 07:22:52.107] [Worker-Main-248/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Apr2025 07:22:52.107] [Worker-Main-248/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Apr2025 07:23:10.590] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[02Apr2025 07:27:16.138] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nacho_cgod lost connection: Disconnected
+[02Apr2025 07:27:16.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod left the game
+[02Apr2025 07:27:16.139] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nacho_cgod
+[02Apr2025 07:27:24.049] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nacho_cgod[/127.87.50.100:39809] logged in with entity id 136509 at (-2613.948422764546, 64.0, -3898.2648388651724)
+[02Apr2025 07:27:24.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod joined the game
+[02Apr2025 07:27:24.062] [Server thread/INFO] [Jade/]: Syncing config to Nacho_cgod (53e7374b-5e04-335c-acba-f45d6acb5e7c)
+[02Apr2025 07:27:24.304] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nacho_cgod (18)
+[02Apr2025 07:27:24.305] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nacho_cgod
+[02Apr2025 07:27:25.339] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 53e7374b-5e04-335c-acba-f45d6acb5e7c
+[02Apr2025 07:27:26.343] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 53e7374b-5e04-335c-acba-f45d6acb5e7c
+[02Apr2025 07:27:26.343] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nacho_cgod (53e7374b-5e04-335c-acba-f45d6acb5e7c) successfully connected to voice chat
