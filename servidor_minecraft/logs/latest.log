@@ -2715,3 +2715,32 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [02Apr2025 23:26:33.291] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
 [02Apr2025 23:26:33.291] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
 [02Apr2025 23:26:45.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> XD muy LOL
+[02Apr2025 23:29:57.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 moved wrongly!
+[02Apr2025 23:30:34.271] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Santix15) moved wrongly! 0.7016059934917394
+[02Apr2025 23:30:34.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Santix15) moved wrongly! 1.6123660134194324
+[02Apr2025 23:30:34.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Santix15) moved wrongly! 2.5259628657563553
+[02Apr2025 23:30:34.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Santix15) moved wrongly! 3.0
+[02Apr2025 23:30:34.458] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Santix15) moved wrongly! 3.0
+[02Apr2025 23:30:34.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Santix15) moved wrongly! 3.0
+[02Apr2025 23:30:34.555] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Santix15) moved wrongly! 3.0
+[02Apr2025 23:30:34.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Santix15) moved wrongly! 3.0
+[02Apr2025 23:33:51.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> -4432 -1008
+[02Apr2025 23:34:36.375] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-4491, y=1, z=-1066}
+[02Apr2025 23:34:46.620] [Worker-Main-134/INFO] [ModernFix/]: Instantiating Mojang DFU
+[02Apr2025 23:35:32.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Frosted Prison]
+[02Apr2025 23:35:41.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 was kicked for floating too long!
+[02Apr2025 23:35:42.017] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 lost connection: Flying is not enabled on this server
+[02Apr2025 23:35:42.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 left the game
+[02Apr2025 23:35:42.018] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Santix15
+[02Apr2025 23:35:50.292] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santix15[/127.193.11.42:41701] logged in with entity id 58746 at (-2936.5194040118045, 63.52487480164718, -1029.7997118437413)
+[02Apr2025 23:35:50.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 joined the game
+[02Apr2025 23:35:50.313] [Server thread/INFO] [Jade/]: Syncing config to Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae)
+[02Apr2025 23:35:50.765] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santix15 (18)
+[02Apr2025 23:35:50.766] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[02Apr2025 23:35:54.309] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[02Apr2025 23:35:55.311] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[02Apr2025 23:35:55.312] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
+[02Apr2025 23:37:10.251] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 was kicked for floating too long!
+[02Apr2025 23:37:10.326] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 lost connection: Flying is not enabled on this server
+[02Apr2025 23:37:10.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 left the game
+[02Apr2025 23:37:10.327] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Santix15
