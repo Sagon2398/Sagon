@@ -37,19 +37,24 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-04-02 04:35:41 +0000",
       "minecraft:old_growth_pine_taiga": "2025-03-31 02:40:37 +0000",
       "minecraft:taiga": "2025-03-31 02:39:08 +0000",
+      "minecraft:cherry_grove": "2025-04-02 04:35:33 +0000",
       "minecraft:birch_forest": "2025-03-31 02:35:55 +0000",
       "minecraft:savanna_plateau": "2025-03-30 21:09:51 +0000",
       "minecraft:beach": "2025-03-31 03:02:28 +0000",
       "minecraft:river": "2025-03-31 02:35:58 +0000",
       "minecraft:dripstone_caves": "2025-04-02 02:02:37 +0000",
+      "minecraft:grove": "2025-04-02 04:33:32 +0000",
       "minecraft:cold_ocean": "2025-03-31 02:41:44 +0000",
       "minecraft:forest": "2025-03-30 21:12:12 +0000",
       "minecraft:deep_cold_ocean": "2025-03-31 02:41:52 +0000",
       "minecraft:windswept_forest": "2025-03-31 02:41:09 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-03-31 02:40:45 +0000",
+      "minecraft:frozen_peaks": "2025-04-02 04:35:58 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-31 02:36:06 +0000",
+      "minecraft:meadow": "2025-04-02 04:36:06 +0000",
       "minecraft:savanna": "2025-03-30 19:55:34 +0000",
       "minecraft:plains": "2025-03-30 20:00:28 +0000"
     },
@@ -1201,6 +1206,7 @@
       "cooked_beef": "2025-03-31 02:07:01 +0000",
       "apple": "2025-03-30 21:13:30 +0000",
       "pumpkin_pie": "2025-03-30 20:05:57 +0000",
+      "mutton": "2025-04-02 04:38:41 +0000",
       "golden_apple": "2025-03-31 03:10:19 +0000",
       "golden_carrot": "2025-03-31 01:21:17 +0000"
     },
@@ -3237,6 +3243,24 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_park_bench": {
+    "criteria": {
+      "has_log": "2025-04-02 04:24:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-04-02 04:33:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-04-02 04:24:41 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_dark_oak_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-04-02 02:01:10 +0000"
@@ -3246,6 +3270,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-04-02 03:55:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-04-02 04:33:09 +0000"
     },
     "done": true
   },
@@ -3285,6 +3315,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-04-02 04:29:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks": {
     "criteria": {
       "has_polished_deepslate": "2025-04-02 02:51:19 +0000"
@@ -3306,6 +3342,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-02 03:03:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_blinds": {
+    "criteria": {
+      "has_log": "2025-04-02 04:24:41 +0000"
     },
     "done": true
   },
@@ -3336,6 +3378,12 @@
   "cfm:recipes/decorations/jungle_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-04-02 02:01:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-04-02 04:39:34 +0000"
     },
     "done": true
   },
@@ -3435,6 +3483,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-04-02 04:24:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-04-02 02:26:44 +0000"
@@ -3489,6 +3543,24 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/black_sofa": {
+    "criteria": {
+      "has_wool": "2025-04-02 04:34:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-04-02 04:24:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-04-02 04:29:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2025-04-02 02:50:28 +0000"
@@ -3498,6 +3570,18 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-04-02 04:12:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-04-02 04:34:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_crate": {
+    "criteria": {
+      "has_planks": "2025-04-02 04:24:41 +0000"
     },
     "done": true
   },
@@ -3516,6 +3600,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-04-02 02:44:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-04-02 04:33:09 +0000"
     },
     "done": true
   },
@@ -3609,6 +3699,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
+    "criteria": {
+      "has_mutton": "2025-04-02 04:29:45 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/rock_path": {
     "criteria": {
       "has_andesite": "2025-04-02 02:38:52 +0000"
@@ -3618,6 +3714,12 @@
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-02 02:50:28 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_cabinet": {
+    "criteria": {
+      "has_log": "2025-04-02 04:24:41 +0000"
     },
     "done": true
   },
@@ -3636,6 +3738,12 @@
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-04-02 02:49:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-04-02 04:40:50 +0000"
     },
     "done": true
   },
@@ -3672,6 +3780,12 @@
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-04-02 03:01:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-04-02 04:34:40 +0000"
     },
     "done": true
   },
@@ -3759,6 +3873,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-04-02 04:24:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles": {
     "criteria": {
       "has_deepslate_bricks": "2025-04-02 03:01:51 +0000"
@@ -3789,6 +3909,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-04-02 04:33:09 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/lime_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-04-02 02:01:10 +0000"
@@ -3804,6 +3930,12 @@
   "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
       "has_log": "2025-04-02 02:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-04-02 04:29:45 +0000"
     },
     "done": true
   },
@@ -3848,6 +3980,12 @@
       "wheat": "2025-04-02 01:56:51 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-04-02 04:39:19 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
@@ -3909,6 +4047,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-04-02 04:24:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-02 02:50:28 +0000"
@@ -3945,6 +4089,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-04-02 04:24:41 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/yellow_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-04-02 03:50:42 +0000"
@@ -3954,6 +4104,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-04-02 02:51:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-04-02 04:24:41 +0000"
     },
     "done": true
   },
@@ -3984,6 +4140,12 @@
   "cfm:recipes/decorations/warped_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-04-02 02:01:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-04-02 04:34:40 +0000"
     },
     "done": true
   },
@@ -4041,6 +4203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-04-02 04:31:16 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/gray_picket_fence": {
     "criteria": {
       "has_concrete": "2025-04-02 03:55:52 +0000"
@@ -4071,6 +4239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-04-02 04:29:45 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/mangrove_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-04-02 02:01:10 +0000"
@@ -4083,9 +4257,27 @@
     },
     "done": true
   },
+  "hangglider:recipes/tools/glider_wing": {
+    "criteria": {
+      "has_leather": "2025-04-02 04:33:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_table": {
+    "criteria": {
+      "has_planks": "2025-04-02 04:24:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-02 02:50:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-04-02 04:39:19 +0000"
     },
     "done": true
   },
@@ -4098,6 +4290,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-04-02 02:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-04-02 04:29:45 +0000"
     },
     "done": true
   },
@@ -4131,9 +4329,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-02 04:24:41 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/mangrove_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-04-02 02:01:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-04-02 04:33:09 +0000"
     },
     "done": true
   },
@@ -4185,6 +4395,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_desk": {
+    "criteria": {
+      "has_planks": "2025-04-02 04:24:41 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/black_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-04-02 03:50:42 +0000"
@@ -4194,6 +4410,12 @@
   "cfm:recipes/decorations/stripped_oak_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-04-02 02:01:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-04-02 04:29:45 +0000"
     },
     "done": true
   },
@@ -4212,6 +4434,12 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-04-02 03:53:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-02 04:29:45 +0000"
     },
     "done": true
   },
@@ -4236,6 +4464,18 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-04-02 03:01:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-04-02 04:24:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_sofa": {
+    "criteria": {
+      "has_wool": "2025-04-02 04:29:45 +0000"
     },
     "done": true
   },
@@ -4293,6 +4533,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-04-02 04:39:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-02 02:02:17 +0000"
@@ -4308,6 +4554,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-04-02 01:56:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-04-02 04:33:09 +0000"
     },
     "done": true
   },
@@ -4344,6 +4596,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-02 02:38:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-04-02 04:29:45 +0000"
     },
     "done": true
   },

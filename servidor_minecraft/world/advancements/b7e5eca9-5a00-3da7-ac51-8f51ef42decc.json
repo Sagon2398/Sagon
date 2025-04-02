@@ -59,6 +59,7 @@
       "minecraft:desert": "2025-03-22 03:35:52 +0000",
       "minecraft:deep_frozen_ocean": "2025-04-02 03:55:34 +0000",
       "minecraft:ocean": "2025-03-30 03:57:02 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-04-02 04:29:32 +0000",
       "minecraft:windswept_savanna": "2025-03-22 04:28:44 +0000",
       "minecraft:flower_forest": "2025-03-27 04:39:00 +0000",
       "minecraft:frozen_peaks": "2025-03-24 05:11:35 +0000",
@@ -6323,6 +6324,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-04-02 04:32:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-04-02 03:03:20 +0000"
@@ -6338,6 +6345,18 @@
   "alexsmobs:alexsmobs/rainbow_jelly": {
     "criteria": {
       "gustmaker": "2025-04-02 03:59:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-02 04:27:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-04-02 04:27:09 +0000"
     },
     "done": true
   },
