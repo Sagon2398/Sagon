@@ -57,6 +57,7 @@
       "minecraft:lush_caves": "2025-03-24 00:27:06 +0000",
       "minecraft:frozen_ocean": "2025-04-02 03:53:48 +0000",
       "minecraft:desert": "2025-03-22 03:35:52 +0000",
+      "minecraft:deep_frozen_ocean": "2025-04-02 03:55:34 +0000",
       "minecraft:ocean": "2025-03-30 03:57:02 +0000",
       "minecraft:windswept_savanna": "2025-03-22 04:28:44 +0000",
       "minecraft:flower_forest": "2025-03-27 04:39:00 +0000",
@@ -6298,6 +6299,18 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location0": "2025-04-02 03:55:34 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-04-02 03:55:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-04-02 03:03:20 +0000"
@@ -6313,6 +6326,18 @@
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-04-02 03:03:20 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rainbow_glass": {
+    "criteria": {
+      "gustmaker": "2025-04-02 04:02:09 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rainbow_jelly": {
+    "criteria": {
+      "gustmaker": "2025-04-02 03:59:43 +0000"
     },
     "done": true
   },

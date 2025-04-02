@@ -2383,3 +2383,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [02Apr2025 03:54:13.652] [Worker-Main-48/INFO] [ModernFix/]: Instantiating Mojang DFU
 [02Apr2025 03:55:34.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [You Are A Pirate]
 [02Apr2025 03:55:37.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has completed the challenge [Free Willy]
+[02Apr2025 03:59:38.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: The difficulty has been set to Hard]
+[02Apr2025 03:59:43.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Taste the Rainbow]
+[02Apr2025 04:02:09.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Rainbow Road]

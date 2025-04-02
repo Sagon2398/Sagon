@@ -7737,3 +7737,23 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [02Apr2025 03:54:36.702] [Worker-Main-57/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
 [02Apr2025 03:55:34.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [You Are A Pirate]
 [02Apr2025 03:55:37.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has completed the challenge [Free Willy]
+[02Apr2025 03:57:30.076] [Worker-Main-103/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[02Apr2025 03:58:46.254] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:impaled_icebreaker
+[02Apr2025 03:58:46.274] [Worker-Main-109/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[02Apr2025 03:58:58.382] [Worker-Main-109/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_straight_trapped
+[02Apr2025 03:58:58.388] [Worker-Main-109/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_spiral_stairs
+[02Apr2025 03:58:58.403] [Worker-Main-109/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/crypt_2
+[02Apr2025 03:58:58.411] [Worker-Main-109/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/armorstand
+[02Apr2025 03:58:58.420] [Worker-Main-109/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/ravager_prison
+[02Apr2025 03:58:58.698] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bosses_of_mass_destruction:lich_tower/bottom
+[02Apr2025 03:58:58.703] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bosses_of_mass_destruction:lich_tower/top
+[02Apr2025 03:59:15.398] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Apr2025 03:59:15.409] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Apr2025 03:59:22.955] [Worker-Main-103/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[02Apr2025 03:59:38.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: The difficulty has been set to Hard]
+[02Apr2025 03:59:43.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Taste the Rainbow]
+[02Apr2025 03:59:44.206] [Worker-Main-103/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:priest_house
+[02Apr2025 03:59:44.208] [Worker-Main-103/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[02Apr2025 04:02:09.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Rainbow Road]
+[02Apr2025 04:04:15.368] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Apr2025 04:04:15.378] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
