@@ -5714,5 +5714,17 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_diamond": {
+    "criteria": {
+      "requirement": "2025-04-02 22:24:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-04-02 22:17:40 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
