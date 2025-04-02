@@ -2689,3 +2689,4 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [02Apr2025 05:43:14.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Spooky Scary Skeleton]
 [02Apr2025 05:46:04.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Straddle My Ol' Saddle]
 [02Apr2025 05:47:07.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has made the advancement [Spooky Scary Skeleton]
+[02Apr2025 06:07:51.093] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nacho_cgod moved too quickly! 10.757269972529457,0.281863606344146,1.6876805423484313
