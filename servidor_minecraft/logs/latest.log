@@ -2772,3 +2772,22 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [02Apr2025 23:41:59.735] [Worker-Main-52/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
 [02Apr2025 23:41:59.735] [Worker-Main-52/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
 [02Apr2025 23:47:19.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has made the advancement [It Belongs in a Museum]
+[02Apr2025 23:48:27.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nacho_cgod moved wrongly!
+[02Apr2025 23:48:32.052] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nacho_cgod moved wrongly!
+[02Apr2025 23:57:01.353] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/76510, l='ServerLevel[world]', x=-5932.52, y=94.00, z=-924.46] died, message: 'Unemployed suffocated in a wall'
+[02Apr2025 23:57:03.951] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/76581, l='ServerLevel[world]', x=-5944.30, y=98.00, z=-940.30] died, message: 'Unemployed suffocated in a wall'
+[02Apr2025 23:57:07.502] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/76620, l='ServerLevel[world]', x=-5959.30, y=97.00, z=-956.30] died, message: 'Unemployed suffocated in a wall'
+[02Apr2025 23:57:07.503] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/76625, l='ServerLevel[world]', x=-5966.28, y=97.00, z=-955.37] died, message: 'Unemployed suffocated in a wall'
+[02Apr2025 23:57:10.552] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/76639, l='ServerLevel[world]', x=-5959.37, y=102.00, z=-973.07] died, message: 'Unemployed suffocated in a wall'
+[02Apr2025 23:57:15.755] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/76658, l='ServerLevel[world]', x=-5974.30, y=102.00, z=-981.30] died, message: 'Unemployed suffocated in a wall'
+[02Apr2025 23:57:40.808] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nacho_cgod lost connection: Disconnected
+[02Apr2025 23:57:40.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod left the game
+[02Apr2025 23:57:40.809] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nacho_cgod
+[02Apr2025 23:57:45.913] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nacho_cgod[/127.88.251.5:54093] logged in with entity id 77608 at (-5783.034774663481, 66.0, -788.666440104388)
+[02Apr2025 23:57:45.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod joined the game
+[02Apr2025 23:57:45.966] [Server thread/INFO] [Jade/]: Syncing config to Nacho_cgod (53e7374b-5e04-335c-acba-f45d6acb5e7c)
+[02Apr2025 23:57:46.416] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nacho_cgod (18)
+[02Apr2025 23:57:46.416] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nacho_cgod
+[02Apr2025 23:57:55.978] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 53e7374b-5e04-335c-acba-f45d6acb5e7c
+[02Apr2025 23:57:56.990] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 53e7374b-5e04-335c-acba-f45d6acb5e7c
+[02Apr2025 23:57:56.991] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nacho_cgod (53e7374b-5e04-335c-acba-f45d6acb5e7c) successfully connected to voice chat
