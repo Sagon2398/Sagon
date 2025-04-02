@@ -7250,3 +7250,23 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [02Apr2025 02:19:15.384] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [02Apr2025 02:24:15.375] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Apr2025 02:24:15.385] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Apr2025 02:24:58.200] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:chain_creeper 1: [b7e5eca9-5a00-3da7-ac51-8f51ef42decc]
+[02Apr2025 02:24:58.834] [Server thread/DEBUG] [mixin/]: Mixing TagsProviderForgeMixin from puzzleslib.forge.mixins.json into net.minecraft.data.tags.TagsProvider
+[02Apr2025 02:24:59.736] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityExplosionBehaviorMixin from lithium.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[02Apr2025 02:24:59.736] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:alloc.explosion_behavior.EntityExplosionBehaviorMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[02Apr2025 02:25:21.096] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:chain_creeper 1: [93fc7ac6-2951-490a-b6f3-423e52496247]
+[02Apr2025 02:29:15.374] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Apr2025 02:29:15.386] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Apr2025 02:29:47.785] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 lost connection: Disconnected
+[02Apr2025 02:29:47.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 left the game
+[02Apr2025 02:29:47.785] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of lobo3224
+[02Apr2025 02:29:47.785] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lobo3224
+[02Apr2025 02:29:47.801] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b7e5eca9-5a00-3da7-ac51-8f51ef42decc does not have a secret
+[02Apr2025 02:30:44.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> santix
+[02Apr2025 02:30:46.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> en
+[02Apr2025 02:31:14.335] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of Santix15: {disabled=false, disconnected=false, uuid=1f8cbd0f-e34f-3631-ad78-ab523f2938ae, name=Santix15, group=0b8fba62-96b2-410d-b777-7317a30df03f}
+[02Apr2025 02:31:36.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> no te escucho
+[02Apr2025 02:31:37.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> unite al grupo
+[02Apr2025 02:31:39.841] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of Nacho_cgod: {disabled=false, disconnected=false, uuid=53e7374b-5e04-335c-acba-f45d6acb5e7c, name=Nacho_cgod, group=0b8fba62-96b2-410d-b777-7317a30df03f}
+[02Apr2025 02:34:15.362] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Apr2025 02:34:15.372] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

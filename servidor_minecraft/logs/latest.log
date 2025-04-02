@@ -2196,3 +2196,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [02Apr2025 02:09:18.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Set own game mode to Survival Mode]
 [02Apr2025 02:11:57.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Set own game mode to Creative Mode]
 [02Apr2025 02:13:27.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Set own game mode to Survival Mode]
+[02Apr2025 02:29:47.785] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 lost connection: Disconnected
+[02Apr2025 02:29:47.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 left the game
+[02Apr2025 02:29:47.785] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lobo3224
+[02Apr2025 02:30:44.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> santix
+[02Apr2025 02:30:46.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> en
+[02Apr2025 02:31:36.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> no te escucho
+[02Apr2025 02:31:37.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> unite al grupo
