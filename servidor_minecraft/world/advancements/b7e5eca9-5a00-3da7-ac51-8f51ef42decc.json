@@ -6440,6 +6440,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2025-04-03 00:07:24 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/make_wayward_compass": {
     "criteria": {
       "inscription_table": "2025-04-02 23:00:30 +0000"
