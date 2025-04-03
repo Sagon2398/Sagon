@@ -5989,9 +5989,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/azalea_hedge": {
+    "criteria": {
+      "has_leaves": "2025-04-03 01:11:30 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/orcas_might": {
     "criteria": {
       "all_effects": "2025-04-03 01:07:30 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_ice": {
+    "criteria": {
+      "requirement": "2025-04-03 01:18:34 +0000"
     },
     "done": true
   },
