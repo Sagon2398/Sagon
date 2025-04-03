@@ -2267,3 +2267,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Apr2025 02:20:19.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has made the advancement [Cursed Pyramid]
 [03Apr2025 02:20:23.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Cursed Pyramid]
 [03Apr2025 02:22:06.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Gone Bananas!]
+[03Apr2025 02:25:46.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Teleported Santix15 to Nacho_cgod]
+[03Apr2025 02:26:04.330] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 moved too quickly! -0.459186973638225,12.494722757233959,-7.426130722410562
+[03Apr2025 02:31:01.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> voy al baño
