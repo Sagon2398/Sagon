@@ -2254,3 +2254,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Apr2025 01:55:04.392] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
 [03Apr2025 02:00:38.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has made the advancement [Birds of a Feather]
 [03Apr2025 02:03:25.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has reached the goal [Heliomancer]
+[03Apr2025 02:05:47.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nacho_cgod moved too quickly! -5.390080280509665,0.6290022624035885,9.40478136362185
+[03Apr2025 02:06:41.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has completed the challenge [Praise the Sun]
+[03Apr2025 02:06:59.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Teleported Santix15 to Nacho_cgod]
+[03Apr2025 02:07:29.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Teleported Santix15 to -613.500000, 79.500000, 4140.500000]
+[03Apr2025 02:13:43.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Teleported Nacho_cgod to Santix15]
