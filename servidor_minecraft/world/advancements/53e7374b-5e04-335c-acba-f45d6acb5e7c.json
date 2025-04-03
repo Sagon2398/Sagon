@@ -61,9 +61,11 @@
       "minecraft:deep_cold_ocean": "2025-03-31 02:41:52 +0000",
       "minecraft:ice_spikes": "2025-04-03 01:02:05 +0000",
       "minecraft:frozen_ocean": "2025-04-02 06:37:25 +0000",
+      "minecraft:desert": "2025-04-03 02:20:24 +0000",
       "minecraft:windswept_forest": "2025-03-31 02:41:09 +0000",
       "minecraft:deep_frozen_ocean": "2025-04-02 06:37:47 +0000",
       "minecraft:ocean": "2025-04-02 06:20:07 +0000",
+      "minecraft:jungle": "2025-04-03 02:18:02 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-03-31 02:40:45 +0000",
       "minecraft:snowy_beach": "2025-04-02 07:32:10 +0000",
       "minecraft:windswept_savanna": "2025-04-02 06:42:45 +0000",
@@ -6002,15 +6004,39 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
+    "criteria": {
+      "leafcutter_ant_pupa": "2025-04-03 02:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-03 02:15:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-04-03 01:56:59 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2025-04-03 02:15:04 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:suns_blessing": {
     "criteria": {
       "get_suns_blessing": "2025-04-03 02:03:25 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-04-03 02:20:03 +0000"
     },
     "done": true
   },
@@ -6035,6 +6061,12 @@
   "mowziesmobs:sneak_grove": {
     "criteria": {
       "steal_crystal": "2025-04-03 02:00:38 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2025-04-03 02:20:19 +0000"
     },
     "done": true
   },
