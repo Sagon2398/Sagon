@@ -6028,9 +6028,21 @@
     },
     "done": true
   },
+  "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
+    "criteria": {
+      "has_item": "2025-04-03 02:35:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-04-03 02:33:30 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/bone_cortical": {
+    "criteria": {
+      "has_item": "2025-04-03 02:35:39 +0000"
     },
     "done": true
   },
@@ -6055,6 +6067,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
     "criteria": {
       "has_smooth_sandstone": "2025-04-03 02:26:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-04-03 02:35:39 +0000"
     },
     "done": true
   },
@@ -6127,6 +6145,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-04-03 02:33:30 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/stacked_bones": {
+    "criteria": {
+      "has_item": "2025-04-03 02:35:39 +0000"
     },
     "done": true
   },
