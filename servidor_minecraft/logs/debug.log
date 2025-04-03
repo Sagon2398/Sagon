@@ -10299,3 +10299,64 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Apr2025 00:15:41.601] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03Apr2025 00:16:05.000] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
 [03Apr2025 00:16:06.499] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[03Apr2025 00:19:09.847] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_well_0
+[03Apr2025 00:19:09.854] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_hub_part_2
+[03Apr2025 00:19:09.857] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_corridor_1_spawner
+[03Apr2025 00:19:09.858] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_corridor_0_normal
+[03Apr2025 00:19:09.859] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_spawner_1
+[03Apr2025 00:19:09.865] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_hub_part_3
+[03Apr2025 00:19:09.867] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_spawner_0
+[03Apr2025 00:19:09.874] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_hub_part_1
+[03Apr2025 00:19:09.877] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_crossing_3
+[03Apr2025 00:19:09.878] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_crossing_1
+[03Apr2025 00:19:09.879] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_corridor_3_spawner
+[03Apr2025 00:19:09.884] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_hub_part_0
+[03Apr2025 00:19:09.886] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_spawner_2
+[03Apr2025 00:19:09.887] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_stairway_0
+[03Apr2025 00:19:09.888] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_crossing_2
+[03Apr2025 00:19:09.889] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_barrels_0
+[03Apr2025 00:19:09.889] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_barrels_1
+[03Apr2025 00:19:09.890] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_corridor_2_temptation
+[03Apr2025 00:19:09.891] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_treasure_0
+[03Apr2025 00:19:09.892] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_housing_0
+[03Apr2025 00:19:09.893] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_crossing_0
+[03Apr2025 00:20:41.590] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Apr2025 00:20:41.599] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Apr2025 00:21:39.606] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 2b5d8905-7ad6-4f25-b6a8-bc1bdd951896
+[03Apr2025 00:21:39.606] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 2b5d8905-7ad6-4f25-b6a8-bc1bdd951896
+[03Apr2025 00:21:39.606] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[03Apr2025 00:21:39.606] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[03Apr2025 00:21:39.606] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 2b5d8905-7ad6-4f25-b6a8-bc1bdd951896
+[03Apr2025 00:21:39.606] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 2b5d8905-7ad6-4f25-b6a8-bc1bdd951896
+[03Apr2025 00:21:39.606] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 2b5d8905-7ad6-4f25-b6a8-bc1bdd951896
+[03Apr2025 00:21:39.606] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 2b5d8905-7ad6-4f25-b6a8-bc1bdd951896
+[03Apr2025 00:21:39.606] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 2b5d8905-7ad6-4f25-b6a8-bc1bdd951896
+[03Apr2025 00:21:39.606] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 2b5d8905-7ad6-4f25-b6a8-bc1bdd951896
+[03Apr2025 00:23:54.642] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/82724, l='ServerLevel[world]', x=-5933.87, y=87.00, z=-965.48] died, message: 'Librarian was slain by Royal Draugr'
+[03Apr2025 00:24:05.801] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 5742e96d-847a-44e8-87d2-3c965c699873
+[03Apr2025 00:24:05.802] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 5742e96d-847a-44e8-87d2-3c965c699873
+[03Apr2025 00:24:05.802] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 5742e96d-847a-44e8-87d2-3c965c699873
+[03Apr2025 00:24:05.802] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 5742e96d-847a-44e8-87d2-3c965c699873
+[03Apr2025 00:24:05.802] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 5742e96d-847a-44e8-87d2-3c965c699873
+[03Apr2025 00:24:05.802] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 5742e96d-847a-44e8-87d2-3c965c699873
+[03Apr2025 00:24:05.802] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 5742e96d-847a-44e8-87d2-3c965c699873
+[03Apr2025 00:24:05.802] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 5742e96d-847a-44e8-87d2-3c965c699873
+[03Apr2025 00:24:05.802] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 5742e96d-847a-44e8-87d2-3c965c699873
+[03Apr2025 00:24:05.802] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 5742e96d-847a-44e8-87d2-3c965c699873
+[03Apr2025 00:24:34.434] [Worker-Main-151/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/small_decorations
+[03Apr2025 00:24:34.449] [Worker-Main-151/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/campsite
+[03Apr2025 00:24:34.452] [Worker-Main-151/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/mobs
+[03Apr2025 00:24:34.458] [Worker-Main-151/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/potato
+[03Apr2025 00:24:34.459] [Worker-Main-151/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/hay
+[03Apr2025 00:24:34.460] [Worker-Main-151/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/rock_2
+[03Apr2025 00:24:34.461] [Worker-Main-151/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/tower
+[03Apr2025 00:24:34.461] [Worker-Main-151/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/tent
+[03Apr2025 00:24:34.462] [Worker-Main-151/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/logs
+[03Apr2025 00:24:34.463] [Worker-Main-151/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/barrels
+[03Apr2025 00:24:34.464] [Worker-Main-151/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/villager_spawns/villager_mage is being run through DFU (hash 47aa8bbef5ab6f6e3817780d5d9d0a71fd2df2a1df24deacfee0b4d99e2bb767), this will cause launch time delays
+[03Apr2025 00:24:34.760] [Worker-Main-151/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Apr2025 00:25:41.592] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Apr2025 00:25:41.602] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Apr2025 00:26:19.602] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [b7e5eca9-5a00-3da7-ac51-8f51ef42decc]
+[03Apr2025 00:27:36.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has made the advancement [Super Creeps]
+[03Apr2025 00:27:46.436] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:chain_creeper 1: [33caa1ff-85f2-420e-9f6f-56db7b034482]
