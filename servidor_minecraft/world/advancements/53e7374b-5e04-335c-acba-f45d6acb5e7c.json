@@ -58,6 +58,7 @@
       "minecraft:cold_ocean": "2025-03-31 02:41:44 +0000",
       "minecraft:forest": "2025-03-30 21:12:12 +0000",
       "minecraft:deep_cold_ocean": "2025-03-31 02:41:52 +0000",
+      "minecraft:ice_spikes": "2025-04-03 01:02:05 +0000",
       "minecraft:frozen_ocean": "2025-04-02 06:37:25 +0000",
       "minecraft:windswept_forest": "2025-03-31 02:41:09 +0000",
       "minecraft:deep_frozen_ocean": "2025-04-02 06:37:47 +0000",
@@ -5934,6 +5935,12 @@
     },
     "done": true
   },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2025-04-03 00:51:13 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
     "criteria": {
       "has_pumpkin": "2025-04-03 00:53:56 +0000"
@@ -5958,9 +5965,33 @@
     },
     "done": true
   },
-  "minecraft:story/cure_zombie_villager": {
+  "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
-      "cured_zombie": "2025-04-03 00:51:13 +0000"
+      "has_blaze_powder": "2025-04-03 00:56:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-03 00:56:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-03 00:56:02 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2025-04-03 00:57:01 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-04-03 01:07:30 +0000"
     },
     "done": true
   },
