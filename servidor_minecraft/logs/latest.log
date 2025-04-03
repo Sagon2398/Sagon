@@ -234,3 +234,32 @@
 [03Apr2025 00:36:35.346] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 53e7374b-5e04-335c-acba-f45d6acb5e7c
 [03Apr2025 00:36:35.346] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nacho_cgod (53e7374b-5e04-335c-acba-f45d6acb5e7c) successfully connected to voice chat
 [03Apr2025 00:37:22.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Teleported Nacho_cgod to lobo3224]
+[03Apr2025 00:39:46.849] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 lost connection: Disconnected
+[03Apr2025 00:39:46.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 left the game
+[03Apr2025 00:39:46.849] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lobo3224
+[03Apr2025 00:45:25.053] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/103360, l='ServerLevel[world]', x=-5159.63, y=77.56, z=-978.28] died, message: 'Unemployed suffocated in a wall'
+[03Apr2025 00:46:24.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Teleported Santix15 to -1290.500000, 83.500000, 1722.500000]
+[03Apr2025 00:47:05.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> z
+[03Apr2025 00:47:05.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> z
+[03Apr2025 00:47:06.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> z
+[03Apr2025 00:47:06.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> z
+[03Apr2025 00:47:06.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> z
+[03Apr2025 00:47:06.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> z
+[03Apr2025 00:47:06.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> z
+[03Apr2025 00:47:07.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> z
+[03Apr2025 00:47:07.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> zz
+[03Apr2025 00:47:07.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> z
+[03Apr2025 00:47:08.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> z
+[03Apr2025 00:47:08.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> z
+[03Apr2025 00:47:08.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> z
+[03Apr2025 00:47:08.549] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nacho_cgod lost connection: Kicked for spamming
+[03Apr2025 00:47:08.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod left the game
+[03Apr2025 00:47:08.549] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nacho_cgod
+[03Apr2025 00:47:15.806] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nacho_cgod[/127.88.251.5:56465] logged in with entity id 104345 at (-5292.5, 71.0625, -905.5)
+[03Apr2025 00:47:15.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod joined the game
+[03Apr2025 00:47:15.815] [Server thread/INFO] [Jade/]: Syncing config to Nacho_cgod (53e7374b-5e04-335c-acba-f45d6acb5e7c)
+[03Apr2025 00:47:16.151] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nacho_cgod (18)
+[03Apr2025 00:47:16.151] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nacho_cgod
+[03Apr2025 00:47:17.953] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 53e7374b-5e04-335c-acba-f45d6acb5e7c
+[03Apr2025 00:47:18.946] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 53e7374b-5e04-335c-acba-f45d6acb5e7c
+[03Apr2025 00:47:18.946] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nacho_cgod (53e7374b-5e04-335c-acba-f45d6acb5e7c) successfully connected to voice chat
