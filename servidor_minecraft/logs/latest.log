@@ -206,3 +206,31 @@
 [03Apr2025 00:23:54.642] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/82724, l='ServerLevel[world]', x=-5933.87, y=87.00, z=-965.48] died, message: 'Librarian was slain by Royal Draugr'
 [03Apr2025 00:24:34.760] [Worker-Main-151/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [03Apr2025 00:27:36.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has made the advancement [Super Creeps]
+[03Apr2025 00:29:18.200] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/96475, l='ServerLevel[world]', x=-5762.44, y=79.01, z=-898.61] died: Dinnerbone was shot by Dinnerbone
+[03Apr2025 00:29:21.201] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/96476, l='ServerLevel[world]', x=-5764.10, y=79.01, z=-900.76] died: Dinnerbone was slain by Nacho_cgod
+[03Apr2025 00:29:23.746] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/96297, l='ServerLevel[world]', x=-5764.53, y=79.01, z=-903.70] died: Dinnerbone was burnt to a crisp whilst fighting lobo3224
+[03Apr2025 00:29:29.648] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/96692, l='ServerLevel[world]', x=-5776.70, y=87.01, z=-899.70] died: Dinnerbone was burnt to a crisp whilst fighting lobo3224
+[03Apr2025 00:29:49.699] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/96298, l='ServerLevel[world]', x=-5766.35, y=87.01, z=-901.11] died: Dinnerbone was shot by Dinnerbone
+[03Apr2025 00:30:11.400] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/96184, l='ServerLevel[world]', x=-5751.70, y=87.01, z=-914.70] died: Dinnerbone was shot by Dinnerbone
+[03Apr2025 00:30:11.799] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/96186, l='ServerLevel[world]', x=-5744.15, y=87.01, z=-907.60] died: Dinnerbone was shot by Dinnerbone
+[03Apr2025 00:30:31.351] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/96185, l='ServerLevel[world]', x=-5747.99, y=87.01, z=-910.45] died: Dinnerbone was shot by Dinnerbone
+[03Apr2025 00:31:04.095] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/96440, l='ServerLevel[world]', x=-5743.92, y=87.01, z=-909.31] died: Dinnerbone was burnt to a crisp whilst fighting Nacho_cgod
+[03Apr2025 00:31:08.755] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/96439, l='ServerLevel[world]', x=-5743.59, y=87.01, z=-909.91] died: Dinnerbone was slain by lobo3224
+[03Apr2025 00:33:00.900] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/97033, l='ServerLevel[world]', x=-5758.38, y=95.01, z=-907.16] died: Dinnerbone was shot by Dinnerbone
+[03Apr2025 00:35:57.400] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/98551, l='ServerLevel[world]', x=-5747.66, y=187.01, z=-926.70] died: Dinnerbone was shot by lobo3224
+[03Apr2025 00:35:59.802] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/98552, l='ServerLevel[world]', x=-5746.30, y=189.01, z=-922.70] died: Dinnerbone was shot by lobo3224
+[03Apr2025 00:36:28.716] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 53e7374b-5e04-335c-acba-f45d6acb5e7c timed out
+[03Apr2025 00:36:28.716] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Nacho_cgod
+[03Apr2025 00:36:28.716] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Nacho_cgod
+[03Apr2025 00:36:30.500] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nacho_cgod lost connection: You logged in from another location
+[03Apr2025 00:36:30.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod left the game
+[03Apr2025 00:36:30.500] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nacho_cgod
+[03Apr2025 00:36:30.511] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nacho_cgod[/127.88.251.5:32849] logged in with entity id 99402 at (-5751.405903455115, 171.0, -893.5307180687889)
+[03Apr2025 00:36:30.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod joined the game
+[03Apr2025 00:36:30.560] [Server thread/INFO] [Jade/]: Syncing config to Nacho_cgod (53e7374b-5e04-335c-acba-f45d6acb5e7c)
+[03Apr2025 00:36:30.770] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nacho_cgod (18)
+[03Apr2025 00:36:30.771] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nacho_cgod
+[03Apr2025 00:36:34.336] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 53e7374b-5e04-335c-acba-f45d6acb5e7c
+[03Apr2025 00:36:35.346] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 53e7374b-5e04-335c-acba-f45d6acb5e7c
+[03Apr2025 00:36:35.346] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nacho_cgod (53e7374b-5e04-335c-acba-f45d6acb5e7c) successfully connected to voice chat
+[03Apr2025 00:37:22.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Teleported Nacho_cgod to lobo3224]

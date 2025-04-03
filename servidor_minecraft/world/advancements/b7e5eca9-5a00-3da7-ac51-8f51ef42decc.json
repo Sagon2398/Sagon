@@ -688,6 +688,7 @@
       "minecraft:phantom": "2025-03-31 01:11:20 +0000",
       "minecraft:wither_skeleton": "2025-03-31 01:18:51 +0000",
       "minecraft:husk": "2025-03-22 04:11:56 +0000",
+      "minecraft:cave_spider": "2025-04-03 00:32:53 +0000",
       "minecraft:piglin": "2025-03-24 03:36:15 +0000",
       "minecraft:enderman": "2025-04-02 02:26:47 +0000",
       "minecraft:zombie": "2025-03-22 03:32:11 +0000",
@@ -6431,6 +6432,12 @@
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-04-02 23:51:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-04-03 00:34:43 +0000"
     },
     "done": true
   },
