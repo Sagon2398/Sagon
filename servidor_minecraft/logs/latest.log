@@ -263,3 +263,11 @@
 [03Apr2025 00:47:17.953] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 53e7374b-5e04-335c-acba-f45d6acb5e7c
 [03Apr2025 00:47:18.946] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 53e7374b-5e04-335c-acba-f45d6acb5e7c
 [03Apr2025 00:47:18.946] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nacho_cgod (53e7374b-5e04-335c-acba-f45d6acb5e7c) successfully connected to voice chat
+[03Apr2025 00:49:14.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Teleported Santix15 to -3657.500000, 73.500000, -2644.500000]
+[03Apr2025 00:49:20.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Teleported Santix15 to -1290.500000, 83.500000, 1722.500000]
+[03Apr2025 00:51:13.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has reached the goal [Zombie Doctor]
+[03Apr2025 00:55:28.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 moved too quickly! -2.4704787136138293,-0.43135215243039227,14.855989788570014
+[03Apr2025 00:55:57.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Who is Cutting Onions?]
+[03Apr2025 00:57:01.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has made the advancement [Wingin' It]
+[03Apr2025 00:57:55.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Teleported Santix15 to Nacho_cgod]
+[03Apr2025 00:59:17.644] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/108408, l='ServerLevel[world]', x=-5216.85, y=72.00, z=-1007.15] died, message: 'Unemployed was slain by Zombie Villager'
