@@ -2197,3 +2197,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Apr2025 22:12:07.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Set own game mode to Creative Mode]
 [04Apr2025 22:13:16.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Set own game mode to Survival Mode]
 [04Apr2025 22:13:37.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: The difficulty has been set to Hard]
+[04Apr2025 22:18:12.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Teleported Santix15 to -1290.500000, 83.500000, 1722.500000]
+[04Apr2025 22:18:38.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> unit the chat
+[04Apr2025 22:25:07.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Teleported Santix15 to -1290.500000, 83.500000, 1722.500000]
