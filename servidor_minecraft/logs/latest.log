@@ -2194,3 +2194,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Apr2025 22:03:08.179] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
 [04Apr2025 22:03:09.180] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
 [04Apr2025 22:03:09.181] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
+[04Apr2025 22:12:07.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Set own game mode to Creative Mode]
+[04Apr2025 22:13:16.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Set own game mode to Survival Mode]
+[04Apr2025 22:13:37.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: The difficulty has been set to Hard]

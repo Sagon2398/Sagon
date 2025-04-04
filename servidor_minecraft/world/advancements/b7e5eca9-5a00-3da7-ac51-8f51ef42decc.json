@@ -6477,6 +6477,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-04-04 22:09:17 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/purple_stool": {
     "criteria": {
       "has_white_wool": "2025-04-04 21:56:57 +0000"
