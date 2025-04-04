@@ -2413,3 +2413,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Apr2025 23:18:48.710] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element irons_spellbooks:impaled_icebreaker took 15 ms
 [04Apr2025 23:22:53.979] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [04Apr2025 23:24:56.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has completed the challenge [Premium!]
+[04Apr2025 23:28:30.455] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element irons_spellbooks:impaled_icebreaker took 0 ms
+[04Apr2025 23:28:44.337] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_plains took 758 ms
+[04Apr2025 23:37:01.104] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/60953, l='ServerLevel[world]', x=-6949.50, y=39.00, z=1324.50] as it would cause deadlock

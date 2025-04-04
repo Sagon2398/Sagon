@@ -9362,6 +9362,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-04-04 23:28:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_slab": {
     "criteria": {
       "has_dark_prismarine": "2025-04-04 23:06:17 +0000"
@@ -9497,6 +9503,12 @@
   "supplementaries:recipes/gold_door": {
     "criteria": {
       "has_gold_ingot": "2025-04-04 23:05:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "supplementaries:straw": "2025-04-04 23:28:03 +0000"
     },
     "done": true
   },
