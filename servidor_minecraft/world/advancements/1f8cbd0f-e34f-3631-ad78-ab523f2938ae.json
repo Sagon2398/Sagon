@@ -9897,6 +9897,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/checker": {
+    "criteria": {
+      "has_cobblestone": "2025-04-05 01:06:14 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_spruce": {
     "criteria": {
       "has_item": "2025-04-05 00:12:17 +0000"
@@ -9912,6 +9918,12 @@
   "supplementaries:recipes/altimeter": {
     "criteria": {
       "has_redstone": "2025-04-05 00:56:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/dispenser_minecart": {
+    "criteria": {
+      "has_dispenser": "2025-04-05 01:08:37 +0000"
     },
     "done": true
   },
