@@ -2340,3 +2340,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Apr2025 02:59:19.266] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
 [05Apr2025 02:59:19.267] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
 [05Apr2025 02:59:57.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> unite al group
+[05Apr2025 03:06:56.580] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lobo3224[/127.243.59.141:50037] logged in with entity id 2732 at (-1856.7713655122047, 67.0, -151.32078372915248)
+[05Apr2025 03:06:56.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 joined the game
+[05Apr2025 03:06:56.665] [Server thread/INFO] [Jade/]: Syncing config to lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc)
+[05Apr2025 03:06:57.564] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lobo3224 (18)
+[05Apr2025 03:06:57.565] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lobo3224
+[05Apr2025 03:07:00.715] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[05Apr2025 03:07:01.707] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[05Apr2025 03:07:01.708] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc) successfully connected to voice chat
+[05Apr2025 03:08:47.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> gonciii
+[05Apr2025 03:08:51.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> unite al group

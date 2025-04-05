@@ -8668,6 +8668,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-04-05 01:46:35 +0000"
+    },
+    "done": true
+  },
+  "backpacked:recipes/misc/backpack": {
+    "criteria": {
+      "has_hide": "2025-04-05 01:46:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-04-05 01:46:35 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed": "2025-04-05 01:46:53 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_kitchen_drawer": {
     "criteria": {
       "has_oak_planks": "2025-04-05 01:48:10 +0000"
@@ -8683,24 +8707,6 @@
   "refurbished_furniture:recipes/misc/constructing/oak_drawer": {
     "criteria": {
       "has_oak_planks": "2025-04-05 01:48:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
-    "criteria": {
-      "has_cooked_rabbit": "2025-04-05 01:46:35 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/redstone_illuminator": {
-    "criteria": {
-      "has_redstone": "2025-04-05 02:03:25 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
-    "criteria": {
-      "has_stone": "2025-04-05 01:48:35 +0000"
     },
     "done": true
   },
@@ -8734,18 +8740,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/stone_lamp": {
-    "criteria": {
-      "has_stone": "2025-04-05 01:48:35 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/rattlesnake": {
-    "criteria": {
-      "killed": "2025-04-05 01:46:53 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/oak_mail_box": {
     "criteria": {
       "has_oak_planks": "2025-04-05 01:48:10 +0000"
@@ -8758,21 +8752,21 @@
     },
     "done": true
   },
-  "backpacked:recipes/misc/backpack": {
+  "refurbished_furniture:recipes/misc/constructing/oak_table": {
     "criteria": {
-      "has_hide": "2025-04-05 01:46:35 +0000"
+      "has_oak_planks": "2025-04-05 01:48:10 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+  "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
     "criteria": {
-      "has_spider_eye": "2025-04-05 01:55:59 +0000"
+      "has_stone": "2025-04-05 01:48:35 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/sconce_lever": {
+  "supplementaries:recipes/stone_lamp": {
     "criteria": {
-      "has_redstone": "2025-04-05 02:03:25 +0000"
+      "has_stone": "2025-04-05 01:48:35 +0000"
     },
     "done": true
   },
@@ -8782,15 +8776,21 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/oak_table": {
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
     "criteria": {
-      "has_oak_planks": "2025-04-05 01:48:10 +0000"
+      "has_spider_eye": "2025-04-05 01:55:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+  "supplementaries:recipes/redstone_illuminator": {
     "criteria": {
-      "has_cooked_rabbit": "2025-04-05 01:46:35 +0000"
+      "has_redstone": "2025-04-05 02:03:25 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_lever": {
+    "criteria": {
+      "has_redstone": "2025-04-05 02:03:25 +0000"
     },
     "done": true
   },
