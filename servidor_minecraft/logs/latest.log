@@ -2322,3 +2322,21 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
   "<partial numeric data>",
   "[-89, 119, 51, -47, -40, -108, -80, 8, 13, 121, 13]"
 ]
+[05Apr2025 02:55:29.936] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nacho_cgod[/127.106.10.251:48433] logged in with entity id 102 at (-1870.0070121583367, 65.5, -175.57522309927612)
+[05Apr2025 02:55:30.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod joined the game
+[05Apr2025 02:55:30.436] [Server thread/INFO] [Jade/]: Syncing config to Nacho_cgod (53e7374b-5e04-335c-acba-f45d6acb5e7c)
+[05Apr2025 02:55:36.212] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nacho_cgod (18)
+[05Apr2025 02:55:36.214] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nacho_cgod
+[05Apr2025 02:55:36.225] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6287ms or 125 ticks behind
+[05Apr2025 02:55:36.724] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 53e7374b-5e04-335c-acba-f45d6acb5e7c
+[05Apr2025 02:55:37.723] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 53e7374b-5e04-335c-acba-f45d6acb5e7c
+[05Apr2025 02:55:37.727] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nacho_cgod (53e7374b-5e04-335c-acba-f45d6acb5e7c) successfully connected to voice chat
+[05Apr2025 02:59:12.944] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santix15[/127.169.159.205:36463] logged in with entity id 993 at (-1860.4408681316017, 68.0, -158.01763853600863)
+[05Apr2025 02:59:12.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 joined the game
+[05Apr2025 02:59:13.068] [Server thread/INFO] [Jade/]: Syncing config to Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae)
+[05Apr2025 02:59:14.019] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santix15 (18)
+[05Apr2025 02:59:14.019] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[05Apr2025 02:59:18.264] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[05Apr2025 02:59:19.266] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[05Apr2025 02:59:19.267] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
+[05Apr2025 02:59:57.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> unite al group
