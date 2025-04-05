@@ -8359,3 +8359,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Apr2025 03:21:55.403] [Server thread/DEBUG] [mixin/]: Mixing TagsProviderForgeMixin from puzzleslib.forge.mixins.json into net.minecraft.data.tags.TagsProvider
 [05Apr2025 03:23:46.103] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityExplosionBehaviorMixin from lithium.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
 [05Apr2025 03:23:46.103] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:alloc.explosion_behavior.EntityExplosionBehaviorMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[05Apr2025 03:24:20.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Teleported Nacho_cgod to Santix15]
+[05Apr2025 03:24:25.248] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 03:24:25.263] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 03:27:02.908] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:chain_creeper 1: [b7e5eca9-5a00-3da7-ac51-8f51ef42decc]
+[05Apr2025 03:27:29.250] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[05Apr2025 03:27:29.250] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[05Apr2025 03:27:29.250] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[05Apr2025 03:28:05.795] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:firefly_swarm 1: [b7e5eca9-5a00-3da7-ac51-8f51ef42decc]
+[05Apr2025 03:28:09.446] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:firefly_swarm 1: [53e7374b-5e04-335c-acba-f45d6acb5e7c]
+[05Apr2025 03:28:12.197] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:firefly_swarm 1: [53e7374b-5e04-335c-acba-f45d6acb5e7c]
+[05Apr2025 03:29:25.250] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 03:29:25.263] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
