@@ -10011,6 +10011,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-04-05 04:06:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flute": {
+    "criteria": {
+      "has_bamboo": "2025-04-05 04:06:56 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-04-05 03:42:03 +0000"

@@ -8800,6 +8800,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_fort": {
+    "criteria": {
+      "location0": "2025-04-05 04:10:22 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/globe_sepia": {
     "criteria": {
       "has_antique_ink": "2025-04-05 03:19:47 +0000"

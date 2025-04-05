@@ -1756,6 +1756,7 @@
       "minecraft:hoglin": "2025-04-02 21:51:04 +0000",
       "minecraft:vindicator": "2025-03-31 02:54:23 +0000",
       "minecraft:spider": "2025-03-31 02:46:46 +0000",
+      "minecraft:creeper": "2025-04-05 04:00:44 +0000",
       "minecraft:phantom": "2025-04-02 01:53:28 +0000",
       "minecraft:zombified_piglin": "2025-04-02 05:37:37 +0000",
       "minecraft:wither_skeleton": "2025-03-31 03:10:58 +0000",
@@ -6791,6 +6792,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-04-05 03:54:44 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/planter_rich": {
     "criteria": {
       "has_bone_meal": "2025-04-05 03:30:15 +0000"
@@ -7100,6 +7107,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_magenta": {
     "criteria": {
       "has_iron_ingot": "2025-04-05 03:23:34 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2025-04-05 04:00:51 +0000"
     },
     "done": true
   },
@@ -7712,6 +7725,12 @@
   "refurbished_furniture:recipes/misc/constructing/brown_grill": {
     "criteria": {
       "has_iron_ingot": "2025-04-05 03:23:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-04-05 03:54:44 +0000"
     },
     "done": true
   },

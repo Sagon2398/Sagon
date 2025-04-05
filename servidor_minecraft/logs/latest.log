@@ -2479,3 +2479,21 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Apr2025 03:52:03.606] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1738, y=73, z=-325} BlockPos{x=-1739, y=72, z=-325}
 [05Apr2025 03:52:03.633] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1738, y=73, z=-325} BlockPos{x=-1739, y=72, z=-325}
 [05Apr2025 03:54:14.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: The difficulty has been set to Hard]
+[05Apr2025 03:59:37.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> GOD CAN YOU GIVE ME A CARBON MINERAL PLZ?
+[05Apr2025 04:01:44.173] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element irons_spellbooks:evoker_fort took 0 ms
+[05Apr2025 04:03:48.277] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[05Apr2025 04:03:48.278] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[05Apr2025 04:03:48.278] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[05Apr2025 04:03:48.279] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[05Apr2025 04:03:48.279] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[05Apr2025 04:03:51.670] [Worker-Main-60/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[05Apr2025 04:03:51.670] [Worker-Main-60/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[05Apr2025 04:07:09.893] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05Apr2025 04:07:09.893] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05Apr2025 04:07:09.893] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element irons_spellbooks:evoker_fort took 37 ms
+[05Apr2025 04:09:25.954] [Worker-Main-61/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
+[05Apr2025 04:09:25.955] [Worker-Main-61/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
+[05Apr2025 04:09:25.955] [Worker-Main-61/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
+[05Apr2025 04:09:25.967] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[05Apr2025 04:09:25.967] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[05Apr2025 04:09:29.148] [Worker-Main-61/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}

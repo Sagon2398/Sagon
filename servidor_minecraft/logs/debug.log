@@ -8529,3 +8529,241 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Apr2025 03:54:14.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: The difficulty has been set to Hard]
 [05Apr2025 03:54:25.269] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Apr2025 03:54:25.284] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 03:59:25.251] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 03:59:25.264] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 03:59:37.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> GOD CAN YOU GIVE ME A CARBON MINERAL PLZ?
+[05Apr2025 04:01:14.781] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[05Apr2025 04:01:17.326] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:frostmaw_spawn
+[05Apr2025 04:01:32.202] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/catacombs_origin
+[05Apr2025 04:01:32.206] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_straight_trapped
+[05Apr2025 04:01:32.207] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_tee_1
+[05Apr2025 04:01:32.208] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_tee_2
+[05Apr2025 04:01:32.209] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/hallway_connector
+[05Apr2025 04:01:32.210] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_1
+[05Apr2025 04:01:32.211] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_spiral_stairs
+[05Apr2025 04:01:32.212] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_arch
+[05Apr2025 04:01:32.213] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_1
+[05Apr2025 04:01:32.213] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_spawner_1
+[05Apr2025 04:01:32.214] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_2
+[05Apr2025 04:01:32.215] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/crypt_2
+[05Apr2025 04:01:32.216] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_2
+[05Apr2025 04:01:32.217] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/double_storage
+[05Apr2025 04:01:32.218] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/trap_pitfall
+[05Apr2025 04:01:32.221] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/balcony
+[05Apr2025 04:01:32.222] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/armorstand
+[05Apr2025 04:01:32.223] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_3
+[05Apr2025 04:01:32.224] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/crypt_1
+[05Apr2025 04:01:32.226] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dropdown_hallway
+[05Apr2025 04:01:32.227] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/study_platform
+[05Apr2025 04:01:32.228] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/reception
+[05Apr2025 04:01:32.229] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_turn_1
+[05Apr2025 04:01:32.230] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/trap_jail
+[05Apr2025 04:01:32.231] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/boiler
+[05Apr2025 04:01:32.234] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/ravager_prison
+[05Apr2025 04:01:32.235] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_hallway_wall
+[05Apr2025 04:01:32.236] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_room_wall
+[05Apr2025 04:01:44.173] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element irons_spellbooks:evoker_fort took 0 ms
+[05Apr2025 04:01:50.254] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[05Apr2025 04:02:30.148] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/tower
+[05Apr2025 04:02:30.152] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/staircase
+[05Apr2025 04:02:30.155] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/basement
+[05Apr2025 04:02:30.158] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/stairway
+[05Apr2025 04:02:30.159] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/junction
+[05Apr2025 04:02:30.160] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_dead_end
+[05Apr2025 04:02:30.161] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_dead_end_2
+[05Apr2025 04:02:30.162] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/cracked_wall_opening
+[05Apr2025 04:02:30.163] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/dual_storage
+[05Apr2025 04:02:30.904] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[05Apr2025 04:02:50.887] [Worker-Main-61/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[05Apr2025 04:03:12.184] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[05Apr2025 04:03:12.198] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[05Apr2025 04:03:12.204] [Worker-Main-42/DEBUG] [mixin/]: Mixing StructurePlacementLogging from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[05Apr2025 04:03:12.204] [Worker-Main-42/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[05Apr2025 04:03:12.220] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_1
+[05Apr2025 04:03:12.241] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[05Apr2025 04:03:12.256] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[05Apr2025 04:03:12.271] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[05Apr2025 04:03:12.294] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[05Apr2025 04:03:12.318] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_5
+[05Apr2025 04:03:12.341] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_0
+[05Apr2025 04:03:12.365] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
+[05Apr2025 04:03:48.277] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[05Apr2025 04:03:48.278] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[05Apr2025 04:03:48.278] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[05Apr2025 04:03:48.279] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[05Apr2025 04:03:48.279] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[05Apr2025 04:03:51.670] [Worker-Main-60/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[05Apr2025 04:03:51.670] [Worker-Main-60/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[05Apr2025 04:04:23.336] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_straight_2
+[05Apr2025 04:04:23.340] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_zigzag
+[05Apr2025 04:04:23.369] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_2
+[05Apr2025 04:04:23.371] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_1
+[05Apr2025 04:04:23.372] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/wall_crypt
+[05Apr2025 04:04:25.258] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 04:04:25.271] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 04:04:35.072] [Worker-Main-60/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:impaled_icebreaker
+[05Apr2025 04:04:44.069] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[05Apr2025 04:04:44.079] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_2
+[05Apr2025 04:04:49.424] [Worker-Main-60/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-5730, y=-20, z=-1976}
+[05Apr2025 04:04:49.425] [Worker-Main-60/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-5731, y=-20, z=-1965}
+[05Apr2025 04:04:50.307] [Worker-Main-60/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-5730, y=-20, z=-1976}
+[05Apr2025 04:04:50.343] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[05Apr2025 04:04:52.063] [Worker-Main-60/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-5730, y=-20, z=-1976}
+[05Apr2025 04:04:52.064] [Worker-Main-60/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-5731, y=-20, z=-1965}
+[05Apr2025 04:04:55.361] [Worker-Main-61/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-5742, y=-27, z=-2015}
+[05Apr2025 04:04:55.656] [Worker-Main-42/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-5742, y=-27, z=-2015}
+[05Apr2025 04:06:12.189] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_3
+[05Apr2025 04:07:09.876] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/campsite
+[05Apr2025 04:07:09.882] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/rock_2
+[05Apr2025 04:07:09.884] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/small_decorations
+[05Apr2025 04:07:09.886] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/gallows
+[05Apr2025 04:07:09.888] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/mobs
+[05Apr2025 04:07:09.889] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/rock_1
+[05Apr2025 04:07:09.890] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/tent
+[05Apr2025 04:07:09.890] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/barrels
+[05Apr2025 04:07:09.891] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/tower
+[05Apr2025 04:07:09.893] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05Apr2025 04:07:09.893] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05Apr2025 04:07:09.893] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element irons_spellbooks:evoker_fort took 37 ms
+[05Apr2025 04:07:43.576] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[05Apr2025 04:07:43.587] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[05Apr2025 04:08:44.278] [Worker-Main-61/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[05Apr2025 04:08:44.298] [Worker-Main-61/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_1
+[05Apr2025 04:09:25.368] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 04:09:25.382] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 04:09:25.954] [Worker-Main-61/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
+[05Apr2025 04:09:25.955] [Worker-Main-61/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
+[05Apr2025 04:09:25.955] [Worker-Main-61/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
+[05Apr2025 04:09:25.967] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[05Apr2025 04:09:25.967] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[05Apr2025 04:09:29.148] [Worker-Main-61/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[05Apr2025 04:09:29.870] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_3
+[05Apr2025 04:09:29.874] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_room_6
+[05Apr2025 04:09:29.875] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_vindicator_0
+[05Apr2025 04:09:29.875] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_illusioner_0
+[05Apr2025 04:09:29.876] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_room_8
+[05Apr2025 04:09:29.879] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_2
+[05Apr2025 04:09:29.886] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_0
+[05Apr2025 04:09:29.889] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_room_1
+[05Apr2025 04:09:29.890] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_6
+[05Apr2025 04:09:29.890] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_pillager_0
+[05Apr2025 04:09:29.891] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_evoker_0
+[05Apr2025 04:09:29.897] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_1
+[05Apr2025 04:09:29.898] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_7
+[05Apr2025 04:09:29.899] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_room_7
+[05Apr2025 04:09:29.901] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_room_5
+[05Apr2025 04:09:29.902] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_room_2
+[05Apr2025 04:09:29.904] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_4
+[05Apr2025 04:09:29.905] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_room_4
+[05Apr2025 04:09:29.907] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_room_0
+[05Apr2025 04:09:29.908] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_5
+[05Apr2025 04:09:47.325] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:priest_house_taiga
+[05Apr2025 04:10:06.725] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[05Apr2025 04:10:06.726] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/illusioner_normal_0
+[05Apr2025 04:10:06.726] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_1
+[05Apr2025 04:10:06.727] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_1
+[05Apr2025 04:10:06.732] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_0
+[05Apr2025 04:10:06.733] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_entrance
+[05Apr2025 04:10:06.761] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_2
+[05Apr2025 04:10:06.768] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_0
+[05Apr2025 04:10:06.793] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_1
+[05Apr2025 04:10:21.105] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_straight
+[05Apr2025 04:10:50.112] [Worker-Main-42/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1008, y=-2, z=-3113}
+[05Apr2025 04:10:50.112] [Worker-Main-42/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1007, y=-2, z=-3123}
+[05Apr2025 04:10:50.131] [Worker-Main-61/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1008, y=-2, z=-3113}
+[05Apr2025 04:10:50.131] [Worker-Main-61/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1013, y=-16, z=-3114}
+[05Apr2025 04:10:51.723] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1000, y=-2, z=-3131}
+[05Apr2025 04:10:51.724] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1008, y=-2, z=-3113}
+[05Apr2025 04:10:51.724] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1007, y=-2, z=-3123}
+[05Apr2025 04:10:51.738] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-981, y=-2, z=-3138}
+[05Apr2025 04:10:51.854] [Worker-Main-61/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1000, y=-2, z=-3131}
+[05Apr2025 04:10:51.855] [Worker-Main-61/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1008, y=-2, z=-3113}
+[05Apr2025 04:10:51.855] [Worker-Main-61/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1013, y=-16, z=-3114}
+[05Apr2025 04:10:55.911] [Worker-Main-61/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1044, y=-2, z=-3159}
+[05Apr2025 04:10:55.912] [Worker-Main-61/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1045, y=5, z=-3149}
+[05Apr2025 04:10:55.917] [Worker-Main-61/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1044, y=-2, z=-3159}
+[05Apr2025 04:10:56.012] [Worker-Main-60/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-982, y=-2, z=-3143}
+[05Apr2025 04:10:56.013] [Worker-Main-60/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-981, y=-2, z=-3138}
+[05Apr2025 04:10:56.013] [Worker-Main-60/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-992, y=-2, z=-3144}
+[05Apr2025 04:10:56.019] [Worker-Main-42/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1024, y=-2, z=-3152}
+[05Apr2025 04:10:56.022] [Worker-Main-42/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1000, y=-2, z=-3131}
+[05Apr2025 04:10:56.023] [Worker-Main-42/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-982, y=-2, z=-3143}
+[05Apr2025 04:10:56.027] [Worker-Main-42/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1024, y=-2, z=-3152}
+[05Apr2025 04:10:56.030] [Worker-Main-42/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1000, y=-2, z=-3131}
+[05Apr2025 04:10:56.119] [Worker-Main-61/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-966, y=-3, z=-3153}
+[05Apr2025 04:10:57.596] [Worker-Main-61/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1045, y=5, z=-3149}
+[05Apr2025 04:11:03.703] [Worker-Main-60/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-976, y=-2, z=-3167}
+[05Apr2025 04:11:03.703] [Worker-Main-60/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-965, y=11, z=-3158}
+[05Apr2025 04:11:03.704] [Worker-Main-60/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-966, y=-3, z=-3153}
+[05Apr2025 04:11:03.704] [Worker-Main-60/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-976, y=11, z=-3159}
+[05Apr2025 04:11:03.713] [Worker-Main-42/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-983, y=-2, z=-3166}
+[05Apr2025 04:11:03.713] [Worker-Main-42/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-983, y=11, z=-3154}
+[05Apr2025 04:11:03.713] [Worker-Main-42/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-976, y=-2, z=-3167}
+[05Apr2025 04:11:03.714] [Worker-Main-42/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-965, y=11, z=-3158}
+[05Apr2025 04:11:17.229] [Worker-Main-61/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1024, y=-2, z=-3152}
+[05Apr2025 04:11:17.233] [Worker-Main-61/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-983, y=-2, z=-3166}
+[05Apr2025 04:11:17.234] [Worker-Main-61/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-983, y=11, z=-3154}
+[05Apr2025 04:11:17.461] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1024, y=-2, z=-3152}
+[05Apr2025 04:11:17.468] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1025, y=-2, z=-3160}
+[05Apr2025 04:11:17.468] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1044, y=-2, z=-3159}
+[05Apr2025 04:11:17.475] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1044, y=-2, z=-3159}
+[05Apr2025 04:11:17.475] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1045, y=5, z=-3149}
+[05Apr2025 04:11:17.483] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1045, y=5, z=-3149}
+[05Apr2025 04:11:17.911] [Worker-Main-61/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[05Apr2025 04:11:19.963] [Worker-Main-26/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-958, y=-2, z=-3185}
+[05Apr2025 04:11:19.981] [Worker-Main-26/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-976, y=-2, z=-3167}
+[05Apr2025 04:11:19.982] [Worker-Main-26/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-975, y=-2, z=-3182}
+[05Apr2025 04:11:19.983] [Worker-Main-26/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-958, y=-2, z=-3185}
+[05Apr2025 04:11:20.019] [Worker-Main-61/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-983, y=-2, z=-3166}
+[05Apr2025 04:11:20.019] [Worker-Main-61/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-976, y=-2, z=-3167}
+[05Apr2025 04:11:20.636] [Worker-Main-61/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1024, y=-2, z=-3152}
+[05Apr2025 04:11:20.641] [Worker-Main-61/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-983, y=-2, z=-3166}
+[05Apr2025 04:11:20.727] [Worker-Main-42/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1024, y=-2, z=-3152}
+[05Apr2025 04:11:20.740] [Worker-Main-42/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1025, y=-2, z=-3160}
+[05Apr2025 04:11:23.118] [Worker-Main-26/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-976, y=-2, z=-3167}
+[05Apr2025 04:11:23.119] [Worker-Main-26/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-958, y=-2, z=-3190}
+[05Apr2025 04:11:23.119] [Worker-Main-26/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-958, y=-2, z=-3185}
+[05Apr2025 04:11:23.119] [Worker-Main-26/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-969, y=-2, z=-3191}
+[05Apr2025 04:11:23.128] [Worker-Main-26/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-976, y=-2, z=-3167}
+[05Apr2025 04:11:23.139] [Worker-Main-26/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1024, y=-2, z=-3152}
+[05Apr2025 04:11:23.152] [Worker-Main-26/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1024, y=-2, z=-3152}
+[05Apr2025 04:11:23.393] [Worker-Main-26/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-958, y=-2, z=-3190}
+[05Apr2025 04:11:23.394] [Worker-Main-26/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-958, y=-2, z=-3185}
+[05Apr2025 04:11:23.394] [Worker-Main-26/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-969, y=-2, z=-3191}
+[05Apr2025 04:11:24.881] [Worker-Main-42/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1024, y=-2, z=-3152}
+[05Apr2025 04:11:24.894] [Worker-Main-42/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1024, y=-2, z=-3152}
+[05Apr2025 04:12:30.708] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_blaze_0
+[05Apr2025 04:12:30.709] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_0_stairway_exterior
+[05Apr2025 04:12:30.729] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_2
+[05Apr2025 04:12:30.749] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_4
+[05Apr2025 04:12:30.775] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_0
+[05Apr2025 04:12:30.801] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_3
+[05Apr2025 04:12:30.808] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_2_straight_exterior
+[05Apr2025 04:12:30.809] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_4
+[05Apr2025 04:12:30.810] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_0
+[05Apr2025 04:12:30.810] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_gear_1
+[05Apr2025 04:12:30.811] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_magma_1
+[05Apr2025 04:12:30.812] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_gear_0
+[05Apr2025 04:12:30.814] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_3_exterior_spawner
+[05Apr2025 04:12:30.816] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_6_chest
+[05Apr2025 04:12:30.817] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_1
+[05Apr2025 04:12:30.817] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_3
+[05Apr2025 04:12:30.818] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_0
+[05Apr2025 04:12:30.818] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_2
+[05Apr2025 04:12:30.818] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_1
+[05Apr2025 04:12:30.819] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_1
+[05Apr2025 04:12:30.819] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_5_blaze
+[05Apr2025 04:12:30.820] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_magma_0
+[05Apr2025 04:12:30.820] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_3
+[05Apr2025 04:12:30.848] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_4_door
+[05Apr2025 04:12:30.856] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_3
+[05Apr2025 04:12:30.857] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_piglin_0
+[05Apr2025 04:12:30.938] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_0
+[05Apr2025 04:12:30.948] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_terminator_1
+[05Apr2025 04:12:30.965] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_lava_pit_0
+[05Apr2025 04:12:30.970] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_2
+[05Apr2025 04:12:30.991] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_1
+[05Apr2025 04:12:30.997] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_2
+[05Apr2025 04:13:38.661] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:firefly_swarm 1: [eeda57c5-3ced-4764-afec-bae6e736e7d3]
+[05Apr2025 04:14:25.269] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 04:14:25.283] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
