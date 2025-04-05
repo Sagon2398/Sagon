@@ -6719,6 +6719,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-04-05 03:53:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_grill_cooking": {
     "criteria": {
       "has_rabbit": "2025-04-05 03:21:52 +0000"
@@ -6797,6 +6803,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-04-05 03:53:55 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_spruce": {
     "criteria": {
       "has_the_recipe": "2025-04-05 03:09:48 +0000"
@@ -6812,6 +6824,12 @@
   "refurbished_furniture:recipes/misc/constructing/lime_stool": {
     "criteria": {
       "has_planks": "2025-04-05 03:09:48 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-05 03:46:12 +0000"
     },
     "done": true
   },
@@ -6929,6 +6947,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-04-05 03:53:55 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-04-05 03:23:34 +0000"
@@ -7040,6 +7064,12 @@
   "refurbished_furniture:recipes/misc/constructing/cyan_stool": {
     "criteria": {
       "has_planks": "2025-04-05 03:09:48 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-05 03:46:12 +0000"
     },
     "done": true
   },
@@ -7448,6 +7478,12 @@
   "refurbished_furniture:recipes/misc/constructing/lime_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-04-05 03:23:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-04-05 03:53:55 +0000"
     },
     "done": true
   },
@@ -7943,6 +7979,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-04-05 03:53:55 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cyan_sofa": {
     "criteria": {
       "has_planks": "2025-04-05 03:09:48 +0000"
@@ -7952,6 +7994,12 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_cooler": {
     "criteria": {
       "has_planks": "2025-04-05 03:09:48 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-05 03:46:12 +0000"
     },
     "done": true
   },

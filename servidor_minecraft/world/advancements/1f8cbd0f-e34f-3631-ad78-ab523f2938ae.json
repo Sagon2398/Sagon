@@ -10065,6 +10065,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/globe_sepia": {
+    "criteria": {
+      "has_antique_ink": "2025-04-05 03:44:39 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/red_bath": {
     "criteria": {
       "has_red_dye": "2025-04-05 03:42:33 +0000"
@@ -10074,6 +10080,12 @@
   "refurbished_furniture:recipes/decorations/red_lamp_from_dyeing": {
     "criteria": {
       "has_dye": "2025-04-05 03:42:33 +0000"
+    },
+    "done": true
+  },
+  "backpacked:recipes/misc/backpack": {
+    "criteria": {
+      "has_hide": "2025-04-05 03:47:34 +0000"
     },
     "done": true
   },

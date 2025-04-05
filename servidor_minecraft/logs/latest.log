@@ -2452,3 +2452,30 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
   "<partial numeric data>",
   "[13, -24, 6, 39, 97, -3, -68, 37, -47, -55, 7]"
 ]
+[05Apr2025 03:46:51.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> zzzzzzzzzz
+[05Apr2025 03:46:52.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> z
+[05Apr2025 03:46:53.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> zzzz
+[05Apr2025 03:46:54.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> Z
+[05Apr2025 03:46:54.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> Z
+[05Apr2025 03:46:54.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> Z
+[05Apr2025 03:46:54.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> zzzzz
+[05Apr2025 03:46:54.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> Z
+[05Apr2025 03:46:54.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> Z
+[05Apr2025 03:46:54.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> Z
+[05Apr2025 03:46:56.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> z
+[05Apr2025 03:50:18.454] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[05Apr2025 03:51:37.538] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1739, y=75, z=-330} BlockPos{x=-1741, y=74, z=-331}
+[05Apr2025 03:52:03.250] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1738, y=73, z=-325} BlockPos{x=-1739, y=72, z=-325}
+[05Apr2025 03:52:03.251] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1738, y=73, z=-325} BlockPos{x=-1739, y=72, z=-325}
+[05Apr2025 03:52:03.251] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1738, y=73, z=-325} BlockPos{x=-1739, y=72, z=-325}
+[05Apr2025 03:52:03.252] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1738, y=73, z=-325} BlockPos{x=-1739, y=72, z=-325}
+[05Apr2025 03:52:03.252] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1738, y=73, z=-325} BlockPos{x=-1739, y=72, z=-325}
+[05Apr2025 03:52:03.265] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1738, y=73, z=-325} BlockPos{x=-1739, y=72, z=-325}
+[05Apr2025 03:52:03.329] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1738, y=73, z=-325} BlockPos{x=-1739, y=72, z=-325}
+[05Apr2025 03:52:03.365] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1738, y=73, z=-325} BlockPos{x=-1739, y=72, z=-325}
+[05Apr2025 03:52:03.417] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1738, y=73, z=-325} BlockPos{x=-1739, y=72, z=-325}
+[05Apr2025 03:52:03.469] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1738, y=73, z=-325} BlockPos{x=-1739, y=72, z=-325}
+[05Apr2025 03:52:03.513] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1738, y=73, z=-325} BlockPos{x=-1739, y=72, z=-325}
+[05Apr2025 03:52:03.606] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1738, y=73, z=-325} BlockPos{x=-1739, y=72, z=-325}
+[05Apr2025 03:52:03.633] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1738, y=73, z=-325} BlockPos{x=-1739, y=72, z=-325}
+[05Apr2025 03:54:14.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: The difficulty has been set to Hard]
