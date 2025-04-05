@@ -20,3 +20,14 @@
 [05Apr2025 00:35:53.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> teletrasnportado a -1290.500000, 83.500000, 1722.500000
 [05Apr2025 00:41:10.060] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_plains took 117 ms
 [05Apr2025 00:45:57.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Jaws]
+[05Apr2025 00:53:05.157] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_taiga took 18 ms
+[05Apr2025 00:58:39.545] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_plains took 11 ms
+[05Apr2025 00:59:12.906] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_snowy took 19 ms
+[05Apr2025 01:00:22.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Engineer Gaming]
+[05Apr2025 01:03:00.959] [Worker-Main-150/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/99275, l='ServerLevel[world]', x=-3755.50, y=49.00, z=-474.50] as it would cause deadlock
+[05Apr2025 01:03:53.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 moved too quickly! -20.65095908089961,0.0,6.905518644765749
+[05Apr2025 01:05:29.319] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_plains took 523 ms
+[05Apr2025 01:05:42.107] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_taiga took 9 ms
+[05Apr2025 01:08:23.734] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_plains took 5 ms
+[05Apr2025 01:08:46.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Teleported lobo3224 to -6351.500000, 90.000000, -1583.500000]
+[05Apr2025 01:08:46.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5203ms or 104 ticks behind
