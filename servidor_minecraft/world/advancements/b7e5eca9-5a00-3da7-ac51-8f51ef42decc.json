@@ -8301,6 +8301,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-04-05 00:43:22 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_stool": {
     "criteria": {
       "has_white_wool": "2025-04-04 21:56:57 +0000"

@@ -18,3 +18,5 @@
 [05Apr2025 00:34:04.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Teleported Santix15 to -1290.500000, 83.500000, 1722.500000]
 [05Apr2025 00:35:09.149] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_plains took 600 ms
 [05Apr2025 00:35:53.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> teletrasnportado a -1290.500000, 83.500000, 1722.500000
+[05Apr2025 00:41:10.060] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_plains took 117 ms
+[05Apr2025 00:45:57.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Jaws]
