@@ -3468,6 +3468,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sugar_cane": "2025-04-05 00:02:05 +0000",
       "wheat": "2025-03-24 03:20:55 +0000"
     },
     "done": false
@@ -7037,6 +7038,12 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_cabinetry": {
     "criteria": {
       "has_jungle_planks": "2025-04-04 23:06:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_bone_meal": "2025-04-05 00:01:50 +0000"
     },
     "done": true
   },
