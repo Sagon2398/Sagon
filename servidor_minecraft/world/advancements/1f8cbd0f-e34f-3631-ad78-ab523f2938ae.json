@@ -9987,6 +9987,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_hedge": {
+    "criteria": {
+      "has_spruce_leaves": "2025-04-05 04:22:36 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/red_kitchen_storage_cabinet_from_dyeing": {
     "criteria": {
       "has_dye": "2025-04-05 03:42:33 +0000"

@@ -701,6 +701,7 @@
       "minecraft:cave_spider": "2025-04-03 00:32:53 +0000",
       "minecraft:piglin": "2025-03-24 03:36:15 +0000",
       "minecraft:enderman": "2025-04-02 02:26:47 +0000",
+      "minecraft:vex": "2025-04-05 04:16:04 +0000",
       "minecraft:zombie": "2025-03-22 03:32:11 +0000",
       "minecraft:drowned": "2025-03-24 00:45:18 +0000"
     },
@@ -8800,6 +8801,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-05 04:15:35 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_illager_fort": {
     "criteria": {
       "location0": "2025-04-05 04:10:22 +0000"
@@ -8815,6 +8822,18 @@
   "supplementaries:recipes/sconce": {
     "criteria": {
       "has_torch": "2025-04-05 03:11:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:milk": "2025-04-05 04:17:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/cheese": {
+    "criteria": {
+      "has_milk": "2025-04-05 04:17:47 +0000"
     },
     "done": true
   },
